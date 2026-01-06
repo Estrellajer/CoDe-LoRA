@@ -1,0 +1,149 @@
+# O-LoRA Order 4 Experiment Configuration
+method: o-lora
+model_name: o-lora
+task_sequence: order4
+run_root: logs_and_outputs/order_4/outputs/O-lora
+
+model:
+  model_name_or_path: initial_model/t5-large
+  peft:
+    r: 8
+    lora_alpha: 32
+    lora_dropout: 0.1
+    target_modules: [q, v]
+
+train:
+  learning_rate: 1.0e-3
+  num_train_epochs: 10
+  per_device_train_batch_size: 16
+  per_device_eval_batch_size: 512
+  gradient_accumulation_steps: 1
+  lr_scheduler_type: constant
+  warmup_steps: 0
+  logging_strategy: steps
+  logging_steps: 100
+  evaluation_strategy: "no"
+  save_strategy: "no"
+  report_to: "none"
+  disable_tqdm: true
+  dataloader_num_workers: 0
+  remove_unused_columns: false
+  predict_with_generate: true
+  generation_max_length: 50
+  fp16: false
+  deepspeed:
+    bfloat16:
+      enabled: false
+    fp16:
+      enabled: false
+      loss_scale: 0
+      loss_scale_window: 1000
+      initial_scale_power: 16
+      hysteresis: 2
+      min_loss_scale: 1
+    optimizer:
+      type: "AdamW"
+      params:
+        lr: "auto"
+        betas: "auto"
+        eps: "auto"
+        weight_decay: "auto"
+    scheduler:
+      type: "WarmupLR"
+      params:
+        warmup_min_lr: "auto"
+        warmup_max_lr: "auto"
+        warmup_num_steps: "auto"
+    zero_optimization:
+      stage: 1
+      allgather_partitions: true
+      allgather_bucket_size: 200000000
+      overlap_comm: true
+      reduce_scatter: true
+      reduce_bucket_size: 200000000
+      contiguous_gradients: false
+    gradient_accumulation_steps: "auto"
+    gradient_clipping: "auto"
+    train_batch_size: "auto"
+    train_micro_batch_size_per_gpu: "auto"
+    steps_per_print: 100000
+  # O-LoRA specific
+  lamda_1: 0.5
+  lamda_2: 0.01
+
+data:
+  data_dir: CL_Benchmark
+  instruction_file: configs/instruction_config.json
+  instruction_strategy: single
+  max_source_length: 512
+  max_target_length: 50
+  add_task_name: true
+  add_dataset_name: true
+
+tasks:
+  - name: MNLI
+    dataset_path: CL_Benchmark/NLI/MNLI
+    extra:
+      task_config_dir: configs/order4_configs/MNLI
+  - name: CB
+    dataset_path: CL_Benchmark/NLI/CB
+    extra:
+      task_config_dir: configs/order4_configs/CB
+  - name: WiC
+    dataset_path: CL_Benchmark/WiC/WiC
+    extra:
+      task_config_dir: configs/order4_configs/WiC
+  - name: COPA
+    dataset_path: CL_Benchmark/COPA/COPA
+    extra:
+      task_config_dir: configs/order4_configs/COPA
+  - name: QQP
+    dataset_path: CL_Benchmark/QQP/QQP
+    extra:
+      task_config_dir: configs/order4_configs/QQP
+  - name: BoolQA
+    dataset_path: CL_Benchmark/BoolQA/BoolQA
+    extra:
+      task_config_dir: configs/order4_configs/BoolQA
+  - name: RTE
+    dataset_path: CL_Benchmark/NLI/RTE
+    extra:
+      task_config_dir: configs/order4_configs/RTE
+  - name: IMDB
+    dataset_path: CL_Benchmark/SC/IMDB
+    extra:
+      task_config_dir: configs/order4_configs/IMDB
+  - name: yelp
+    dataset_path: CL_Benchmark/SC/yelp
+    extra:
+      task_config_dir: configs/order4_configs/yelp
+  - name: amazon
+    dataset_path: CL_Benchmark/SC/amazon
+    extra:
+      task_config_dir: configs/order4_configs/amazon
+  - name: SST-2
+    dataset_path: CL_Benchmark/SC/SST-2
+    extra:
+      task_config_dir: configs/order4_configs/SST-2
+  - name: dbpedia
+    dataset_path: CL_Benchmark/TC/dbpedia
+    extra:
+      task_config_dir: configs/order4_configs/dbpedia
+  - name: agnews
+    dataset_path: CL_Benchmark/TC/agnews
+    extra:
+      task_config_dir: configs/order4_configs/agnews
+  - name: MultiRC
+    dataset_path: CL_Benchmark/MultiRC/MultiRC
+    extra:
+      task_config_dir: configs/order4_configs/MultiRC
+  - name: yahoo
+    dataset_path: CL_Benchmark/TC/yahoo
+    extra:
+      task_config_dir: configs/order4_configs/yahoo
+
+eval:
+  strategy: learned
+  metrics_map:
+    default: [exact_match]
+

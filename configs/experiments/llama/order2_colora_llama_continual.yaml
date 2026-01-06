@@ -1,0 +1,117 @@
+# Co-LoRA Order 2 Experiment Configuration (Llama 2-7B)
+
+method: co-lora
+model_name: co-lora
+task_sequence: order2
+run_root: logs_and_outputs_llama/order_2/outputs/Co-lora
+
+model:
+  model_name_or_path: initial_model/llama-2-7b
+  peft:
+    r: 8
+    lora_alpha: 32
+    lora_dropout: 0.1
+    target_modules: [q_proj, v_proj]
+
+train:
+  learning_rate: 1.0e-3
+  num_train_epochs: 10
+  per_device_train_batch_size: 16
+  per_device_eval_batch_size: 512
+  gradient_accumulation_steps: 1
+  lr_scheduler_type: constant
+  warmup_steps: 0
+  logging_strategy: steps
+  logging_steps: 100
+  evaluation_strategy: "no"
+  save_strategy: "no"
+  report_to: "none"
+  disable_tqdm: true
+  dataloader_num_workers: 0
+  remove_unused_columns: false
+  predict_with_generate: true
+  generation_max_length: 50
+  fp16: false
+  deepspeed:
+    bfloat16:
+      enabled: false
+    fp16:
+      enabled: false
+      loss_scale: 0
+      loss_scale_window: 1000
+      initial_scale_power: 16
+      hysteresis: 2
+      min_loss_scale: 1
+    optimizer:
+      type: "AdamW"
+      params:
+        lr: "auto"
+        betas: "auto"
+        eps: "auto"
+        weight_decay: "auto"
+    scheduler:
+      type: "WarmupLR"
+      params:
+        warmup_min_lr: "auto"
+        warmup_max_lr: "auto"
+        warmup_num_steps: "auto"
+    zero_optimization:
+      stage: 1
+      allgather_partitions: true
+      allgather_bucket_size: 200000000
+      overlap_comm: true
+      reduce_scatter: true
+      reduce_bucket_size: 200000000
+      contiguous_gradients: false
+    gradient_accumulation_steps: "auto"
+    gradient_clipping: "auto"
+    train_batch_size: "auto"
+    train_micro_batch_size_per_gpu: "auto"
+    steps_per_print: 100000
+  
+
+  colora:
+    save_intermediate: false
+    lambda_scale: 0.5
+    svd_rank: 32
+    shared_rank: 8
+    track_metrics: true
+    compute_total_norm: false
+
+    svd_method: lowrank
+    svd_niter: 1
+    sedimentation_device: auto
+    save_shared_state: false
+
+data:
+  data_dir: CL_Benchmark
+  instruction_file: configs/instruction_config.json
+  instruction_strategy: single
+  max_source_length: 512
+  max_target_length: 50
+  add_task_name: true
+  add_dataset_name: true
+
+tasks:
+  - name: dbpedia
+    dataset_path: CL_Benchmark/TC/dbpedia
+    extra:
+      task_config_dir: configs/order2_configs/dbpedia
+  - name: amazon
+    dataset_path: CL_Benchmark/SC/amazon
+    extra:
+      task_config_dir: configs/order2_configs/amazon
+  - name: agnews
+    dataset_path: CL_Benchmark/TC/agnews
+    extra:
+      task_config_dir: configs/order2_configs/agnews
+  - name: yahoo
+    dataset_path: CL_Benchmark/TC/yahoo
+    extra:
+      task_config_dir: configs/order2_configs/yahoo
+
+eval:
+  strategy: learned
+  metrics_map:
+    default: [exact_match]
+
