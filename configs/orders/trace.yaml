@@ -1,0 +1,13 @@
+# TRACE benchmark (8 tasks, official release revision 462e39f), see docs/DATA.md
+data:
+  root: ${CODELORA_TRACE}
+
+tasks:
+  - {name: C-STANCE, path: C-STANCE, adapter: trace}
+  - {name: FOMC, path: FOMC, adapter: trace}
+  - {name: MeetingBank, path: MeetingBank, adapter: trace}
+  - {name: Py150, path: Py150, adapter: trace}
+  - {name: ScienceQA, path: ScienceQA, adapter: trace}
+  - {name: NumGLUE-cm, path: NumGLUE-cm, adapter: trace}
+  - {name: NumGLUE-ds, path: NumGLUE-ds, adapter: trace}
+  - {name: 20Minuten, path: 20Minuten, adapter: trace}

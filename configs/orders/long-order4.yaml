@@ -1,0 +1,21 @@
+# Long-sequence benchmark, order4 (15 tasks)
+# Data: the repaired benchmark (python -m codelora.data.prepare), see docs/DATA.md
+data:
+  root: ${CODELORA_DATA}/CL_Benchmark_repaired
+
+tasks:
+  - {name: mnli, path: NLI/MNLI}
+  - {name: cb, path: NLI/CB}
+  - {name: wic, path: WiC/WiC}
+  - {name: copa, path: COPA/COPA}
+  - {name: qqp, path: QQP/QQP}
+  - {name: boolqa, path: BoolQA/BoolQA}
+  - {name: rte, path: NLI/RTE}
+  - {name: imdb, path: SC/IMDB}
+  - {name: yelp, path: SC/yelp}
+  - {name: amazon, path: SC/amazon}
+  - {name: sst2, path: SC/SST-2}
+  - {name: dbpedia, path: TC/dbpedia}
+  - {name: agnews, path: TC/agnews}
+  - {name: multirc, path: MultiRC/MultiRC}
+  - {name: yahoo, path: TC/yahoo}

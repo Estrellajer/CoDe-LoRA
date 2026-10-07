@@ -1,0 +1,6 @@
+# CPU smoke test on the offline tiny models of tests/tinylab.py (paths are filled in by the tests).
+seed: 41
+device: cpu
+data: {prompt_style: nlora_official, max_source_length: 96, max_target_length: 8}
+train: {lr: 2.0e-2, micro_batch_size: 6, grad_accum: 2, max_steps: 6, epochs: 1}
+eval: {batch_size: 5, embedding_batch_size: 7, matrix: diagonal_final}

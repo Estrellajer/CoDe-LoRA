@@ -1,0 +1,6 @@
+# Long sequence (order4-6) on llama2-7b: 1 epoch per task, effective batch 64 (global forward 32 x accumulation 2), bf16
+backbone: {name: llama2-7b, path: "${CODELORA_MODELS}/Llama-2-7b-hf"}
+data: {prompt_style: nlora_official, max_source_length: 512, max_target_length: 50}
+train: {lr: 1.0e-4, micro_batch_size: 32, grad_accum: 2, num_workers: 4}
+eval: {batch_size: 32, embedding_batch_size: 64, matrix: diagonal_final, sort_by_length: true}
+router: {kind: lda, threshold: 0.0, lda_samples: 1000, lda_shrinkage: 0.01, embedding_input: raw_source}

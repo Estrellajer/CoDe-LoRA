@@ -1,0 +1,6 @@
+method: code-lora
+lora: {dropout: 0.0}  # the fold into Co assumes a deterministic adapter
+# The final recipe: sqrt-scaled fold of the null-space-projected expert update (colora.scaling / colora.projection default),
+# PMI-calibrated Co/expert fusion on closed-label tasks (codelora/evaluation/fusion.py; open generation such as TRACE is
+# unaffected).  Ablations: `colora.scaling=additive`, `colora.projection=none`, fragment `evaluation/no-fusion`.
+fusion: {enabled: true, alphas: [0.0, 0.1, 0.25, 0.5, 1.0]}

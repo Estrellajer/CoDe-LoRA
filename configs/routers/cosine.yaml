@@ -1,0 +1,2 @@
+# Cosine prototype router (optional; the protocols default to the LDA router): expert iff cosine > 0.75, else the shared branch.
+router: {kind: cosine, threshold: 0.75, prototype_samples: 10, embedding_input: prompt}

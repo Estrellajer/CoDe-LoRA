@@ -1,0 +1,11 @@
+# Offline quickstart on the tiny models of tests/tinylab.py (python -m tests.tinylab lab); runs on a laptop CPU in seconds.
+defaults: [tiny/smoke]
+backbone: {name: t5-large, path: "${CODELORA_TINY:-lab}/t5"}
+lora: {target_modules: [q, v]}
+data: {root: "${CODELORA_TINY:-lab}/data"}
+tasks:
+  - {name: alpha, path: TC/alpha}
+  - {name: beta, path: SC/beta}
+  - {name: gamma, path: TC/gamma}
+router: {kind: lda, threshold: 0.0, embedding_input: raw_source, lda_samples: 30}
+mole: {memory_budget_per_task: 6, prototype_num_samples: 12}

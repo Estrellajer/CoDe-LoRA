@@ -1,0 +1,3 @@
+method: n-lora
+lora: {dropout: 0.1}
+nlora: {lambda_l1: 0.4, reduction: sum}

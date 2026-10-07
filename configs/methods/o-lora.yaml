@@ -1,0 +1,4 @@
+method: o-lora
+lora: {dropout: 0.1}
+# lambda_l2 = 0 is the official O-LoRA value.
+olora: {lambda_orth: 0.5, lambda_l2: 0.0}

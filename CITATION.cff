@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code or the CoDe-LoRA method, please cite the paper."
+title: "CoDe-LoRA"
+type: software
+version: "1.0.0"
+abstract: "Reference implementation of CoDe-LoRA (Consolidation and Decoupling LoRA) for continual learning of LLMs, with re-implementations of LoRA, O-LoRA, N-LoRA and MoLE-CIE in one framework."
+authors:
+  - family-names: "Liu"
+    given-names: "Maoqi"
+  - family-names: "Fang"
+    given-names: "Quan"
+  - family-names: "He"
+    given-names: "Yufei"
+repository-code: "https://github.com/Estrellajer/CoDe-LoRA"
+license: "Apache-2.0"
+keywords:
+  - continual learning
+  - LoRA
+  - parameter-efficient fine-tuning
+  - knowledge consolidation
+  - task routing
+preferred-citation:
+  type: article
+  title: "CoDe-LoRA: Mitigating the Orthogonality Dilemma in Continual Learning of LLMs via Knowledge Consolidation and Decoupling"
+  authors:
+    - family-names: "Liu"
+      given-names: "Maoqi"
+    - family-names: "Fang"
+      given-names: "Quan"
+    - family-names: "He"
+      given-names: "Yufei"
+  journal: "arXiv preprint arXiv:2610.08312"
+  year: 2026
+  url: "https://arxiv.org/abs/2610.08312"
+  notes: "Accepted to EMNLP 2026"

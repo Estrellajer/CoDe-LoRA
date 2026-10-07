@@ -1,0 +1,10 @@
+# Standard CL benchmark, order3: yahoo -> amazon -> agnews -> dbpedia
+# Data: the repaired benchmark (python -m codelora.data.prepare), see docs/DATA.md
+data:
+  root: ${CODELORA_DATA}/CL_Benchmark_repaired
+
+tasks:
+  - {name: yahoo, path: TC/yahoo}
+  - {name: amazon, path: SC/amazon}
+  - {name: agnews, path: TC/agnews}
+  - {name: dbpedia, path: TC/dbpedia}

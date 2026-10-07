@@ -1,0 +1,3 @@
+# Everything the analysis figures need from a single run (docs/RESULTS.md): the full accuracy matrix (AP-vs-tasks curves)
+# and forward transfer.  Evaluation costs up to T/2 times more than the default.
+eval: {matrix: full, forward_transfer: true}

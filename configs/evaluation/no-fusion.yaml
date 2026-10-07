@@ -1,0 +1,3 @@
+# CoDe-LoRA ablation: generate the routed expert's answer instead of the PMI-calibrated Co/expert label fusion
+# (methods/code-lora enables the fusion; list this fragment after it).
+fusion: {enabled: false}

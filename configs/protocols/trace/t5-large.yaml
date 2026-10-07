@@ -1,0 +1,10 @@
+# TRACE on t5-large: 1 epoch per task, effective batch 64 (global forward 8 x accumulation 8), bf16
+backbone: {name: t5-large, path: "${CODELORA_MODELS}/t5-large"}
+data: {prompt_style: plain, max_source_length: 1024, max_target_length: 256}
+train: {lr: 1.0e-3, micro_batch_size: 8, grad_accum: 8, num_workers: 4}
+eval: {batch_size: 16, embedding_batch_size: 16, matrix: diagonal_final, sort_by_length: true}
+router: {kind: lda, threshold: 0.0, lda_samples: 1000, lda_shrinkage: 0.01, embedding_input: raw_source}
+# T5-large: every method at lr 1e-3 except plain sequential LoRA, which collapses on Long (AP 40.7 +- 13.6 over 9 runs at 1e-3).
+per_method:
+  lora:
+    train: {lr: 1.0e-4}

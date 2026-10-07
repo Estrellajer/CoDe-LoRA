@@ -1,0 +1,2 @@
+method: de-lora
+lora: {dropout: 0.1}

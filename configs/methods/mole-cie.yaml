@@ -1,0 +1,20 @@
+method: mole-cie
+lora: {dropout: 0.1}  # unused: MoLE-CIE has its own experts
+mole:
+  num_experts: 8
+  rank: 8
+  top_k: 2
+  alpha: 0.75
+  beta: 0.25
+  lora_scale: 4.0
+  router_temperature: 1.0
+  task_key_temperature: 1.0
+  kd_temperature: 1.0
+  router_kd_weight: 1.0
+  key_kd_weight: 1.0
+  task_key_supervision_weight: 1.0
+  gate_reflection_weight: 1.0
+  memory_budget_per_task: 10
+  prototype_num_samples: 200
+  theta_floor: 0.75
+  replay_objective: ce  # keep CE: pure-KD replay collapses

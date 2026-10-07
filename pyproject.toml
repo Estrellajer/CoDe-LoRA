@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "codelora"
+version = "1.0.0"
+description = "CoDe-LoRA: continual learning with consolidated and decoupled LoRA"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = [
+    # validated versions (paper runs: torch 2.10.0+cu128, transformers 5.12.1, peft 0.20.0)
+    "torch>=2.8",
+    "transformers==5.12.1",
+    "peft==0.20.0",
+    "PyYAML>=6",
+    "sentencepiece>=0.2",
+    # TRACE metrics
+    "rouge==1.0.1",
+    "fuzzywuzzy==0.18.0",
+    "Levenshtein>=0.27",
+    "sacrebleu>=2.5",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-xdist", "ruff>=0.12"]
+analysis = ["matplotlib>=3.7"]  # figures of `python -m codelora.analysis` (tables need nothing extra)
+tracking = ["tensorboard", "wandb"]  # optional dashboards (log.tensorboard / log.wandb)
+qwen35 = ["flash-linear-attention", "causal-conv1d"]  # fast kernels for Qwen3.5's linear attention
+
+[tool.setuptools.packages.find]
+include = ["codelora*"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "C4", "RUF"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

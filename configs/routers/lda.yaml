@@ -1,0 +1,3 @@
+# Shared-covariance LDA router on the raw example text: expert iff posterior > 0 (always), so code-lora
+# reduces to "argmax expert" unless the threshold is raised.
+router: {kind: lda, threshold: 0.0, lda_samples: 1000, lda_shrinkage: 0.01, embedding_input: raw_source}
