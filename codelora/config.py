@@ -122,6 +122,14 @@ class NLoraCfg:
 
 
 @dataclass
+class CLoraCfg:
+    """CLoRA's fixed-subspace regulariser (``methods/clora.py``)."""
+
+    k: int = 512  # columns of the fixed random orthogonal bases
+    lambda_reg: float = 1.0
+
+
+@dataclass
 class CoLoraCfg:
     """The Co branch: Co-LoRA's growing-rank N-LoRA training (``lambda_l1``, ``reduction``) and the fold of CoDe-LoRA."""
 
@@ -198,6 +206,7 @@ class Config:
     olora: OLoraCfg = field(default_factory=OLoraCfg)
     nlora: NLoraCfg = field(default_factory=NLoraCfg)
     colora: CoLoraCfg = field(default_factory=CoLoraCfg)
+    clora_reg: CLoraCfg = field(default_factory=CLoraCfg)
     fusion: FusionCfg = field(default_factory=FusionCfg)
     mole: MoleCfg = field(default_factory=MoleCfg)
     log: LogCfg = field(default_factory=LogCfg)

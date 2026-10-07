@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE)
 
 **CoDe-LoRA: Mitigating the Orthogonality Dilemma in Continual Learning of LLMs via Knowledge Consolidation and Decoupling**
-Maoqi Liu, Quan Fang, Yufei He (BUPT, NUS)
 
 Official code of the paper: continual learning of language models with LoRA, where shared knowledge is **Co**nsolidated into
 one low-rank branch and task-specific knowledge is **De**coupled into per-task experts behind a router. The repository also
@@ -78,8 +77,6 @@ Models are loaded from `models/{t5-large,Qwen3-0.6B,Llama-2-7b-hf,Qwen3.5-4B}` (
 
 ## Training and evaluation
 
-A run is a composition of config fragments under `configs/` plus optional `key=value` overrides:
-
 ```bash
 # T5-large, Standard CL order 1, CoDe-LoRA, seed 41 (one GPU)
 python -m codelora.train orders/standard-order1 protocols/standard/t5-large methods/code-lora seed=41
@@ -87,39 +84,16 @@ python -m codelora.train orders/standard-order1 protocols/standard/t5-large meth
 # the same on 8 GPUs of one node
 torchrun --nproc_per_node=8 -m codelora.train orders/standard-order1 protocols/standard/t5-large methods/code-lora seed=41
 
-# other backbones / benchmarks / methods: swap the fragments
+# other backbones / benchmarks / methods: swap the config fragments
 python -m codelora.train orders/long-order4 protocols/long/llama2-7b methods/mole-cie
 python -m codelora.train orders/trace protocols/trace/qwen3-0.6b methods/o-lora
+
+# CoDe-LoRA with generation instead of PMI fusion
+python -m codelora.train orders/standard-order1 protocols/standard/t5-large methods/code-lora evaluation/no-fusion
+
+# audit a finished run: recompute AP/BWT, reload checkpoint.pt, re-score
+python -m codelora.evaluate outputs/<name> --reload
 ```
-
-| fragment | contents |
-|---|---|
-| `orders/*` | the task sequence and data root (`standard-order1..3`, `long-order4..6`, `trace`) |
-| `protocols/{standard,long,trace}/<backbone>` | backbone, batch sizes, learning rate, 1-epoch budget, evaluation batches and router |
-| `methods/*` | method hyper-parameters |
-| `routers/{cosine,lda}` | optional: switch the router (every protocol defaults to LDA) |
-| `evaluation/no-fusion` | CoDe-LoRA: generate instead of fusing candidate-label scores (list it after `methods/code-lora`) |
-| `logging/analysis` | full accuracy matrix and forward transfer, for the analysis figures |
-
-Results go to `outputs/<name>/`: `summary.json` (performance matrix, AP, BWT, efficiency), `evaluations/<stage>/<task>.json`
-(every prediction with its route and score), `results.json`, `config.yaml` (the resolved config) and `checkpoint.pt`; the
-layout is in [docs/RESULTS.md](docs/RESULTS.md). Every protocol trains one epoch per task at an effective batch of 64 in
-bf16 ([docs/CONFIG_PRINCIPLES.md](docs/CONFIG_PRINCIPLES.md)); `train.micro_batch_size` is the global batch of one forward
-pass, split over the ranks, so the same config runs on 1 or N GPUs.
-
-**PMI fusion.** `methods/code-lora` sets `fusion.enabled: true`: for tasks with candidate labels, both branches score every
-label, each is calibrated by PMI against its mean predicted label probability on the task's dev split, and the argmax of
-`alpha * PMI_Co + (1 - alpha) * PMI_expert` is predicted (`alpha` from `{0, 0.1, 0.25, 0.5, 1}`, chosen on dev). By default
-(`fusion.stages=final`) this is applied only to the last evaluation stage, the row that defines AP; intermediate stages
-generate, so the diagonal entries `a_ii` and BWT contain the difference between the two decoding rules. `fusion.stages=all`
-fuses every stage. Pure generation is `evaluation/no-fusion` (`fusion.enabled=false`): AP, BWT and the diagonal then all use
-generation. TRACE has no candidate labels and always generates.
-
-`python -m codelora.reproduce` expands the paper's two experiment tables (`table1`: T5-large on Standard and Long;
-`table2`: the three decoder backbones on Standard, Long and TRACE) into the commands above with the shipped settings and no
-overrides: it prints them by default, `--run [--gpus N]` executes them (finished runs are skipped), `--generation` makes
-CoDe-LoRA generate, and `--summarize` collects AP / BWT as mean and standard deviation over seeds 41, 42, 43.
-Analysis tables and figures: `pip install -e ".[analysis]"` and [docs/ANALYSIS.md](docs/ANALYSIS.md).
 
 ## Implemented methods
 
@@ -129,16 +103,13 @@ budget and metrics), not the official code; the original repositories are linked
 | `method` | method | venue | original code |
 |---|---|---|---|
 | `lora` | sequential fine-tuning of one LoRA adapter (LoRA: Hu et al.) | ICLR 2022 | [microsoft/LoRA](https://github.com/microsoft/LoRA) |
+| `c-lora` | CLoRA: Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models (Lu et al.) | ACL 2025, [paper](https://aclanthology.org/2025.acl-long.940/) | [sutakori/CLoRA](https://github.com/sutakori/CLoRA) |
 | `o-lora` | O-LoRA: orthogonal subspace learning (Wang et al.) | Findings of EMNLP 2023, [paper](https://aclanthology.org/2023.findings-emnlp.715/) | [cmnfriend/O-LoRA](https://github.com/cmnfriend/O-LoRA) |
 | `n-lora` | N-LoRA: Is Parameter Collision Hindering Continual Learning in LLMs? (Yang et al.) | COLING 2025, [paper](https://aclanthology.org/2025.coling-main.286/) | [PKU-YuanGroup/N-LoRA](https://github.com/PKU-YuanGroup/N-LoRA) |
 | `mole-cie` | MoLE-CIE: Mixture of LoRA Experts for Continual Information Extraction with LLMs (Wang, Wang, Hu) | Findings of EMNLP 2025, [paper](https://aclanthology.org/2025.findings-emnlp.718/) | [nju-websoft/MOLE-CIE](https://github.com/nju-websoft/MOLE-CIE) |
 | `co-lora` | ablation of this work: the consolidated shared branch alone (growing-rank N-LoRA training with SVD retraction to rank `r`) | this paper | this repository |
 | `de-lora` | ablation of this work: one isolated expert per task plus the router | this paper | this repository |
 | `code-lora` | CoDe-LoRA | EMNLP 2026, [arXiv](https://arxiv.org/abs/2610.08312) | this repository |
-
-CLoRA (Lu et al., *Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language
-Models*, ACL 2025, [paper](https://aclanthology.org/2025.acl-long.940/), code [sutakori/CLoRA](https://github.com/sutakori/CLoRA))
-is compared in the paper but is not included in this repository.
 
 ## Repository structure
 

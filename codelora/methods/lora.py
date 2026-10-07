@@ -23,12 +23,14 @@ class SequentialLoRA(ContinualMethod):
         self.lora_config = adapters.lora_config(ctx.base, ctx.backbone, self.cfg.lora)
         self.model = adapters.build_peft_model(ctx.base, self.lora_config, seed=self.cfg.seed).to(ctx.device)
 
+    def branch(self) -> Branch:
+        return Branch(["shared"], "shared", rng_role="shared")
+
     def learn_task(self, index: int, task: TaskCfg, examples: Sequence[Example]) -> dict[str, Any]:
         distributed.sync_adapters(self.model)
-        branch = Branch(["shared"], "shared", rng_role="shared")
         result = train_task(
             self.model,
-            [branch],
+            [self.branch()],
             examples,
             self.ctx.collator,
             self.cfg.train,

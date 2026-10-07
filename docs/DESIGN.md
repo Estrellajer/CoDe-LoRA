@@ -17,7 +17,7 @@ codelora/
   tracking.py      structured logs, run.json, efficiency counters;  profiling.py  phase timers (log.profile)
   data/            tasks (loading, official prompt, scoring), collate, trace (TRACE prompt + metrics), prepare
   models/          backbone (load, LoRA targets), adapters (PEFT helpers), growing (growing-rank LoRA), mole_layer
-  methods/         base (interface + registry), lora, growing (o/n/co-lora), delora, codelora, mole_cie,
+  methods/         base (interface + registry), lora, clora, growing (o/n/co-lora), delora, codelora, mole_cie,
                    co_branch (fold), de_branch (experts + router), regularizers, consolidation (low-rank SVD)
   routing/         router (interface + registry), prototype (cosine), lda, embed (frozen-base sentence embeddings)
   training/        loop (multi-branch), optim, rng
@@ -43,6 +43,7 @@ the metrics or the logging.
 | method | implementation |
 |---|---|
 | `lora` | `methods/lora.py`: one adapter `shared`, trained on every task |
+| `c-lora` | `methods/clora.py`: `lora` plus CLoRA's fixed-subspace penalty `lambda/2 (|A P_in|_F^2 + |B^T P_out|_F^2)` per layer (random orthogonal bases, `clora_reg.k`, `clora_reg.lambda_reg`; drawn once at setup and not stored) |
 | `o-lora`, `n-lora`, `co-lora` | `methods/growing.py`: one growing-rank adapter (`models/growing.py`: frozen history blocks + a trainable current block). The three differ in the penalty and at the boundary: O-LoRA (orthogonality) and N-LoRA (L1) commit the block, Co-LoRA (N-LoRA penalty) replaces history + block by their rank-`r` SVD. Official O-LoRA / N-LoRA seed protocol: re-seed before every block, same data order every task |
 | `de-lora` | `methods/delora.py` over `DeBranch`: a frozen expert per task, selected by the router |
 | `code-lora` | `methods/codelora.py` over `CoBranch` + `DeBranch`, see section 3 |

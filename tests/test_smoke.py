@@ -88,7 +88,7 @@ def test_decoder_backbone_runs_every_method_family(lab, tmp_path):
         assert summary["status"] == "passed"
 
 
-@pytest.mark.parametrize("method", ["lora", "code-lora", "mole-cie"])
+@pytest.mark.parametrize("method", ["lora", "c-lora", "code-lora", "mole-cie"])
 def test_two_ranks_match_one_rank_statistically(lab, tmp_path, method):
     (tmp_path / "one").mkdir()
     (tmp_path / "two").mkdir()

@@ -24,7 +24,7 @@ from collections import defaultdict
 from dataclasses import dataclass
 from pathlib import Path
 
-METHODS = ["lora", "o-lora", "n-lora", "co-lora", "de-lora", "code-lora", "mole-cie"]
+METHODS = ["lora", "c-lora", "o-lora", "n-lora", "co-lora", "de-lora", "code-lora", "mole-cie"]
 STANDARD = ["standard-order1", "standard-order2", "standard-order3"]
 LONG = ["long-order4", "long-order5", "long-order6"]
 DECODERS = ["qwen3-0.6b", "llama2-7b", "qwen3.5-4b"]
@@ -76,7 +76,7 @@ def plan(
     elif table == "table2":
         for backbone in backbones or DECODERS:
             for benchmark in benchmarks or [*STANDARD, *LONG, "trace"]:
-                for method in methods or ["o-lora", "n-lora", "mole-cie", "code-lora"]:
+                for method in methods or ["c-lora", "o-lora", "n-lora", "mole-cie", "code-lora"]:
                     runs += [Run(table, backbone, benchmark, method, seed, fuse) for seed in seeds]
     else:
         raise SystemExit(f"unknown table {table!r}")

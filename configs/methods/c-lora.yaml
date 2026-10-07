@@ -1,0 +1,4 @@
+method: c-lora
+lora: {dropout: 0.1}
+# CLoRA (Lu et al., ACL 2025): fixed random orthogonal bases of k columns, penalty weight lambda_reg = 1 (official defaults of the code).
+clora_reg: {k: 512, lambda_reg: 1.0}

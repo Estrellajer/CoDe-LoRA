@@ -103,6 +103,9 @@ rank blocks: `models/growing.py`. Penalties: `methods/regularizers.py`. Candidat
 `checkpoint.pt` and `python -m codelora.evaluate <run> --reload` re-scores from it. CoDe-LoRA stores only the experts and
 replays its deterministic folds on load; do the same if your state is a function of what you store.
 
+A regulariser on a single shared adapter is the smallest extension: subclass `SequentialLoRA` and override `branch()` to pass a
+`penalty` callable (see `methods/clora.py`, which adds CLoRA's fixed-subspace penalty this way).
+
 ## (b) A backbone
 
 1. Add an entry to `BACKBONES` in `codelora/models/backbone.py`:
