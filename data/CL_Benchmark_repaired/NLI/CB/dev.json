@@ -1,0 +1,106 @@
+[
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: A: or you know, it doesn't seem that it's going to make much of a difference. B: Uh-huh. It, I mean, I don't know, I don't think George Bush will make the American people happy with ninety-seven cents a week.\nsentence 2: George Bush will make American people happy with ninety-seven cents a week"
+  },
+  {
+    "label": "neutral",
+    "sentence": "sentence 1: A: Sometimes you hear things on the radio that, you know, could be true or couldn't be. B: Uh-huh. A: Uh, do you feel like this is, I guess they're spending a billion or so a year on this AIDS research. B: Uh-huh. A: Do you think they should spend more?\nsentence 2: they should spend more"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: Like now. The Community in Knockglen would defend Eve vociferously. Even some of the Sisters here in Dublin might see that the girl had a point.\nsentence 2: the girl had a point"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: A: I got a friend who goes there, by the way. I want to talk to you about that afterward, okay. B: Okay. Uh, I've, the high school I went to uh, was a good one also. And well, I guess you could say one of the problems with the public education system is the disparity between different schools.\nsentence 2: one of the problems with the public education system is the disparity between different schools"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: GM confirmed it received U.S. antitrust clearance to boost its holding. Sansui Electric agreed to sell a 51% stake to Polly Peck of Britain for $110 million. Still, analysts said the accord doesn't suggest Japan is opening up to more foreign takeovers.\nsentence 2: Japan is opening up to more foreign takeovers"
+  },
+  {
+    "label": "neutral",
+    "sentence": "sentence 1: A: Yeah. The radio doesn't really have much news sometimes. The stations I listen to are just mainly music. B: Yeah, I think you pretty much have to listen to all news station to get any news at all. A: Yeah. Do you think that TV is, uh, pretty accurate.\nsentence 2: TV is pretty accurate"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: I spent just over an hour with Patterson which, I found out later, turned out to be another first. Time is money in the City and few people are worth an hour unless it's over lunch and only then if you're involved in a takeover bid. It was also I learned one of the few occasions anyone at PKB could remember that Patterson had a meeting with his door shut and nobody got fired.\nsentence 2: Patterson had a meeting with his door shut and nobody got fired"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: A: I do too. I believe about ten years ago that we went through a terrible time, but I don't, I believe that they're better now, you know, wh-, B: I think so. I don't think they're shoddy\nsentence 2: they're shoddy"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: I WAS really only a bystander in the tragedy of young Mr and Mrs McLeod. It was not really my business although it could be said that I had known them both - had seen them about - for most of their lives.\nsentence 2: she had known Mr. and Mrs. McLeod for most of their lives"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: A: Oh, wow! But maybe you shouldn't be held responsible for something you did several years ago. B: So,  I know. A: That's the other thing. I mean a lot of people as kids or, you know, young people get into some things that they get out of later on and I don't think they should really have to pay for that forever.\nsentence 2: they should really have to pay for that forever"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: For a while the notion gripped him, and he prowled the many floors of Hamleys looking for toys. He bought a magic set for Sebastian (although his ideal present for the kid would have been a brand-new name) and a marionette for Louise. He could remember that there was an age for puppets and magic just as he could remember the time that he 'd spent trying to fan a deck of cards or sitting in front of a mirror trying to get the hard consonants down like a real ventriloquist.\nsentence 2: there was an age for puppets and magic"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: A: And, uh, I got to stay home with my kids, which I really wanted to do, but now I could not go back and do it. B: Yeah. A: I really couldn't, I don't think I could stay home all the time and do nothing.\nsentence 2: he could stay home all the time and do nothing"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: B: I understand we are doing care of the elderly, right? A: Yes. B: And how do you feel about putting someone in the nursing home? A: Well, I don't think that uh, any of my relatives would really like to go there.\nsentence 2: some of her relatives would really like to go there"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: ``Ely,'' I said (that was her name and the first time I 'd ever used it), ``I want to be free.'' She looked stunned. I don't think she 'd considered this.\nsentence 2: Ely had considered him wanting to be free"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: How do you know? she was going to ask, but his smile was answer enough. If DeVore said there was going to be a vacancy there would be a vacancy.\nsentence 2: there was going to be a vacancy"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: She rubbed them away with an angry fist. She was a fool to let anyone get round her. How long before she learned that folk 'll always take advantage of weakness?\nsentence 2: folk 'll always take advantage of weakness"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: Miss Martindale had had a school, but her rigid ideas and stern manner had frightened the children, and their parents had taken them away. And gradually the school declined, until she had to give it up and retire to end her days in the white cottage with the inevitable cat as her only companion. Breeze had never imagined that digging was such hard work.\nsentence 2: digging was such hard work"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: A: Boy that's scary, isn't it. B: Oh, can you imagine, because it happens in the middle of the night, so you know, these parents didn't know the kid was gone until the kid is knocking on the door screaming, let me in.\nsentence 2: the kid was gone"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: He had seen something I should have, which was a car turning in from Soho Square and coming up behind me. My right foot hovered over the accelerator pedal and I balanced Armstrong on the clutch. I wasn't as convinced as Malpass that Nevil was out of harm's way.\nsentence 2: Nevil was out of harm's way"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: I said you were mad to come over at this time. It's a world event. Don't you know that Venice is packed with visitors?\nsentence 2: Venice is packed with visitors"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: B: No, it was, I didn't like the way it ended. A: I know, well the only reason I know why it ended is on Arsenio Hall one night, Christopher Reeves told, that, you know, B: Uh-huh. A: I can't believe they killed them.\nsentence 2: they killed them"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: A: but at the same time I think it would do them a world of good. B: Yeah. A: But there's a, B: I don't know that you could require everyone yeah, to do it for a whole year, or two years or something like that,\nsentence 2: speaker A could require everyone to do it for a whole year"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: A: But, uh, uh, I don't understand, I guess, why the schools seem to have such a high dropout rate in the big cities. B: Uh, well, I don't pretend to understand that either. Uh, but I'm not quite sure that it's the kind of thing that ought to be blamed on the schools. But then, again, I'm not quite sure where the blame ought to be put. Uh, because the dropout rate is, in those areas, w-, it's high in those areas where also there's poverty and crime. And they all seem to go together. And it seems like if you could eliminate one of the parts of that circle, where you have the dropout rate and crime and, you know, general poverty kind of conditions, that things ought to get better. So, uh, the other two a-, they're all three social issues and could be addressed by the government in any ways. And clearly, to me, is a kind of government thing to fix but it's just like, I don't expect them to know which part is best to fix just like I don't know. it's a complicated issue. I still don't think I would blame it directly on the school.\nsentence 2: he would blame it directly on the school"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: B: Uh, I have, uh, I guess a lot of thoughts about the Vietnam War, um, I guess I feel like I was pretty young while it was going on and so there's probably a lot of things I remember and a lot of things that I really didn't have a clue as to what was happening. B: Yeah. A: Um, looking back, like maybe some of the things that I know now, I'm not sure I do believe it was worth the cost in dollars and lives. That was one of the questions that she asked us to think about, because we never went to war. I don't think we were committed to winning it and getting out\nsentence 2: they were committed to winning the Vietnam War and getting out"
+  },
+  {
+    "label": "contradiction",
+    "sentence": "sentence 1: B: but if they get the little tiny kids saving it now, in five years, when they get bigger, it'll work a little bit more, too. A: Yeah.  True. B: Because it's, we've all got to do it right now. I just, I really amazed to find out that, eighty per cent are filled now, in garbage fills. In five years we're supposed to be at max. A: Uh-huh. B: I don't think I can keep my own garbage.\nsentence 2: she can keep her own garbage"
+  },
+  {
+    "label": "entailment",
+    "sentence": "sentence 1: ``For such a person, finding a protector might not be so difficult, even in Edinburgh.'' Jean smiled. He might have known that even someone as sensible as Miss van Wiliamsburgh would try to make a play of this sort.\nsentence 2: even someone as sensible as Miss van Williamsburgh would try to make a play of this sort"
+  }
+]

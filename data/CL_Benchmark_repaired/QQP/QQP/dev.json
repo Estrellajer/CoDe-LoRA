@@ -1,0 +1,802 @@
+[
+  {
+    "label": "False",
+    "sentence": "first sentence: What is better, Rolex solid end links or hollow end links?\nsecond sentence: How much does the cheapest Rolex watch cost?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Does any one knows about ka'jear'?\nsecond sentence: Does any one know about ka'jear'?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is the history of some words?\nsecond sentence: \"What is the history of the word \"\"percent\"\"?\""
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What does the Queen of England think of Brexit?\nsecond sentence: What does Queen Elizabeth and Prince Philip think about Brexit?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Who would you vote for: Donald Trump or Hillary Clinton?\nsecond sentence: Donald Trump or Hillary Clinton?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are good ways to make more money?\nsecond sentence: How do I make more money from £100?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What is the most stupidest thing you have ever done in your life?\nsecond sentence: What is the most embarrassing thing you have ever done?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Who is the worst actor in India?\nsecond sentence: Who is the worst actor of Bollywood?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I create my blog on Quora?\nsecond sentence: How do you post blogs on Quora?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are the best places to take a first date to in New York City?\nsecond sentence: What are the best places to see in New York City?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Which top colleges can I get into for btech CSE with rank 4969 in ComedK 2016?\nsecond sentence: My JoSAA 2016 merit rank is 18879 .In which top college and discipline can I get into?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are some things new employees should know going into their first day at Horizon Bank?\nsecond sentence: What are some things new employees should know going into their first day at Associated Bank?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I revise for my theory test?\nsecond sentence: How do you  Revise the Theory Test?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What business should I start with a $100k investment?\nsecond sentence: Which business can I start with a budget below 5 lakhs?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are the best travel places in Taiwan?\nsecond sentence: What is the best travel place?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: \"When will Japan say \"\"Goodbye Americans\"\" like Philippines?\"\nsecond sentence: I don't know why am I feeling so isolated today, without any reason?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is dynamic?\nsecond sentence: What is Dynamic in Java?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Which is the biggest lie ever told?\nsecond sentence: What are some of the biggest lies that you ever told?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What do american spirit cigarettes have in them?\nsecond sentence: How much nicotine is in American Spirit cigarettes?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Can anyone slam Media like Raj Thackeray do?\nsecond sentence: Is it a cool idea to start a social media platform where people can talk and share about those persons who are now exes in their life and who can be next?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are all of the factors of 31?\nsecond sentence: How is 9 a factor of 9?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What is your New Year’s Resolution(s) for 2017?\nsecond sentence: What are some of the best New Years resolutions for 2017?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Where can I watch Naruto Shippuden episodes that are dubbed in English?\nsecond sentence: Where do I find Naruto Shippuden 403-407 episodes to watch?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How can I learn to last a long time in bed?\nsecond sentence: What should I do to last longer in bed?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Is it true that you can't donate blood if you've got a tattoo?\nsecond sentence: Is it true that we can't donate blood after being inked? If yes, what's the reason behind it?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I make small holes in Drinking glass?\nsecond sentence: How can I make small holes in Drinking glass?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are the strongest majors in terms of job prospects and what are the weakest majors at Regis University?\nsecond sentence: What are the strongest majors in terms of job prospects and what are the weakest majors at Clark University?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How does a gas grill differ from an electric grill?\nsecond sentence: How can I become expert in social media analysis?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What's a more important question, how or why?\nsecond sentence: Which is a more important question: ‘Why?’ or ‘How?’"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is CR registered in tdr?\nsecond sentence: I have 35,000 square feet of TDR which I want to dispose off. How do I do it now that the government is not sanctioning plans with TDR?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What permission is required to make the school bags?\nsecond sentence: What is the best bartending school in Toronto? What are the requirements to attend this school?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Is a degree from CMJ University, Meghalaya valid or not?\nsecond sentence: Is a post-graduate degree from a deemed university which is not recognised by AICTE a valid one or not?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Is Arvind Kejriwal the most honest person in India?\nsecond sentence: Is Arvind Kejriwal honest?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What movie are you watching tonight?\nsecond sentence: What movie should I watch?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Who will win in Las Palmas VS RCD Espanyol Spanish La Liga?\nsecond sentence: Who will win in RCD Espanyol VS Malaga Spanish La Liga?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: \"What does the saying \"\"pretty is as pretty does\"\" mean?\"\nsecond sentence: Is Cherelice as pretty as Kristina Pimenova?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do you apply for a visa?\nsecond sentence: How does one apply for a visa?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Should Moscato be chilled?\nsecond sentence: What is moscato?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How should I react if no one wishes me happy birthday?\nsecond sentence: Today is my birthday. Why does no one wish me a happy birthday?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How can I grow my penis?\nsecond sentence: What could I do to help grow my penis?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What things would you buy if you had a billion dollars?\nsecond sentence: What would you do with 1 billion dollars?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Is it possible to do SEO on a one page website?\nsecond sentence: Is geographic SEO on a one page website possible?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How is PDPU gandhinagar for BA psychology?\nsecond sentence: Is a BS or BA in psychology worth it in 2017?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Is Hillary Clinton seriously ill?\nsecond sentence: Does Hillary Clinton have health issues we, as voters, should be concerned about?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What would be a strategy to write answers in a conventional paper in an engineering services exam?\nsecond sentence: How do l start preparing for UPSC from 1st year of engineering?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are some sad songs by Frank Ocean?\nsecond sentence: For what reasons do people listen to very sad songs?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: When will the results of the 2016 U.S. Presidential elections be declared?\nsecond sentence: When will the results of the 2012 U.S. Presidential elections be declared?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is the difference between host and server in terms of computer networking?\nsecond sentence: What is the difference between domain based network and client server network?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Is Eugene Lee Yang (from Buzzfeed) gay?\nsecond sentence: Does BuzzFeed earn money from making YouTube videos?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Can I get pregnant 1 day before my period and still bleed?\nsecond sentence: Could I get pregnant if I had sex 6 days before my period?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is your review of BBC America?\nsecond sentence: What is your review of BBC?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are some of the best thriller novels? What makes them the best?\nsecond sentence: What are some of the best thriller and suspense novels?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Should I drop out of high school?\nsecond sentence: Should I drop out of middle school?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: I'm 24, and I've never exercised regularly. I want to get physically fit. As my body is unfit right now, what's the best way to start exercise?\nsecond sentence: If PUT is put (pʊt) then why BUT is butt (bʌt,bət) and not boot (buːt)?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Does hornaday make a ammunition for bolt action rifle only?\nsecond sentence: Sniper Rifles: For long range shooting with a bipod ONLY - is there an ideal barrel length?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How can I easily attract more money?\nsecond sentence: How can I easily attract money?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Who in your opinion would have been a better choice to direct Batman v Superman: Dawn of Justice?\nsecond sentence: What went wrong with Batman v Superman: Dawn of Justice?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What caused the Spanish Civil War?\nsecond sentence: What was the Spanish Civil War? What caused it?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How would you differentiate between infatuation and love?\nsecond sentence: How do you differentiate between love and infatuation? When will we truly love someone?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are some good, easy, well-known Bollywood songs for a beginner to play on an acoustic guitar?\nsecond sentence: Which popular Bollywood songs can be played easily on an acoustic guitar?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How much whisky a night will kill you in a year? I started drinking whisky heavy. my friend said if I carry on I'll be dead in a year!\nsecond sentence: I'm a 3rd year pharmacy student in a five-year college. In the past year, I've lost all my motivation to study, and I'm going to fail. I feel like I've ruined everything, because all my friends will pass and I'll be the only one left behind. How do I forgive myself and find my motivation again?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are the best smatphones between 15k and 20k?\nsecond sentence: What is the best mobile between 10k to 15k range in India?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How do I get motivated to lose weight?\nsecond sentence: How can I motivate someone to lose weight?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How can I learn oral English well?\nsecond sentence: What is the best way or resources to learn english like a native speakers?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Is there a tool that gives me the top Facebook pages most liked in a specific country by women?\nsecond sentence: Is there a way to see the names of all the people who like a specific Facebook page?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What is the chance of a US victory on Russian soil, if the US and NATO were to invade Russia from the Eastern front, like Hitler did?\nsecond sentence: What's the chance of a US victory on Russian soil, if the US and NATO were to invade Russia from the Eastern front, like Hitler did?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: If I'm thinking about getting into designing game graphics, should I learn Maya or 3ds Max first?\nsecond sentence: Are Maya and 3DS Max useful for graphic design?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is the best college which has a GATE qualified cutoff to allow ME admission?\nsecond sentence: What is the best college which has a GATE-qualified cutoff to allow me admission?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are the disadvantages of hiring foreign workers?\nsecond sentence: What are the advantages of hiring foreign workers?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What is the salary of architects?\nsecond sentence: What would be the salary of an architect?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How much does the Macy's Thanksgiving Day parade cost?\nsecond sentence: How does one get tickets for close-up viewing for the Macy's Thanksgiving Day parade?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is quantitative approach?\nsecond sentence: What is quantitative?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Is there a way for me to temporarily disable my Quora account?\nsecond sentence: How do I deactivate my account?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How much of what we do is influenced by our nature vs our nurture?\nsecond sentence: To what extent do we control our own life and how much of it is up to fate? If we can't control our life, who or what does?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How is the University of Chicago's new Masters in Analytics program?\nsecond sentence: How does DePaul MS in predictive analytics compare to University of Chicago MS in analytics?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Do INTJs and INFJs make the best partners?\nsecond sentence: Do INFJs and INTJs get along well?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Microeconomics: What is polyergy?\nsecond sentence: What is microeconomics?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What did Dhoni step down as ODI and T20 captain so quietly?\nsecond sentence: Why did MS Dhoni quit ODI and T20 captaincy but will still play?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Should I go for a MBA right after my Btech?\nsecond sentence: Should I go for MBA right after my Btech?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How can we find out dt the the erson is on another call or not in imo video call? Whts the diff between available stauts and online status\nsecond sentence: I spent 10 weeks training for a job and realized quickly this is not for me (call center).  The benefits are good but not the pay or job. How long should I try it out before finding a new job?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I find if a journal is Scopus indexed or not?\nsecond sentence: How do I identify whether any international journal is Scopus Indexed or not to submit a research paper?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: If someone you're more attached to than they are to you ignores your emails, does this often make you meaner to those who are more attached to you than you are to them?\nsecond sentence: What does it feel like to be less attached to someone than they are to you, and then (later on) more attached to them than they are to you?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I reduce my tummy fat?\nsecond sentence: Which exercise is effective to reduce tummy and belly fat?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is a way to make money online?\nsecond sentence: What are the best websites for making money online?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Which is a good solar panel installation provider near Tempe, Arizona AZ?\nsecond sentence: Which is a suitable solar panel installation provider near Somerton, Arizona AZ?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Have you ever had a ghostly experience?\nsecond sentence: Have you ever had a ghost experience?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are the differences between mitosis and meiosis? What are the similarities?\nsecond sentence: What is the difference between meiosis I and mitosis?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How to deal with this situation: my boss often come up with new features which I don't think can make it?\nsecond sentence: How can I prevent gut hooking Gulf fish with standard jigs and lures which don't feature circle hooks? I seem to always kill my catch this way."
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What does the term 'monetary gain' mean?\nsecond sentence: How will monetary policy fail?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I download a video from any website?\nsecond sentence: How can any streaming data audio/video can be downloaded from a website?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: I am an engineering student and I want to do a finance internship of 15 days. What are some companies?\nsecond sentence: I am in an MBA 1st year in IIM student. I want to apply for an internship in finance abroad. Is there any possible way to do so?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How much time does it takes to charge the power bank 4000mAh for full charge?\nsecond sentence: Can I use my turbo charger to charge MI power bank?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is the most significant fact about Sargon?\nsecond sentence: What’s the most important thing for a project manager to do?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What programming languages do finance use?\nsecond sentence: Which programming languages are useful in finance?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Where can I learn ethical hacking in Kolkata?\nsecond sentence: Where can I learn ethical hacking for free?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is the difference between standard deviation and mean deviation application?\nsecond sentence: What is the standard deviation formula for the difference between two sample means?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What's the best way to learn C++?\nsecond sentence: What's the easiest way to learn C?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I use Internet?\nsecond sentence: What is the best way to use the Internet?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is the meaning when marriage line starts with 2 lines joining together and spiliting at the end?\nsecond sentence: What does it mean when some people draw a wavy line with two lines in the middle on an envelope?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: If you ask a prostitute to make a porn video, is the sex then legal? Is this a valid loophole?\nsecond sentence: Are the short sex clips on porn sites from couples a part of the leaked videos? Or they just make it with each other's consent for money?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Who are you voting for U.S. President in November 2016 and why?\nsecond sentence: Who are you voting for in the upcoming presidential election and why?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Ways to improve upon the sense of humour?\nsecond sentence: Day 1 dsn art of living?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What happens if you sleep with someone of a different ethnicity while pregnant? Can the baby have the other man’s features?\nsecond sentence: What happens if you sleep with someone of a different race while being pregnant? Will the baby have the other man’s features?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What is the difference between suite and tuxedo?\nsecond sentence: What is the difference between a tuxedo and a normal suit?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Why do so many religions/cultures/beliefs have a flood myth?\nsecond sentence: Why do almost all ancient mythologies have a flood myth?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Why am I not able clean my room?\nsecond sentence: I'm never able to keep my room clean and tidy. What should I do?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What is the best first car?\nsecond sentence: What is the best car for a teenager?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What kind of programming language should I learn if I want to debug a game-making website like Zondle.com?\nsecond sentence: Which programming language should I learn if I am interested in game development?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Is pork harmful meat?\nsecond sentence: Is pork unhealthy?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Do you believe in Karma after sins?\nsecond sentence: \"Do you believe in \"\"KARMA\"\"?\""
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: \"What is the English word for \"\"pinapansin\"\", a Filipino word?\"\nsecond sentence: What's the english word for 'jhak'?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Can you miss someone you've never met?\nsecond sentence: Can you miss someone you never met?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: I have an offer from a startup, but I would be forced to sell my vested options if I leave the firm. Should I accept?\nsecond sentence: I left my last startup last year and exercised all my vested options, 6k. I am just an engineer, not founder or anything. Should I worry about 83b?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Which MBA universities accept a GRE score?\nsecond sentence: Which Business Schools accept GRE scores for graduate applications?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is a computer network?\nsecond sentence: What is a computer?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Which are the major highways in California and how are they compared to the major highways in Mississippi?\nsecond sentence: Which are the major highways in California and how are they compared to the major highways in Texas?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Which state in India has the most beautiful people (men and women)?\nsecond sentence: Which state in India can boast of having the most beautiful women?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Why haven't CPU clock speeds increased in the last 5 years?\nsecond sentence: How is the clock period determined by steps of pipeline in CPU?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What do Brits think of Canada?\nsecond sentence: What do British people think of Canada?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I prepare for neet 2017 in 4 months?\nsecond sentence: How can I prepare for NEET 2017 in last 4 months?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are some of the good research papers for multilingual Information Retrieval?\nsecond sentence: How do I implement information retrieval on Dbpedia?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How can you use a custom subnet mask against an ISP that is monitoring traffic?\nsecond sentence: When someone loses his memory will he/she be able to read and write in his native language if he was before?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Did the participants in Plato's Academy call themselves students? How did Plato call them?\nsecond sentence: Was Plato an early Fascist?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What's the most embarrassing thing that has ever happened to you, or the most embarrassing thing that you have seen?\nsecond sentence: What are the most embarrassing things that happened to you that no one knows about?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is the procedure for getting admission in an MS in RWTH Aachen university 2017?\nsecond sentence: What are the admission procedures for Indian applicants at RWTH Aachen University?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What is a slab?\nsecond sentence: What is slab?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What food is good for a pregnant woman?\nsecond sentence: Can I be pregnant even after having a period?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Where's the best place to buy domain names and why?\nsecond sentence: Which one is the best domain registrar?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is the rate of acceptance into McKinsey's MD Fellow program?\nsecond sentence: Why does NYUAD have a very low acceptance rate?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How are memories stored and retrieved in the human brain?\nsecond sentence: How are memories stored in the body?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Is there anyway to get download restricted shared files (videos) from Google drive?\nsecond sentence: Why can't this video file in Google Drive be downloaded?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What should I get for my boyfriend's birthday?\nsecond sentence: What can I do for my boyfriend's birthday?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How do I become a millionaire in IT?\nsecond sentence: How do I become a millionaire in Australia?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How can you determine the chemical formula for magnesium and copper sulfate?\nsecond sentence: How is the chemical formula for magnesium bicarbonate determined?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Where am I legally resident?\nsecond sentence: How do I listen better and take in what other people are actually saying. Either on the telephone or in person. Are there any techniques?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Why did Germany invade Norway during World War II?\nsecond sentence: Why did Germany invade Poland during World War II?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Why do I get angered and upset so easily?\nsecond sentence: Why do I feel threatened so easily?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: If members of the NITK IT batch 2016 were Game of Thrones, characters, who would be whom?\nsecond sentence: If members of the NITK Computer Science batch 2016 were Game of Thrones, characters, who would be whom"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What were the major effects of the cambodia earthquake, and how do these effects compare to the Sohei earthquake in 1361?\nsecond sentence: What were the major effects of the cambodia earthquake, and how do these effects compare to the Arica earthquake in 1868?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I become a hacker?\nsecond sentence: How does one become a hacker?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How harmful could it be for dogs to eat sugar?\nsecond sentence: How harmful could it be for dogs to eat tomatoes?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Who colonized Egypt? How was it colonized?\nsecond sentence: How was Egypt colonized?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Do I have the right to shoot down a drone that is hovering over my house and invading my privacy?\nsecond sentence: Do I have the right to shoot down my neighbor's drone if he uses it to trespass my property and spy on me?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I know have written 250 words in an essay?\nsecond sentence: How do I write 250 word essay?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How do I become a great player in 8 ball pool?\nsecond sentence: Does the 8 ball pool hack work?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Why is bakchod.org so famous?\nsecond sentence: Im trying to develop a game like slither.io, needs to be multiplayer, except I don’t know how to code and don’t have money to spend. Can anyone Help?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Is there any evidence that aliens visited our planet?\nsecond sentence: Do aliens really know about our existence?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Which battle in world history was the worst?\nsecond sentence: What are essential topics to study for a btech software engineering student to get a good job?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Why do people use platinum as jewellery?\nsecond sentence: Have we seen all of the rubik’s cube possible combinations?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How should canned black beans be cooked?\nsecond sentence: Can you compress dark matter?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What are the safety precautions on handling shotguns proposed by the NRA in California?\nsecond sentence: What are the safety precautions on handling shotguns proposed by the NRA in Pennsylvania?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What are Bitcoin and Bitcoin mining?\nsecond sentence: What is Bitcoin mining?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I deactivate my fb account?\nsecond sentence: How can I deactivate my fb account?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What makes Joaquin Phoenix a good actor?\nsecond sentence: Is Joaquin Phoenix the greatest actor of this generation?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What's the difference between infatuation and real love?\nsecond sentence: What is the difference between infatuation and love? I mean which of them is more into focusing only on the good side of the person?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is your review of Unity (user interface)?\nsecond sentence: Which is better: Unity or GNOME 3?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: I want to unsubscribe from Quora. How can I?\nsecond sentence: What does it take to unsubscribe from Quora? I do not want anything from Quora any more."
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How can I make friends on Quora for practice my English?\nsecond sentence: How do I make friends with people on Quora?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Why does Singapore not have natural disasters often?\nsecond sentence: Is Singapore ever immune to natural disasters?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: \"Which sentence is correct: \"\"It was found\"\" or \"\"It was founded\"\"?\"\nsecond sentence: \"In HPSG, how do GAPs & STOP-GAPs work in sentences containing LDDs eg: \"\"That problem, the teachers say they identified and found to be hard to solve\"\"?\""
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How can you enlarge your penis?\nsecond sentence: Can I permanently enlarge my penis?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Who are most corrupt Indian politicians?\nsecond sentence: How corrupt are Indian politicians?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How do I convert CGPA to percentage under Mumbai University rules?\nsecond sentence: How do you convert Mumbai University percentages to US 4 point GPA?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Can I the name of the person on this picture?\nsecond sentence: How can you find out someone's name from a picture?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What are some common applications for the three field system?\nsecond sentence: What are the applications and limitations of a three fields system?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What is a perfect elastic demand?\nsecond sentence: What is perfectly elastic demand?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are the best books on sales, marketing, and entrepreneurship?\nsecond sentence: What are some good books on marketing?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I motivate myself to exercise?\nsecond sentence: How do you have the motvitation to exercise?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are the benefits and drawbacks of basic income guarantee?\nsecond sentence: Did Nixon propose basic income or support basic income as a solution to inequality? If so, what was his idea of basic income?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I increase my stamina?\nsecond sentence: What can I do to increase my running stamina and strength?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are the cheapest places to travel to from New York?\nsecond sentence: What's the cheapest way to travel from New York to Montréal?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: He said it's awkward for him to act the way he acts around his friends around me because I'm his girlfriend. But why would that be awkward?\nsecond sentence: Why are Democrats okay with forgiving Bill for having a sexual act with his intern but not okay with Trump for something he said 10 years ago?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Who is most likely to win the U.S. presidential election and why?\nsecond sentence: Who will win the 2016 U.S. presidential election and why?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Should a computer science undergrad put the projects made for Udacity courses (Full Stack Developer) in his resume?\nsecond sentence: What are the projects at udacity full stack web developer? Can I complete them all in a month if I have some developer experience?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Where can I buy best quality customized cupcakes in Gold Coast?\nsecond sentence: Where can I buy best quality gourmet cupcakes in Gold Coast?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I pursue a career in game development?\nsecond sentence: What should I study if I want to pursue a career in gaming development?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do I add tags to my question in Quora?\nsecond sentence: How do I add a topic in Quora?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Why do liberals call George W. Bush evil for the 9/11 attacks and the Iraq War?\nsecond sentence: What are some crime-related puns?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is the next big thing no one knows about yet?\nsecond sentence: What will be the next big thing in chip designing?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Is it good idea to call my ex bf after we broke up?\nsecond sentence: My ex will not commit to me after being broke up for months. Yet we spend all our time together. What should I do?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What is it like to be part of a royal family?\nsecond sentence: How does it feel to be part of a royal family?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What is the relation between injection delay and fuel pipe length? Is it inverse relation?\nsecond sentence: What is the effect of injection delay on fuel pipe length in compression-ignition engines?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Why India is against CPEC?\nsecond sentence: Why does India oppose CPEC?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: \"Is there another idiom for the expression \"\"don't make a fuss\"\"?\"\nsecond sentence: Is there an idiom for making mistakes over and over again?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How do I get rid of the wrinkles on my hands?\nsecond sentence: How do you get rid of wrinkles?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: What would be a cool way to commit suicide?\nsecond sentence: What is an easy way to commit suicide?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What causes borderline personality disorder and when?\nsecond sentence: What causes sociopathy and borderline personality disorders?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How does losing virginity feel?\nsecond sentence: How did you feel while losing virginity?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What is the best video editor?\nsecond sentence: What are the best video editors online?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What are some good examples of web based project management software?\nsecond sentence: What are the best project management web applications?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Why do people like rap music?\nsecond sentence: Why do so many people like egotistical forms of rap music?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Will all website hosting providers be banned without net neutrality?\nsecond sentence: Would there still be web hosts without net neutrality?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How can I study maths when it's already October of 12th and I don't know a thing about it?\nsecond sentence: How do I study maths when it's already October of 12th and I don't know a thing about it?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Why do gums get black?\nsecond sentence: How do you get gum out of hair?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: How do you improve your writing skills?\nsecond sentence: How can I improve my writing skills to write advanced composition?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How long can a person stay in the US after his H1-B expires or his last day of work?\nsecond sentence: What is the alternative when we don't get selected for H1-B visa in the lottery after pursuing an MS in the US? How can we end up staying in the US?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: How hard it is to get selected at  the ranji trophy level?\nsecond sentence: What is the selection process in cricket to be a part of the Ranji team?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: What should good meth look like when its melted?\nsecond sentence: What are some good things to say when it looks like someone is wearing too much makeup?"
+  },
+  {
+    "label": "True",
+    "sentence": "first sentence: Was there any Greek Byzantine emperor?\nsecond sentence: Was there any Ethnic Greek Byzantine Emperor?"
+  },
+  {
+    "label": "False",
+    "sentence": "first sentence: Can I lose weight by masturbating?\nsecond sentence: Can anyone give me tips for gym routine and food intake for gaining weight?"
+  }
+]

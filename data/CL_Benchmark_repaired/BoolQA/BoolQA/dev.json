@@ -1,0 +1,802 @@
+[
+  {
+    "label": "False",
+    "sentence": "question: dawson creek do joey and dawson end up together\npassage: Joey Potter -- In the epilogue, Joey and Pacey watch Dawson's semi-autobiographical television series The Creek in their apartment before calling up Dawson together, where they discover he is going to meet his hero, Steven Spielberg. They have renewed their romantic relationship, and the series ends with them as a couple living together in New York."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there an ocean called the southern ocean\npassage: Southern Ocean -- The Southern Ocean, also known as the Antarctic Ocean or the Austral Ocean, comprises the southernmost waters of the World Ocean, generally taken to be south of 60° S latitude and encircling Antarctica. As such, it is regarded as the fourth-largest of the five principal oceanic divisions: smaller than the Pacific, Atlantic, and Indian Oceans but larger than the Arctic Ocean. This ocean zone is where cold, northward flowing waters from the Antarctic mix with warmer subantarctic waters."
+  },
+  {
+    "label": "True",
+    "sentence": "question: did the louvre used to be a palace\npassage: Louvre Palace -- The Louvre Palace (French: Palais du Louvre, IPA: (palɛ dy luvʁ)) is a former royal palace located on the Right Bank of the Seine in Paris, between the Tuileries Gardens and the church of Saint-Germain l'Auxerrois. Originally a fortress built in the medieval period, it became a royal palace in the fourteenth century under Charles V and was used from time to time by the kings of France as their main Paris residence. Its present structure has evolved in stages since the 16th century. In 1793 part of the Louvre became a public museum, now the Musée du Louvre, which has expanded to occupy most of the building."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is kinetic energy a quantitative measure of inertia\npassage: Inertia -- By this formula, the greater its mass, the less a body accelerates under a given force. The masses defined by the above formulas are equal because the latter formula is a consequence of the former, if mass does not depend on time and velocity. Thus, ``mass is the quantitative or numerical measure of a body's inertia, that is of its resistance to being accelerated''."
+  },
+  {
+    "label": "True",
+    "sentence": "question: have croatia ever been in a world cup final\npassage: Croatia at the FIFA World Cup -- Croatia national football team have appeared in the FIFA World Cup on five occasions (in 1998, 2002, 2006, 2014 and 2018) since gaining independence in 1991. Before that, from 1930 to 1990 Croatia was part of Yugoslavia. For World Cup records and appearances in that period, see Yugoslavia national football team and Serbia at the FIFA World Cup. Their best result thus far was silver position at the 2018 final, where they lost 4-2 to France."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can a world cup final go to penalties\npassage: List of FIFA World Cup penalty shoot-outs -- This is a list of all penalty shoot-outs that have occurred in the Finals tournament of the FIFA World Cup. Penalty shoot-outs were introduced as tie-breakers in the 1978 World Cup but did not occur before 1982. The first time a World Cup title was won by penalty shoot-out was in 1994. The only other time was in 2006. By the end of the 2018 edition, 30 shoot-outs have taken place in the World Cup. Of these, only two reached the sudden death stage after still being tied at the end of ``best of five kicks''."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is sallie mae backed by the federal government\npassage: Sallie Mae -- SLM Corporation (commonly known as Sallie Mae; originally the Student Loan Marketing Association) is a publicly traded U.S. corporation that provides consumer banking. Its nature has changed dramatically since it was set up in 1973. At first, it was a government entity that serviced federal education loans. It then became private and started offering private student loans, although at one point it had a contract to service federal loans."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does system of a down have 2 singers\npassage: System of a Down -- System of a Down, sometimes shortened to System and abbreviated as SOAD, is an Armenian-American heavy metal band from Glendale, California, formed in 1994. The band currently consists of Serj Tankian (lead vocals, keyboards), Daron Malakian (vocals, guitar), Shavo Odadjian (bass, backing vocals) and John Dolmayan (drums)."
+  },
+  {
+    "label": "False",
+    "sentence": "question: has usa ever won the fifa world cup\npassage: United States at the FIFA World Cup -- The United States men's national soccer team has played in several World Cup finals, with their best result occurring during their first appearance at the 1930 World Cup, when the United States finished in third place. After the 1950 World Cup, in which the United States upset England in group play 1--0, the U.S. was absent from the finals until 1990. The United States has participated in every World Cup since 1990 until they failed to qualify for the 2018 competition after a loss to Trinidad and Tobago in 2017."
+  },
+  {
+    "label": "True",
+    "sentence": "question: has a category 4 hurricane ever hit the carolinas\npassage: List of North Carolina hurricanes -- Tropical cyclones have affected North Carolina in every month between May and December; about 35 percent of the storms struck the state in September, and 80 percent affected the state between August and October, which coincides with the peak of the hurricane season. The earliest storm to affect the state was Subtropical Storm Andrea on May 7, 2007, and the latest was a tropical storm that moved across the Outer Banks on December 2, 1925. The strongest storm to strike the state was Hurricane Hazel on October 15, 1954, which made landfall as a Category 4 hurricane on the Saffir--Simpson Hurricane Scale."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can the heart be on the right side of the body\npassage: Dextrocardia -- Dextrocardia (from Latin dexter, meaning ``right,'' and Greek kardia, meaning ``heart'') is a rare congenital condition in which the apex of the heart is located on the right side of the body. There are two main types of dextrocardia: dextrocardia of embryonic arrest (also known as isolated dextrocardia ) and dextrocardia situs inversus. Dextrocardia situs inversus is further divided."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is the movie a quiet place based on a true story\npassage: A Quiet Place (film) -- A Quiet Place is a production of Sunday Night and Platinum Dunes; it was produced on a budget of $17 million. Krasinski wrote the screenplay with story co-writers Scott Beck and Bryan Woods. Beck and Woods grew up together in the US state of Iowa, and had watched numerous silent films in college. By 2013, they began working on the story that would lead to the film. They used their experience growing up close to farmland as the basis, including a grain silo setting as a place considered dangerous in their upbringing. They initiated their approach with a 15-page proof of concept. Initially, the writers had considered developing the film into a Cloverfield installment, but after pitching their ideas to the studio collectively, all of those involved decided to keep the film its own entity."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there a lunar eclipse in july 2018\npassage: July 2018 lunar eclipse -- A total lunar eclipse occurred on 27 July 2018. The Moon passed through the center of Earth's shadow in what was the first central lunar eclipse since 15 June 2011. It was also the second total lunar eclipse in 2018, after the one on 31 January."
+  },
+  {
+    "label": "True",
+    "sentence": "question: did the atlanta braves ever win the world series\npassage: Atlanta Braves -- From 1991 to 2005, the Braves were one of the most successful teams in baseball, winning division titles an unprecedented 14 consecutive times (omitting the strike-shortened 1994 season in which there were no official division champions), and producing one of the greatest pitching rotations in the history of baseball. The Braves won the NL West 1991--93 and the NL East 1995--2005, and they returned to the playoffs as the National League Wild Card in 2010. The Braves advanced to the World Series five times in the 1990s, winning the title in 1995. Since their debut in the National League in 1876, the franchise has won 17 divisional titles, 17 National League pennants, and three World Series championships--in 1914 as the Boston Braves, in 1957 as the Milwaukee Braves, and in 1995 in Atlanta. The Braves are the only Major League Baseball franchise to have won the World Series in three different home cities."
+  },
+  {
+    "label": "True",
+    "sentence": "question: are there any sharks in the mississippi river\npassage: Bull shark -- Bull sharks can thrive in both salt and fresh water and can travel far up rivers. They have been known to travel up the Mississippi River as far as Alton, Illinois, about 700 miles (1100 km) from the ocean. However, few freshwater human-shark interactions have been recorded. Larger-sized bull sharks are probably responsible for the majority of near-shore shark attacks, including many bites attributed to other species."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there a queen in an ant colony\npassage: Queen ant -- A queen ant (formally known as a gyne) is an adult, reproducing female ant in an ant colony; generally she will be the mother of all the other ants in that colony. Some female ants, such as Cataglyphis cursor, do not need to mate to produce offspring, reproducing through asexual parthenogenesis or cloning, and all of those offspring will be female. Others, like those in the genus Crematogaster, mate in a nuptial flight. Queen offspring develop from larvae specially fed in order to become sexually mature among most species. Depending on the species, there can be either a single mother queen, or potentially, hundreds of fertile queens in some species. Queen ants have one of the longest life-spans of any known insect -- up to 30 years. A queen of Lasius niger was held in captivity by German entomologist Hermann Appel for 283⁄4 years; also a Pogonomyrmex owyheei has a maximum estimated longevity of 30 years in the field."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is saving hope coming back for season 6\npassage: Saving Hope -- The series premiered on June 7, 2012 on both CTV in Canada and NBC in the United States. On July 25, 2012, CTV ordered a second, 13 episode season for the summer of 2013. NBC, however, pulled the show's final two episodes from its broadcast schedule and made them available on their official website. On November 16, 2012, CTV announced they had increased their episode order for season 2 to eighteen episodes. On November 7, 2013, CTV ordered a third season of Saving Hope that consisted of eighteen episodes and aired in 2014. On November 10, 2014, CTV ordered a fourth season of Saving Hope that consisted of eighteen episodes, and premiered on September 24. 2015. On December 17, 2015, CTV ordered a fifth and final season of Saving Hope that consisted of 18 episodes."
+  },
+  {
+    "label": "False",
+    "sentence": "question: did ed sheeran write love yourself for justin\npassage: Love Yourself -- On September 29, 2015, Justin Bieber announced in an interview with Australia's Sunrise morning show that British singer and songwriter Ed Sheeran had written a song for his then-upcoming album. Later, during an interview for Capital FM, Bieber revealed details about the song, saying: ``It's just me and a guitar. Basically that's how I started, playing on the street with a guitar.'' About Sheeran, he said: ``I think he's one of the most talented writers in the game right now, so just to have his input and his stories and our stories and match them up together and say 'What have you been through?,' and telling the same story.'' In another interview for the same radio network, he commented about the collaboration, stating: ``It was a process. Just getting us together, you know, in the same room cause we did a lot of it separate. He is a good guy, super talented. Really good songwriter so just to be able to work with that calibre of songwriter was really, really awesome.'' In 2017, Sheeran revealed that ``Love Yourself'' was written for his album ÷. He said in an interview that the track would have been scrapped before Bieber took the song."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is dandelion and burdock the same as root beer\npassage: Dandelion and burdock -- Dandelion and burdock shares a historical origin with a number of drinks originally made from lightly fermented root extracts, such as root beer and sarsaparilla, supposedly as a health benefit. One story regarding its origin is that in the 13th Century St. Thomas Aquinas, after a hard night's praying, stumbled out in the dawn and, ``trusting in God to Provide'' brewed a concoction from the first two plants he encountered."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is yorkshire the largest county in the uk\npassage: Yorkshire -- Yorkshire (/ˈjɔːrkʃər, -ʃɪər/; abbreviated Yorks), formally known as the County of York, is a historic county of Northern England and the largest in the United Kingdom. Due to its great size in comparison to other English counties, functions have been undertaken over time by its subdivisions, which have also been subject to periodic reform. Throughout these changes, Yorkshire has continued to be recognised as a geographical territory and cultural region. The name is familiar and well understood across the United Kingdom and is in common use in the media and the military, and also features in the titles of current areas of civil administration such as North Yorkshire, South Yorkshire, West Yorkshire and East Riding of Yorkshire."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you eat the stick in fun dip\npassage: Fun Dip -- Fun Dip is similar to fellow Wonka product Pixy Stix, but sold in small pouches, rather than paper or plastic straws. When called Lik-M-Aid, it consisted of 4 packets of flavored and colored sugar. When rebranded in the 1970s as Fun Dip, two edible candy sticks called ``Lik-A-Stix'' were added. While the original flavors consisted of lime, cherry and grape, the most common flavors are cherry, grape, and a raspberry/apple combination that turns from blue when dry to green when wet with saliva or water. It also comes in sour flavors, including sour watermelon, sour apple, and sour lemonade. There is also orange flavored Fun Dip. Packets with one stick and two flavors were once the standard, and packets with only one or two flavors are still available with less prominence than the now-standard three-flavor package."
+  },
+  {
+    "label": "False",
+    "sentence": "question: does switzerland train every citizen to use a gun\npassage: Gun laws in Switzerland -- The Swiss army has long been a militia trained and structured to rapidly respond against foreign aggression. Swiss males grow up expecting to undergo basic military training, usually at age 20 in the recruit school, the basic-training camp, after which Swiss men remain part of the ``militia'' in reserve capacity until age 30 (age 34 for officers)."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the law hill in dundee a volcano\npassage: Dundee Law -- The Law is an area located in the centre of Dundee, Scotland. Its predominant feature is an extinct volcano which gives it its name."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does pride and prejudice take place in england\npassage: Pride and Prejudice -- Pride and Prejudice is a romantic novel by Jane Austen, first published in 1813. The story charts the emotional development of the protagonist, Elizabeth Bennet, who learns the error of making hasty judgments and comes to appreciate the difference between the superficial and the essential. The comedy of the writing lies in the depiction of manners, education, marriage, and money during the British Regency period."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is irish music and celtic music the same\npassage: Celtic music -- These styles are known because of the importance of Irish and Scottish people in the English speaking world, especially in the United States, where they had a profound impact on American music, particularly bluegrass and country music. The music of Wales, Cornwall, the Isle of Man, Brittany, Galicia, Cantabria and Asturias (Spain) and Portugal are also considered Celtic music, the tradition being particularly strong in Brittany, where Celtic festivals large and small take place throughout the year, and in Wales, where the ancient eisteddfod tradition has been revived and flourishes. Additionally, the musics of ethnically Celtic peoples abroad are vibrant, especially in Canada and the United States. In Canada the provinces of Atlantic Canada are known for being a home of Celtic music, most notably on the islands of Newfoundland, Cape Breton and Prince Edward Island. The traditional music of Atlantic Canada is heavily influenced by the Irish, Scottish and Acadian ethnic makeup of much of the region's communities. In some parts of Atlantic Canada, such as Newfoundland, Celtic music is as or more popular than in the old country. Further, some older forms of Celtic music that are rare in Scotland and Ireland today, such as the practice of accompanying a fiddle with a piano, or the Gaelic spinning songs of Cape Breton remain common in the Maritimes. Much of the music of this region is Celtic in nature, but originates in the local area and celebrates the sea, seafaring, fishing and other primary industries."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is there a such thing as a lie bump on your tongue\npassage: Transient lingual papillitis -- The name ``lie bumps'' is a result of a myth that telling lies would cause them. However, very little has been written about this condition in scientific articles or textbooks and scientific studies have failed to produce a definite cause. Possible causes include: ``stress, gastrointestinal upset, menstruation, acidic or sour food, smoking, and local trauma'' (direct physical irritation) of the tongue. Lie bumps are often caused by the taste bud(s) splitting."
+  },
+  {
+    "label": "True",
+    "sentence": "question: has liberia qualified for the africa cup of nations before\npassage: Liberia national football team -- Liberia has twice qualified for the Africa Cup of Nations -- 1996 and 2002."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the greatest showman about barnum and bailey circus\npassage: The Greatest Showman -- The Greatest Showman is a 2017 American musical film directed by Michael Gracey in his directorial debut, written by Jenny Bicks and Bill Condon and starring Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, and Zendaya. The film is inspired by the story of P.T. Barnum's creation of the Barnum & Bailey Circus and the lives of its star attractions."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there a stand your ground law in pennsylvania\npassage: Stand-your-ground law -- The states that have legislatively adopted stand-your-ground laws are Alabama, Alaska, Arizona, Florida, Georgia, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Mississippi, Missouri, Montana, Nevada, New Hampshire, North Carolina, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, West Virginia, and Wyoming."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is back to the future at universal studios\npassage: Back to the Future: The Ride -- Back to the Future: The Ride was a simulator ride at Universal Studios theme parks. It was based on and inspired by the Back to the Future film series and is a mini-sequel to 1990's Back to the Future Part III. It was previously located at Universal Studios Florida and Universal Studios Hollywood, where it has since been replaced by The Simpsons Ride and at Universal Studios Japan where it has since been replaced by Despicable Me Minion Mayhem."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can an ethernet cable be used for poe\npassage: Power over Ethernet -- Power over Ethernet or PoE describes any of several standard or ad-hoc systems which pass electric power along with data on twisted pair Ethernet cabling. This allows a single cable to provide both data connection and electric power to devices such as wireless access points, IP cameras, and VoIP phones."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is serbia a member of the european union\npassage: Accession of Serbia to the European Union -- The accession of Serbia to the European Union is the process of the Republic of Serbia being admitted to the European Union as a member state and it is on the current agenda for future enlargement of the EU."
+  },
+  {
+    "label": "False",
+    "sentence": "question: are carbon zinc batteries the same as alkaline\npassage: Alkaline battery -- Compared with zinc-carbon batteries of the Leclanché cell or zinc chloride types, alkaline batteries have a higher energy density and longer shelf-life, with the same voltage."
+  },
+  {
+    "label": "True",
+    "sentence": "question: will there be a second season of free reign\npassage: Free Rein -- Free Rein is a British children's television series created and written by Vicki Lutas and Anna McCleery. The series stars Jaylen Barron, Céline Buckens, and Kerry Ingram. The ten-part series premiered on Netflix on 22 June 2017. The show is produced in the UK by Lime Pictures. Although the island where the series is set is fictional and unnamed, it is based on the Isle of Wight but referred to as ``an island off the coast of England'' throughout the show The series has been renewed, and a second series of ten episodes will be produced. The second season will premiere July 6th 2018."
+  },
+  {
+    "label": "False",
+    "sentence": "question: does disney still have the great movie ride\npassage: The Great Movie Ride -- The Great Movie Ride closed on August 13, 2017, becoming the last operating attraction from the park's opening day to close. The attraction is slated to be replaced by Mickey & Minnie's Runaway Railway."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is central time the same as mountain time\npassage: Mountain Time Zone -- In the United States and Canada, this time zone is generically called Mountain Time (MT). Specifically, it is Mountain Standard Time (MST) when observing standard time, and Mountain Daylight Time (MDT) when observing daylight saving time. The term refers to how the Rocky Mountains, which range from northwestern Canada to the US state of New Mexico, are located almost entirely in the time zone. In Mexico, this time zone is known as the Zona Pacífico (Pacific Zone). In the US and Canada, the Mountain Time Zone is to the east of the Pacific Time Zone and to the west of the Central Time Zone."
+  },
+  {
+    "label": "False",
+    "sentence": "question: does chrysler still make the town & country\npassage: Chrysler Town & Country -- After five generations and 27 model year runs, the Town & Country nameplate was discontinued at the end of the 2016 model year run and was replaced by the 2017 model-year Chrysler Pacifica minivan."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is table rock lake a man made lake\npassage: Table Rock Lake -- Table Rock Lake is an artificial lake or reservoir in the Ozarks of southwestern Missouri and northwestern Arkansas. The lake is impounded by Table Rock Dam (located 36°35′43''N 93°18′40''W﻿ / ﻿36.595374°N 93.311137°W﻿ / 36.595374; -93.311137) constructed from 1954 to 1958 on the White River by the U.S. Army Corps of Engineers."
+  },
+  {
+    "label": "False",
+    "sentence": "question: can minors drink with parents at restaurants in texas\npassage: Alcohol laws of Texas -- A person must be at least be 21 years of age to publicly drink an alcoholic beverage in Texas, with some exceptions"
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the wife of an earl a countess\npassage: Courtesy titles in the United Kingdom -- The wife of a substantive peer is legally entitled to the privileges of peerage: she is said to have a ``life estate'' in her husband's dignity. Thus a duke's wife is titled a ``duchess'', a marquess's wife a ``marchioness'', an earl's wife a ``countess'', a viscount's wife a ``viscountess'' and a baron's wife a ``baroness''. Despite being referred to as a ``peeress'', she is not a peer in her own right: this is a 'style' and not a substantive title. However, this is considered a legal title, unlike the social titles of a peer's children."
+  },
+  {
+    "label": "True",
+    "sentence": "question: do april and andy get together parks and recreation\npassage: April Ludgate -- In a series of flash-forwards in the final episode, April and Andy ask Leslie and Ben for advice regarding the prospect of having children, which Andy very much wants but April does not. They decide to try for it and their son Jack (short for Jack-o-Lantern) is born on Halloween 2023. By 2025 the couple is expecting their second child."
+  },
+  {
+    "label": "True",
+    "sentence": "question: did the japanese attack australia in world war ii\npassage: Attacks on Australia during World War II -- The first air raid on Australia occurred on 19 February 1942 when Darwin was attacked by 242 Japanese aircraft. At least 235 people were killed in the raid. Occasional attacks on northern Australian towns and airfields continued until November 1943. These included:"
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you vote in the california primary as an independent\npassage: Open primaries in the United States -- In 2011, the state adopted a ``modified open primary''. Individual citizens may vote for any candidate, and the top two candidates regardless of party will advance to the general election. The Presidential election is exempt from this voting method as it is a contest for delegates rather than a direct election for an office."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does blow drying your hair get rid of lice\npassage: Treatment of human head lice -- A standard home blow dryer will kill 96.7% of eggs with proper technique. To be effective, the blow dryer must be used repeatedly (every 1 to 7 days since eggs hatch in 7 to 10 days) until the natural life cycle of the lice is over (about 4 weeks)."
+  },
+  {
+    "label": "True",
+    "sentence": "question: are green and black olives from the same tree\npassage: Olive -- The fruit is a small drupe 1--2.5 cm (0.39--0.98 in) long, thinner-fleshed and smaller in wild plants than in orchard cultivars. Olives are harvested in the green to purple stage. Canned black olives have often been artificially blackened (see below on processing) and may contain the chemical ferrous gluconate to improve the appearance. Olea europaea contains a seed commonly referred to in American English as a pit or a rock, and in British English as a stone."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the european convention on human rights a treaty\npassage: European Convention on Human Rights -- The European Convention on Human Rights (ECHR) (formally the Convention for the Protection of Human Rights and Fundamental Freedoms) is an international treaty to protect human rights and political freedoms in Europe. Drafted in 1950 by the then newly formed Council of Europe, the convention entered into force on 3 September 1953. All Council of Europe member states are party to the Convention and new members are expected to ratify the convention at the earliest opportunity."
+  },
+  {
+    "label": "True",
+    "sentence": "question: did attack on titan season 2 come out\npassage: Attack on Titan -- A second season of the anime series was announced on the opening day of the first theatrical film, which was originally set to be released in 2016. It was then confirmed in the January 2017 issue of the Bessatsu Shōnen Magazine that the second season would premiere in April 2017. Masashi Koizuka directed the second season, with Araki acting as chief director. It has also been licensed by Funimation. It ran for 12 episodes."
+  },
+  {
+    "label": "True",
+    "sentence": "question: commonly known as hives are itchy wheals caused by an allergic reaction\npassage: Hives -- Hives frequently occur following an infection or as a result of an allergic reaction such as to medication, insect bites, or food. Psychological stress, cold temperature, or vibration may also be a trigger. In half of cases the cause remains unknown. Risk factors include having conditions such as hay fever or asthma. Diagnosis is typically based on the appearance. Patch testing may be useful to determine the allergy."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is it legal to own a flamethrower in california\npassage: Flamethrower -- In the United States, private ownership of a flamethrower is not restricted by federal law. Flamethrowers are legal in 48 states and restricted in California and Maryland."
+  },
+  {
+    "label": "True",
+    "sentence": "question: are chicken fingers and chicken tenders the same thing\npassage: Chicken fingers -- Chicken fingers, also known as chicken tenders, chicken tendies, chicken goujons, chicken strips or chicken fillets, are chicken meat prepared from the pectoralis minor muscles of the animal. These strips of white meat are located on either side of the breastbone, under the breast meat, sometimes just pulverized chicken flesh. (pectoralis major). They may also be made with similarly shaped pieces cut from chicken meat, usually the breast."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is black mirror season 4 episode 5 in black and white\npassage: Metalhead (Black Mirror) -- ``Metalhead'' is the only Black Mirror episode filmed entirely in black and white, and follows the plight of Bella (Maxine Peake) trying to flee from robotic ``dogs'' after the unexplained collapse of human society. The ``dogs'' were influenced by Boston Dynamics' robotic dogs."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you have a president and a monarch\npassage: Monarch -- Monarchies take a wide variety of forms, such as the two co-princes of Andorra, positions held simultaneously by the Roman Catholic Bishop of Urgel (Spain) and the elected President of France (although strictly Andorra is a diarchy). Similarly, the Yang di-Pertuan Agong of Malaysia is considered a monarch despite only holding the position for five years at a time."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can lack of sleep cause seizures in adults\npassage: Causes of seizures -- Sleep deprivation is the second most common trigger of seizures. In some cases, it has been responsible for the only seizure a person ever suffers. However, the reason for which sleep deprivation can trigger a seizure is unknown. One possible thought is that the amount of sleep one gets affects the amount of electrical activity in one's brain."
+  },
+  {
+    "label": "False",
+    "sentence": "question: do you have to give police your id\npassage: Stop and identify statutes -- ``Stop and identify'' statutes are statutory laws in the United States that authorize police to legally obtain the identification of someone whom they reasonably suspect of having committed a crime. If there is no reasonable suspicion that a crime has been committed, is being committed, or is about to be committed, an individual is not required to provide identification, even in ``Stop and ID'' states. In the case of Utah v. Strieff (2016), the U.S. Supreme Court ruled that an officer's stop of Edward Strieff and his demand for identification from Strieff was unlawful under Utah state law, but that the evidence collected pursuant to the stop was admissible due to the determination that Strieff was subject to a pre-existing arrest warrant. Therefore, the pre-existing warrant ``attenuated'' the unlawful stop-and-identify."
+  },
+  {
+    "label": "False",
+    "sentence": "question: can you buy a gun with dishonorable discharge\npassage: Military discharge -- With this characterization of service, all veterans' benefits are lost, regardless of any past honorable service, and this type of discharge is regarded as shameful in the military. In many states a dishonorable discharge is deemed the equivalent of a felony conviction, with attendant loss of civil rights. Additionally, US federal law prohibits possession of firearms by those who have been dishonorably discharged per the Gun Control Act of 1968."
+  },
+  {
+    "label": "True",
+    "sentence": "question: do banks in the us have swift codes\npassage: Society for Worldwide Interbank Financial Telecommunication -- SWIFT was founded in Brussels in 1973 under the leadership of its inaugural CEO, Carl Reuterskiöld (1973--1983), and was supported by 239 banks in fifteen countries. It started to establish common standards for financial transactions and a shared data processing system and worldwide communications network designed by Logica and developed by The Burroughs Corporation. Fundamental operating procedures, rules for liability, etc., were established in 1975 and the first message was sent in 1977. SWIFT's first United States operating center was inaugurated by Governor John N. Dalton of Virginia in 1979."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there an extra scene in infinity wat\npassage: Avengers: Infinity War -- Additionally, several other actors reprise their MCU roles: Danai Gurira as Okoye, the head of the Dora Milaje; Letitia Wright as T'Challa's sister Shuri; William Hurt as Thaddeus Ross, the U.S. Secretary of State; Kerry Condon as the voice of Stark's A.I. F.R.I.D.A.Y.; Winston Duke as M'Baku, the leader of Wakanda's mountain tribe the Jabari; Florence Kasumba as Ayo, a member of the Dora Milaje; Jacob Batalon as Parker's friend Ned; Isabella Amara as Parker's classmate Sally; Tiffany Espensen as Parker's classmate Cindy; and Ethan Dizon as Parker's classmate Tiny. Samuel L. Jackson and Cobie Smulders make uncredited cameos as Nick Fury and Maria Hill, the former director and deputy director of S.H.I.E.L.D, respectively, in the film's post-credits scene."
+  },
+  {
+    "label": "True",
+    "sentence": "question: do they still hold the world's fair\npassage: World's fair -- In the 21st century the BIE has moved to sanction expos only every five years; following the numerous expos of the 1980s and 1990s, some see this as a means to cut down potential expenditure by participating nations. The move was also seen by some as an attempt to avoid conflicting with the Summer Olympics. The rule may apply to all expos, or it may end up that universal expositions will be restricted to every five years or so, with international or specialized expositions in the in-between years for countries wishing to celebrate a special event. The most recent universal expo was Expo 2017 in Astana."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is el segundo in the city of los angeles\npassage: El Segundo, California -- El Segundo is a city located in Los Angeles County, California, United States. El Segundo, from Spanish, means ``The Second'' in English. Located on the Santa Monica Bay, it was incorporated on January 18, 1917, and part of the South Bay Cities Council of Governments. The population was 16,654 at the 2010 census, slightly up from 16,033 at the 2000 census."
+  },
+  {
+    "label": "False",
+    "sentence": "question: does the unites states have an official language\npassage: Languages of the United States -- Many languages are spoken, or historically have been spoken, in the United States. Today over 350 languages are used by the U.S. population. The most commonly used language is English (specifically, American English), which is the de facto national language of the United States. Since the 1965 Immigration Act, Spanish is the second most common language in the country. The United States does not have an official language, but 32 state governments out of 50 have declared English to be one, or the only, official language. The government of Louisiana offers services and most documents in both English and French, as does New Mexico in English and Spanish. The government of Puerto Rico, a U.S. territory, operates almost entirely in Spanish, even though its official languages are Spanish and English. There are many languages indigenous to North America or to U.S. states or holdings in the Pacific region. Hawaiian, although having few native speakers, is an official language along with English of the state of Hawaii. Alaska officializes English and twenty native languages."
+  },
+  {
+    "label": "True",
+    "sentence": "question: did france get alsace lorraine back after ww1\npassage: Alsace-Lorraine -- The territory was made up of 93% of Alsace and 26% of Lorraine; the remaining portions of these regions continued to be part of France. For historical reasons, specific legal dispositions are still applied in the territory in the form of a ``local law''. In relation to its special legal status, since its reversion to France following World War I, the territory has been referred to administratively as Alsace-Moselle."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is there ice cream in an orange julius\npassage: Orange Julius -- Orange Julius is an American chain of fruit drink beverage stores. It has been in business since the late 1920s. The eponymous beverage is a mixture of ice, orange juice, sweetener, milk, powdered egg whites and vanilla flavoring, similar to a morir soñando or orange Creamsicle."
+  },
+  {
+    "label": "False",
+    "sentence": "question: can a non resident buy a gun in new mexico\npassage: Gun laws in New Mexico -- New Mexico is a Shall-Issue state for the concealed carry of handguns, and permits the open carry of loaded firearms without a permit. A New Mexico Concealed Handgun License (CHL) is required by in-state residents to carry in a concealed manner a loaded handgun while on foot. Per state law, a firearm is considered ``loaded'' when a magazine with live ammunition is inserted into the weapon and/or a live round is in the firing chamber. (citation needed) Additionally, state law (NMSA 29-19-2) defines a concealed handgun as ``a loaded handgun that is not visible to the ordinary observations of a reasonable person.'' This definition creates legal ambiguity for partially-exposed weapons, as the firearm may be visible to one person and thus no violation of law occurs since it would be viewed as open carry. However, the same partially-exposed weapon may not be readily visible to a second person, thus potentially placing the carrying person in violation of the state's concealed carry law if the individual carrying does not have a valid license for concealed carry. A CHL is not required for open carry, concealed carry of an unloaded firearm on foot, or concealed carry of a loaded or unloaded firearm while in a vehicle (including motorcycles, bicycles, off-road vehicles, motor homes, or riding a horse). An applicant for a concealed carry permit must be a resident of New Mexico and at least 21 years of age. Each permit specifies the category and caliber of handgun that may be carried, but is also valid for a smaller caliber. The applicant must complete a state approved training course that includes at least 15 hours of classroom and firing range time, and must pass a shooting proficiency test for that category and caliber of handgun. A permit is valid for four years, but license holders must pass the shooting proficiency test every two years. An applicant may appeal the denial of a Concealed Handgun License by requesting a hearing before the Department of Public Safety within 35 days of receipt of an Order of Denial for a CHL. An unfavorable ruling on the appeal by the DPS may be further appealed through the New Mexico courts. New Mexico currently recognizes concealed carry permits from or has reciprocal agreements with the following states: Alaska, Arizona, Arkansas, Colorado, Delaware, Florida, Idaho, Kansas, Louisiana, Michigan, Mississippi, Missouri, Nebraska, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, Tennessee, Texas, Virginia, West Virginia, and Wyoming. New Mexico does not issue CCW permits to non-residents, except for Active Duty military members permanently assigned to a military installation within the state. Part-time residents with a valid New Mexico ID or Driver's license may apply for a New Mexico CHL. New Mexico does not recognize out-of-state nonresident permits held by in-state residents for concealed carry; in other words, New Mexico residents must hold a New Mexico CHL to lawfully carry a concealed, loaded handgun while on foot within the state."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is japan a country made up of islands\npassage: Japan -- Japan (Japanese: 日本; Nippon (ɲippoɴ) or Nihon (ɲihoɴ); formally 日本国 Nippon-koku or Nihon-koku, lit. ``State of Japan'') is a sovereign island country in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the vampire diaries related to the originals\npassage: The Originals (TV series) -- The Originals is an American television series that began airing on The CW on October 3, 2013. Created as a spin-off of The Vampire Diaries, the series follows vampire-werewolf hybrid Klaus Mikaelson as he and his family become embroiled in the supernatural politics of New Orleans."
+  },
+  {
+    "label": "False",
+    "sentence": "question: was kentucky a southern state in the civil war\npassage: Kentucky in the American Civil War -- Kentucky, being a border state, was among the chief places where the ``Brother against brother'' scenario was prevalent. Kentucky officially declared its neutrality at the beginning of the war, but after a failed attempt by Confederate General Leonidas Polk to take the state of Kentucky for the Confederacy, the legislature petitioned the Union Army for assistance. After early 1862 Kentucky came largely under Union control."
+  },
+  {
+    "label": "False",
+    "sentence": "question: are shaw's and star market the same\npassage: Shaw's and Star Market -- Shaw's and Star Market are two American grocery store chains based in West Bridgewater, Massachusetts, employing about 30,000 associates in 154 stores. One hundred thirty two stores are operated under the Shaw's banner in Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont, while Star Market operates 22 stores in Massachusetts. Until 2010, Shaw's operated stores in all six New England states and as of 2011 Shaw's remained the only supermarket chain with stores in five of the six after it sold its Connecticut operations. The chain's largest competitors are Hannaford, Market Basket, Roche Bros., and Stop & Shop. Star Market is a companion store to Shaw's; Shaw's having purchased the competing chain in 1999."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there going to be a carrie 2\npassage: The Rage: Carrie 2 -- The Rage: Carrie 2 is a 1999 American supernatural horror film directed by Katt Shea and a sequel to the 1976 horror film Carrie, based on the novel of the same name by Stephen King, and features Carrie White's baby half-sister Rachel Lang in the lead role. Directed by Katt Shea, the film stars Emily Bergl, Jason London, Dylan Bruno, J. Smith-Cameron, and Amy Irving who reprises her role of Sue Snell from the previous film."
+  },
+  {
+    "label": "False",
+    "sentence": "question: does a heater core have anything to do with the ac\npassage: Heater core -- A heater core is a radiator-like device used in heating the cabin of a vehicle. Hot coolant from the vehicle's engine is passed through a winding tube of the core, a heat exchanger between coolant and cabin air. Fins attached to the core tubes serve to increase surface for heat transfer to air that is forced past them, by a fan, thereby heating the passenger compartment."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is it illegal to count cards in las vegas\npassage: Card counting -- Card counting is not illegal under British law, nor is it under federal, state, or local laws in the United States provided that no external card counting device or person assists the player in counting cards. Still, casinos object to the practice, and try to prevent it, banning players believed to be counters. In their pursuit to identify card counters, casinos sometimes misidentify and ban players suspected of counting cards even if they do not."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does preston burke ever come back to grey anatomy\npassage: Preston Burke -- While mentioned in passing throughout later seasons, Burke officially returns in the tenth season in order to conclude Cristina Yang's departure from the series."
+  },
+  {
+    "label": "False",
+    "sentence": "question: did the berlin wall go all around west berlin\npassage: Berlin Wall -- The Berlin Wall (German: Berliner Mauer, pronounced (bɛʁˈliːnɐ ˈmaʊ̯ɐ) ( listen)) was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989. Constructed by the German Democratic Republic (GDR, East Germany), starting on 13 August 1961, the Wall cut off (by land) West Berlin from virtually all of surrounding East Germany and East Berlin until government officials opened it in November 1989. Its demolition officially began on 13 June 1990 and finished in 1992. The barrier included guard towers placed along large concrete walls, accompanied by a wide area (later known as the ``death strip'') that contained anti-vehicle trenches, ``fakir beds'' and other defenses. The Eastern Bloc portrayed the Wall as protecting its population from fascist elements conspiring to prevent the ``will of the people'' in building a socialist state in East Germany."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you use guernsey money in the uk\npassage: Guernsey pound -- The pound is the currency of Guernsey. Since 1921, Guernsey has been in currency union with the United Kingdom and the Guernsey pound is not a separate currency but is a local issue of banknotes and coins denominated in pound sterling, in a similar way to the banknotes issued in Scotland, England and Northern Ireland (see Banknotes of the pound sterling). It can be exchanged at par with other sterling coinage and notes (see also sterling zone)."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there a 4 point shot in basketball\npassage: Four-point field goal -- A four-point field goal (also called a four-pointer) is a field goal in a basketball game made from a part of the court designated for a four-point shot, the designated area is typically farther from the basket than the three-point arc. A successful attempt is worth four points, in contrast to the three points awarded for a shot beyond the three point line, two points awarded for field goals made within the three-point line and the one point for each made free throw."
+  },
+  {
+    "label": "True",
+    "sentence": "question: did roseanne's husband die in the original series\npassage: Dan Conner -- During the final episode of season 9, when Roseanne reveals that the entire ninth season was written as a book based on her life and family, she changed certain elements of what she had not liked; most notably, that Dan had actually died after having his heart attack in ``The Wedding'', near the end of season 8."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there a series 5 of person of interest\npassage: Person of Interest (TV series) -- Person of Interest is an American science fiction crime drama television series that aired on CBS from September 22, 2011, to June 21, 2016, its five seasons comprising 103 episodes. The series was created by Jonathan Nolan, with Nolan, J.J. Abrams, Bryan Burk, Greg Plageman, Denise Thé, and Chris Fisher serving as executive producers."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is matt damon singing scotty doesn't know\npassage: Scotty Doesn't Know -- In the film EuroTrip, Scotty (Scott Mechlowicz) is dumped by his girlfriend Fiona (Kristin Kreuk) for the lead singer of a band (played in the film by Matt Damon). The band performs the song at a party Scotty is attending and is praised by many characters in the film (including Scotty's parents and eventually Scotty himself) as being ``catchy.'' The song becomes something of a popular phenomenon, appearing on the radio and across the world; in Bratislava, the song has been remixed and is playing in a popular nightclub. By the end of the film, it has become so widespread and popular that Scotty's best friend Cooper is able to use it as his cell phone ring tone."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you drink alcohol in public in denmark\npassage: Drinking in public -- Drinking in public in Denmark is legal in general. The law forbids ``disturbing of the public law and order''. Thus general consumption is accepted. Several cafes have outdoor serving in the same zones."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does an increase in income shifts the demand curve\npassage: Demand curve -- The shift of a demand curve takes place when there is a change in any non-price determinant of demand, resulting in a new demand curve. Non-price determinants of demand are those things that will cause demand to change even if prices remain the same--in other words, the things whose changes might cause a consumer to buy more or less of a good even if the good's own price remained unchanged. Some of the more important factors are the prices of related goods (both substitutes and complements), income, population, and expectations. However, demand is the willingness and ability of a consumer to purchase a good under the prevailing circumstances; so, any circumstance that affects the consumer's willingness or ability to buy the good or service in question can be a non-price determinant of demand. As an example, weather could be a factor in the demand for beer at a baseball game."
+  },
+  {
+    "label": "False",
+    "sentence": "question: does court number 1 at wimbledon have a roof\npassage: No. 1 Court (Wimbledon) -- In April 2013, the All England Club confirmed its intention to build a retractable roof over No.1 Court. The roof is expected to be in place for the 2019 Championships."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is north america and latin america the same\npassage: Latin America -- Latin America can be subdivided into several subregions based on geography, politics, demographics and culture. If defined as all of the Americas south of the United States, the basic geographical subregions are North America, Central America, the Caribbean and South America; the latter contains further politico-geographical subdivisions such as the Southern Cone, the Guianas and the Andean states. It may be subdivided on linguistic grounds into Hispanic America, Portuguese America and French America."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is popeye the sailor man a disney character\npassage: Popeye -- The 1988 Disney/Touchstone film Who Framed Roger Rabbit featured many classic cartoon characters, and the absence of Popeye was noted by some critics. Popeye (along with Bluto and Olive Oyl) actually had a role planned for the film. However, since the Popeye cartoons were based on a comic strip, Disney found they had to pay licensing fees to both King Features Syndicate and MGM/UA. MGM/UA's pre-May 1986 library (which included Popeye) was being purchased by Turner Entertainment at the time, which created legal complications; thus, the rights could not be obtained and Popeye's cameo was dropped from the film."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there gonna be a season 8 of the walking dead\npassage: The Walking Dead (season 8) -- The eighth season of The Walking Dead, an American post-apocalyptic horror television series on AMC, premiered on October 22, 2017, and concluded on April 15, 2018, consisting of 16 episodes. Developed for television by Frank Darabont, the series is based on the eponymous series of comic books by Robert Kirkman, Tony Moore, and Charlie Adlard. The executive producers are Kirkman, David Alpert, Scott M. Gimple, Greg Nicotero, Tom Luse, and Gale Anne Hurd, with Gimple as showrunner for his fifth and final season. The eighth season received positive reviews from critics. It was nominated for multiple awards and won two, including Best Horror Television Series for the third consecutive year, at the 44th Saturn Awards."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is stock price the same as share price\npassage: Share price -- Many U.S.-based companies seek to keep their share price (also called stock price) low, partly based on ``round lot'' trading (multiples of 100 shares). A corporation can adjust its stock price by a stock split, substituting a quantity of shares at one price for a different number of shares at an adjusted price where the value of shares x price remains equivalent. (For example, 500 shares at $32 may become 1000 shares at $16.) Many major firms like to keep their price in the $25 to $75 price range."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is the first round of nhl playoffs best of 5\npassage: Stanley Cup playoffs -- The Stanley Cup playoffs (French: Les séries éliminatoires de la Coupe Stanley) is an elimination tournament in the National Hockey League consisting of four rounds of best-of-seven series. Eight teams from each of the two conferences qualify for the playoffs based on regular season points totals. The final round is commonly known as the Stanley Cup Finals, which sees the two conference champions play for the Stanley Cup."
+  },
+  {
+    "label": "True",
+    "sentence": "question: did the movie giant win an academy award\npassage: Giant (1956 film) -- Giant is a 1956 American epic Western drama film, directed by George Stevens from a screenplay adapted by Fred Guiol and Ivan Moffat from Edna Ferber's 1952 novel. The film stars Elizabeth Taylor, Rock Hudson and James Dean and features Carroll Baker, Jane Withers, Chill Wills, Mercedes McCambridge, Dennis Hopper, Sal Mineo, Rod Taylor, Elsa Cardenas and Earl Holliman. Giant was the last of James Dean's three films as a leading actor, and earned him his second and last Academy Award nomination -- he was killed in a car accident before the film was released. Nick Adams was called in to do some voice dubbing for Dean's role."
+  },
+  {
+    "label": "False",
+    "sentence": "question: are you allowed to lane split in florida\npassage: Lane splitting -- Proponents of lane splitting state the Hurt Report of 1981 reached the conclusion that lane splitting improves motorcycle safety by reducing rear end crashes. Lane splitting supporters also state that the US DOT FARS database shows that fatalities from rear-end collisions into motorcycles are 30% lower in California than in Florida or Texas, states with similar riding seasons and populations but which do not lane split. No specifics are given about where this conclusion is found in the FARS system. The database is available online to the public. The NHTSA does say, based on the Hurt Report, that lane splitting ``slightly reduces'' rear-end accidents, and is worthy of further study due to the possible congestion reduction benefits."
+  },
+  {
+    "label": "True",
+    "sentence": "question: did the grandfather of pawn stars pass away\npassage: Richard Benjamin Harrison -- Richard Benjamin Harrison Jr. (March 4, 1941 -- June 25, 2018), also known by the nicknames The Old Man and The Appraiser, was an American businessman and reality television personality, best known as the co-owner of the World Famous Gold & Silver Pawn Shop, as featured on the History Channel series Pawn Stars. Harrison was the co-owner of the pawn shop with his son Rick Harrison. They opened the store together in 1989."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can stainless steel cookware be used on induction cooktops\npassage: Induction cooking -- For nearly all models of induction cooktops, a cooking vessel must be made of, or contain, a ferromagnetic metal such as cast iron or some stainless steels. However, copper, glass, non magnetic stainless steels, and aluminum vessels can be used if placed on a ferromagnetic disk which functions as a conventional hotplate."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can i go to andorra with schengen visa\npassage: Visa policy of Andorra -- The Andorran government imposes no visa requirements on its visitors and only requires a passport or European Union national identity card for entrance. However, since the country is only accessible via the Schengen countries of Spain or France, entrance is not possible without entering the Schengen area first and the Schengen visa rules can therefore be regarded to apply de facto. Because Andorra is not part of the Schengen area, a multiple entry visa is required to re-enter the Schengen area when leaving Andorra. Foreign visitors looking to stay in Andorra more than 90 days require a residence permit.(2)"
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you drink in missouri as a passenger\npassage: Alcohol laws of Missouri -- Although a driver is prohibited from consuming alcohol while driving, Missouri has no general open container law for vehicles, a characteristic which Missouri shares only with the states of Arkansas, Connecticut, Delaware, Mississippi, Virginia, and West Virginia. Any non-driving vehicle passenger thus is permitted to possess an open container and consume alcohol in Missouri while the vehicle is in motion, although 31 smaller municipalities, the largest being Independence and St. Charles, have local open container laws. The metropolises of St. Louis and Kansas City have no local open container laws, and thus the state law (or lack thereof) governs. This makes it possible for a passenger to drink legally through the entire 250-mile (400 km) trip across Missouri on Interstate 70 between Downtown Kansas City and Downtown St. Louis, only closing the container while passing through the city limits of Independence, Bates City, Columbia, Foristell, and St. Charles."
+  },
+  {
+    "label": "True",
+    "sentence": "question: was there ever a case of lupus on house\npassage: You Don't Want to Know -- ``You Don't Want To Know'' is the eighth episode of the fourth season of the American TV drama House and the seventy-eighth episode overall. It aired on 20 November 2007. Notably, in this episode the differential diagnosis is confirmed as lupus despite the fact that 'It's not lupus - it's never lupus' is a phrase often used to the point of catchphrase by the eponymous Dr. Gregory House."
+  },
+  {
+    "label": "True",
+    "sentence": "question: was meet me in st louis filmed in color\npassage: Meet Me in St. Louis -- The film was nominated for four Academy Awards: Best Writing, Adapted Screenplay, Best Cinematography, Color, Best Music, Scoring of a Musical Picture, and Best Music, Song (Ralph Blane and Hugh Martin for ``The Trolley Song''). Margaret O'Brien received an Academy Juvenile Award for her work that year, in which she appeared in several movies along with Meet Me in St. Louis."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does dennis from hotel transylvania become a vampire\npassage: Hotel Transylvania 2 -- While the family argues, Dennis sadly flees the hotel and enters the forest with Winnie in tow, hiding in her treehouse. They are attacked by Bela, who mistakes Dennis for a human. When Bela injures Winnie and threatens to destroy the hotel, Dennis' anger causes him to instantly grow his fangs and his vampire abilities manifest. He begins to fight Bela, who calls his giant-bat minions. Dracula, Mavis, Dennis, Johnny, the rest of the monsters, and Johnny's family team up to defeat Bela's allies. A livid Bela then attempts to kill Johnny himself with a stake. Having been won over by Dracula's claim that humans are harmless now, Vlad shrinks Bela and tells him never to bother his family again. With Dennis having vampire abilities, Mavis and Johnny continue to raise him in Transylvania, and they resume the party with his friends."
+  },
+  {
+    "label": "False",
+    "sentence": "question: does the empire state building have a 600th floor\npassage: Empire State Building -- The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. Designed by Shreve, Lamb & Harmon and completed in 1931, the building has a roof height of 1,250 feet (380 m) and stands a total of 1,454 feet (443.2 m) tall, including its antenna. Its name is derived from ``Empire State'', the nickname of New York. As of 2017 the building is the 5th-tallest completed skyscraper in the United States and the 28th-tallest in the world. It is also the 6th-tallest freestanding structure in the Americas."
+  },
+  {
+    "label": "True",
+    "sentence": "question: do i need a visa to travel to turkey from ireland\npassage: Visa policy of Turkey -- Even though Turkey is a candidate country for the membership in the European Union, it has a more complex visa policy than the visa policy of the Schengen Area. Turkey requires visas from citizens of certain EU member states and Schengen Annex II countries and territories -- Antigua and Barbuda, Australia, Austria, Belgium, Bahamas, Barbados, Canada, Croatia, Cyprus, Dominica, East Timor, Grenada, Ireland, Kiribati, Malta, Marshall Islands, Mauritius, Mexico, Micronesia, Norway, Netherlands, Palau, Poland, Portugal, Saint Lucia, Saint Vincent and the Grenadines, Samoa, Solomon Islands, Spain, Taiwan, Tonga, Tuvalu, United Arab Emirates, United Kingdom, United States, and Vanuatu. On the other hand, Turkey grants visa-free access to citizens of other countries and territories -- Azerbaijan, Belarus, Belize, Bolivia, Ecuador, Iran, Kosovo, Kyrgyzstan, Jordan, Lebanon, Mongolia, Morocco, Qatar, Russia, Tajikistan, Thailand, Tunisia, Turkmenistan and Uzbekistan."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is jab harry met sejal a remake of when harry met sally\npassage: Jab Harry Met Sejal -- Jab Harry Met Sejal (English: When Harry Met Sejal) is a 2017 Indian romantic comedy film written and directed by Imtiaz Ali. It features Shah Rukh Khan and Anushka Sharma in the lead roles, their third collaboration after Rab Ne Bana Di Jodi (2008) and Jab Tak Hai Jaan (2012). Pre-production of the film begun in April 2015 and principal photography commenced in August 2016 in Prague, Amsterdam, Vienna, Lisbon and Budapest."
+  },
+  {
+    "label": "False",
+    "sentence": "question: was the war of 1812 the american revolution\npassage: War of 1812 -- American expansion into the Northwest Territory was being obstructed by various Indian tribes since the end of the Revolution, who were supplied and encouraged by the British. Americans on the western frontier demanded that interference be stopped. There is dispute, however, over whether or not the American desire to annex Canada brought on the war. Several historians believe that the capture of Canada was intended only as a means to secure a bargaining chip, which would then be used to force Britain to back down on the maritime issues. It would also cut off food supplies for Britain's West Indian colonies, and temporarily prevent the British from continuing to arm the Indians. However, many historians believe that a desire to annex Canada was a cause of the war. This view was more prevalent before 1940, but remains widely held today. Congressman Richard Mentor Johnson told Congress that the constant Indian atrocities along the Wabash River in Indiana were enabled by supplies from Canada and were proof that ``the war has already commenced... I shall never die contented until I see England's expulsion from North America and her territories incorporated into the United States.''"
+  },
+  {
+    "label": "False",
+    "sentence": "question: is london zoo part of the merlin group\npassage: The Tussauds Group -- The Tussauds Group is now part of Merlin Entertainments, the world's second largest leisure group, after Disney. It is based in Poole, Dorset from where it manages a portfolio of brands and over 50 attractions including the Madame Tussauds waxworks, Legoland Theme Parks, Legoland Discovery Centers, Sea Life Centres, Gardaland in Italy, Heide Park Resort in Germany, The Dungeons, The London Eye, The Blackpool Tower attractions, The Orlando Eye, Warwick Castle, Alton Towers, Thorpe Park, and Chessington World of Adventures."
+  },
+  {
+    "label": "False",
+    "sentence": "question: do all pendulums swing at the same rate\npassage: Pendulum -- A pendulum is a weight suspended from a pivot so that it can swing freely. When a pendulum is displaced sideways from its resting, equilibrium position, it is subject to a restoring force due to gravity that will accelerate it back toward the equilibrium position. When released, the restoring force acting on the pendulum's mass causes it to oscillate about the equilibrium position, swinging back and forth. The time for one complete cycle, a left swing and a right swing, is called the period. The period depends on the length of the pendulum and also to a slight degree on the amplitude, the width of the pendulum's swing."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is jersey money legal tender in the uk\npassage: Jersey pound -- Both Jersey and Bank of England notes are legal tender in Jersey and circulate together, alongside the Guernsey pound and Scottish banknotes. The Jersey notes are not legal tender in the United Kingdom but are legal currency, so creditors and traders may accept them if they so choose."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you send an envelope without a return address\npassage: Return address -- The return address is not required on postal mail. However, lack of a return address prevents the postal service from being able to return the item if it proves undeliverable; such as from damage, postage due, or invalid destination. Such mail may otherwise become dead letter mail."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is northern ireland a part of united kingdom\npassage: Northern Ireland -- Northern Ireland (Irish: Tuaisceart Éireann (ˈt̪ɣuəʃcəɾɣt̪ɣ ˈeːɾjən̪ɣ) ( listen); Ulster-Scots: Norlin Airlann) is a part of the United Kingdom in the north-east of the island of Ireland, variously described as a country, province or region. Northern Ireland shares a border to the south and west with the Republic of Ireland. In 2011, its population was 1,810,863, constituting about 30% of the island's total population and about 3% of the UK's population. Established by the Northern Ireland Act 1998 as part of the Good Friday Agreement, the Northern Ireland Assembly holds responsibility for a range of devolved policy matters, while other areas are reserved for the British government. Northern Ireland co-operates with the Republic of Ireland in some areas, and the Agreement granted the Republic the ability to ``put forward views and proposals'' with ``determined efforts to resolve disagreements between the two governments''."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there a difference between ez pass and express e zpass\npassage: E-ZPass -- Most E‐ZPass lanes are converted manual toll lanes and must have fairly low speed limits for safety reasons (between 5 and 15 miles per hour (8 and 24 km/h) is typical), so that E‐ZPass vehicles can merge safely with vehicles that stopped to pay a cash toll and, in some cases, to allow toll workers to safely cross the E‐ZPass lanes to reach booths accepting cash payments. In some areas, however (typically recently built or retrofitted facilities), there is no need to slow down, because E‐ZPass users can utilize dedicated traffic lanes (``Express E‐ZPass'') that are physically separate from the toll-booth lanes. Examples include:"
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you pass your own pawn in sorry\npassage: Sorry! (game) -- A pawn can jump over any other pawn during its move. However, two pawns cannot occupy the same square; a pawn that lands on a square occupied by another player's pawn ``bumps'' that pawn back to its own Start. Players can not bump their own pawns back to Start; if the only way to complete a move would result in a player bumping his or her own pawn, the player's pawns remain in place and the player loses his or her turn."
+  },
+  {
+    "label": "False",
+    "sentence": "question: do you have to have a middle name in the united states\npassage: Middle name -- In the United States, such names are specifically referred to as middle names; in most other countries, as far as they are given names and not, for example, patronymics, they would simply be regarded as second, third etc. given names. In the U.S., the ``middle name'' is often abbreviated to the middle initial (e.g. Mary Lee Bianchi becomes Mary L. Bianchi, which is usually standard for signatures ) or omitted entirely in everyday use (e.g. just Mary Bianchi). An individual may have more than one middle name, or none. In the United Kingdom, for comparison, she would usually be referred to as either Mary Bianchi, M.L. Bianchi or Mary Lee Bianchi, or she may choose Lee Bianchi, and informally there may be familiar shortenings."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can an iron deficiency cause dark circles under the eyes\npassage: Periorbital dark circles -- The lack of nutrients in the diet, or the lack of a balanced diet, can contribute to the discoloration of the area under the eyes. It is believed that iron deficiency can cause dark circles as well. Iron deficiency is the most common type of anemia and this condition is a sign that not enough oxygen is getting to the body tissues."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does a white blood cell have a nucleus\npassage: White blood cell -- All white blood cells have nuclei, which distinguishes them from the other blood cells, the anucleated red blood cells (RBCs) and platelets. Types of white blood cells can be classified in standard ways. Two pairs of broadest categories classify them either by structure (granulocytes or agranulocytes) or by cell lineage (myeloid cells or lymphoid cells). These broadest categories can be further divided into the five main types: neutrophils, eosinophils (acidophiles), basophils, lymphocytes, and monocytes. These types are distinguished by their physical and functional characteristics. Monocytes and neutrophils are phagocytic. Further subtypes can be classified; for example, among lymphocytes, there are B cells, T cells, and NK cells."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is venice in the city of los angeles\npassage: Venice, Los Angeles -- Venice is a residential, commercial, and recreational beachfront neighborhood within Los Angeles, California. It is located within the urban region of western Los Angeles County known as the Westside."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the bank of england a private limited company\npassage: Bank of England -- In 1977, the Bank set up a wholly owned subsidiary called Bank of England Nominees Limited (BOEN), a private limited company, with two of its hundred £1 shares issued. According to its Memorandum & Articles of Association, its objectives are: ``To act as Nominee or agent or attorney either solely or jointly with others, for any person or persons, partnership, company, corporation, government, state, organisation, sovereign, province, authority, or public body, or any group or association of them...'' Bank of England Nominees Limited was granted an exemption by Edmund Dell, Secretary of State for Trade, from the disclosure requirements under Section 27(9) of the Companies Act 1976, because ``it was considered undesirable that the disclosure requirements should apply to certain categories of shareholders.'' The Bank of England is also protected by its royal charter status, and the Official Secrets Act. BOEN is a vehicle for governments and heads of state to invest in UK companies (subject to approval from the Secretary of State), providing they undertake ``not to influence the affairs of the company''. BOEN is no longer exempt from company law disclosure requirements. Although a dormant company, dormancy does not preclude a company actively operating as a nominee shareholder. BOEN has two shareholders: the Bank of England, and the Secretary of the Bank of England.."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the tv show blue bloods still on\npassage: Blue Bloods (TV series) -- Blue Bloods is an American police procedural fictional drama series that airs on CBS. The series is filmed on location in New York City with occasional references to nearby suburbs. The series debuted on September 24, 2010, with episodes airing on Fridays following CSI: NY before being moved to Wednesdays at 10:00 p.m. Eastern and Pacific time and 9:00 p.m. Central and Mountain time for a four-week tryout. After four weeks, it returned to its original Friday 10:00 p.m. Eastern time slot, where it has remained since. On April 18, 2018, CBS renewed the series for a ninth season which is set to premiere on September 28, 2018."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is the great barrier reef a single organism\npassage: Great Barrier Reef -- The Great Barrier Reef can be seen from outer space and is the world's biggest single structure made by living organisms. This reef structure is composed of and built by billions of tiny organisms, known as coral polyps. It supports a wide diversity of life and was selected as a World Heritage Site in 1981. CNN labelled it one of the seven natural wonders of the world. The Queensland National Trust named it a state icon of Queensland."
+  },
+  {
+    "label": "False",
+    "sentence": "question: the capital of brazil is rio de janeiro\npassage: Rio de Janeiro -- Rio de Janeiro (/ˈriːoʊ di ʒəˈnɛəroʊ, -deɪ ʒə-, -də dʒə-/; Portuguese pronunciation: (ˈʁi.ud(ʒi) ʒɐˈnejɾu); River of January), or simply Rio, is the second-most populous municipality in Brazil and the sixth-most populous in the Americas. The metropolis is anchor to the Rio de Janeiro metropolitan area, the second-most populous metropolitan area in Brazil and sixth-most populous in the Americas. Rio de Janeiro the capital of the state of Rio de Janeiro, Brazil's third-most populous state. Part of the city has been designated as a World Heritage Site, named ``Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea'', by UNESCO on 1 July 2012 as a Cultural Landscape."
+  },
+  {
+    "label": "False",
+    "sentence": "question: do chinese citizens need a visa for morocco\npassage: Visa requirements for Chinese citizens -- Visa requirements for Chinese citizens were lifted by Micronesia on 18 December 1980, the Bahamas on 12 Feb 2014, Indonesia in 2015, Grenada on 10 Jun 2015, Ecuador on 1 March 2016, Morocco on 1 June 2016, Tonga on 19 August 2016, Saint Kitts and Nevis on 1 January 2017, Serbia on 15 January 2017, Tunisia on 15 February 2017, Barbados on 1 June 2017, United Arab Emirates on 16 January 2018, Bosnia and Herzegovina on 29 May 2018, British Virgin Islands on 5 July 2018, St Lucia on 18 July 2018, and Belarus on 10 August 2018."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is it normal for guys to dribble after peeing\npassage: Post-void dribbling -- Post-void dribbling or post-micturition dribbling is the where urine remaining in the urethra after voiding the bladder slowly leaks out after urination. A common and usually benign complaint, it may be a symptom of urethral diverticulum, prostatitis and other medical problems."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is there any chi chi's still open\npassage: Chi-Chi's -- One lone restaurant was still open in Utah until 2011."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is brazil the largest country in south america\npassage: Brazil -- Brazil (Portuguese: Brasil (bɾaˈziw)), officially the Federative Republic of Brazil (Portuguese: República Federativa do Brasil, listen (help info)), is the largest country in both South America and Latin America. At 8.5 million square kilometers (3.2 million square miles) and with over 208 million people, Brazil is the world's fifth-largest country by area and the sixth most populous. The capital is Brasília, and the most populated city is São Paulo. It is the largest country to have Portuguese as an official language and the only one in the Americas, besides being one of the most multicultural and ethnically diverse nations, due to the strong immigration from various places in the world. Bounded by the Atlantic Ocean on the east, Brazil has a coastline of 7,491 kilometers (4,655 mi). It borders all other South American countries except Ecuador and Chile and covers 47.3% of the continent's land area. Its Amazon River basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected habitats. This unique environmental heritage makes Brazil one of 17 megadiverse countries, and is the subject of significant global interest and debate regarding deforestation and environmental protection."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you have a delayed reaction to grief\npassage: Delayed grief -- In cases of delayed grief, the reaction to the loss is postponed until a later time, even years later, and might be triggered by a seemingly unrelated event, such as a recent divorce or even the death of a pet, but with reactions excessive to the current situation."
+  },
+  {
+    "label": "True",
+    "sentence": "question: what number is national geographic channel on sky\npassage: National Geographic Channel (UK and Ireland) -- National Geographic Channel HD is available in the UK and Ireland. It launched on 22 May 2006 on Sky channel 543. The channel joined Virgin Media's cable TV line-up on 30 July 2009. On 5 August 2009, it was also made available on UPC Ireland's cable TV service. The HD version available in the UK and Ireland was not originally a simulcast of the standard definition version of the National Geographic Channel, with some of the content coming from Rush HD, however from 1 December 2010 National Geographic Channel HD became a simulcast."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is sophia dead in the walking dead comics\npassage: Sophia Peletier -- In the comics, Sophia is a member of the Atlanta refugee camp and becomes close friends with Carl, with whom she spends most her time - eventually becoming his girlfriend. Later, after her mother's suicide, she begins viewing Maggie and Glenn as her parents while remaining close to Carl. Although, because of the overrun world around them and their conflicting personalities, Sophia chooses to break up with Carl, though they still remain close friends and Carl is shown to be extremely protective of her. Sophia also becomes a resident of the Alexandria Safe-Zone and later the Hilltop Colony. She is the comic's longest surviving female character."
+  },
+  {
+    "label": "False",
+    "sentence": "question: can a us president be elected more than twice\npassage: Twenty-second Amendment to the United States Constitution -- Section 1. No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once. But this Article shall not apply to any person holding the office of President when this Article was proposed by the Congress, and shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this article becomes operative from holding the office of President or acting as President during the remainder of such term."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is mahi-mahi a type of tuna\npassage: Mahi-mahi -- The United States and the Caribbean countries are the primary consumers of this fish, but many European countries are increasing their consumption every year. It is a popular eating fish in Australia, usually caught and sold as a byproduct by tuna and swordfish commercial fishing operators. Japan and Hawaii are significant consumers. The Arabian Sea, particularly the coast of Oman, also has mahi-mahi. At first, mahi-mahi were mostly bycatch in the tuna and swordfish longline fishery. Now, they are sought by commercial fishermen on their own merits."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is spanish a second language in united states\npassage: Spanish language in the United States -- The Spanish language in the United States has forty-five million Hispanic and Latino Americans that speak Spanish as their first, second or heritage language, and there are six million Spanish language students in the United States. making it the second most spoken language of the United States. With over 50 million native speakers and second language speakers, the United States now has the second largest Spanish-speaking population in the world after Mexico, although it is not an official language of the country. Spanish is the most studied foreign language in United States schools and is spoken as a native tongue by 41 million people, plus an additional 11 million fluent second-language speakers. About half of all American Spanish speakers also assessed themselves as speaking English ``very well'' in the 2000 U.S. Census. The United States is among the Spanish-speaking countries that has its own Academy of the Spanish Language."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is there a new season for the fosters\npassage: The Fosters (season 5) -- The fifth and final season of The Fosters premiered on July 11, 2017. The season consisted of 22 episodes and stars Teri Polo and Sherri Saum as Stef Foster and Lena Adams, an interracial lesbian couple, who have adopted a girl (Maia Mitchell) and her younger brother (Hayden Byerly) while also trying to juggle raising Latino twin teenagers (Cierra Ramirez and Noah Centineo) and Stef's biological son (David Lambert). Danny Nucci also returns as Mike Foster in a semi-series regular role."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the movie big fish based on a book\npassage: Big Fish: A Novel of Mythic Proportions -- Big Fish: A Novel of Mythic Proportions is a 1998 novel by Daniel Wallace. It was adapted into a film, Big Fish, in 2003 by Tim Burton. A musical adaptation starring Norbert Leo Butz premiered in Chicago in April 2013."
+  },
+  {
+    "label": "False",
+    "sentence": "question: can you put a regular light bulb in a 3 way\npassage: 3-way lamp -- A 3-way lamp, also known as a tri-light, is a lamp that uses a 3-way light bulb to produce three levels of light in a low-medium-high configuration. A 3-way lamp requires a 3-way bulb and socket, and a 3-way switch. Unlike an incandescent lamp controlled by a dimmer, each of the filaments operates at full voltage, so the color of the light does not change between the three steps of light available. Certain compact fluorescent lamp bulbs are designed to replace 3-way incandescent bulbs, and have an extra contact and circuitry to bring about similar light level. In recent years, LED three way bulbs have become available as well."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is windows live id same as microsoft account\npassage: Microsoft account -- Microsoft account or MSA (previously known as Microsoft Passport, .NET Passport, Microsoft Passport Network, and Windows Live ID) is a single sign-on web service developed and provided by Microsoft that allows users to log into websites (like Outlook.com), devices (e.g. Windows 10 computers and tablets, Windows Phones, or Xbox consoles), and applications (including Visual Studio) using one account."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is a mongoose the same as a meerkat\npassage: Meerkat -- The meerkat or suricate (Suricata suricatta) is a small carnivoran belonging to the mongoose family (Herpestidae). It is the only member of the genus Suricata. Meerkats live in all parts of the Kalahari Desert in Botswana, in much of the Namib Desert in Namibia and southwestern Angola, and in South Africa. A group of meerkats is called a ``mob'', ``gang'' or ``clan''. A meerkat clan often contains about 20 meerkats, but some super-families have 50 or more members. In captivity, meerkats have an average life span of 12--14 years, and about half this in the wild."
+  },
+  {
+    "label": "False",
+    "sentence": "question: can puerto rico vote in the presidential elections\npassage: Federal voting rights in Puerto Rico -- Voting rights of United States citizens in Puerto Rico, like the voting rights of residents of other United States territories, differ from those of United States citizens in each of the fifty states and the District of Columbia. Residents of Puerto Rico and other U.S. territories do not have voting representation in the United States Congress, and are not entitled to electoral votes for President. The United States Constitution grants congressional voting representation to U.S. states, which Puerto Rico and other U.S. territories are not, specifying that members of Congress shall be elected by direct popular vote and that the President and the Vice President shall be elected by electors chosen by the States."
+  },
+  {
+    "label": "False",
+    "sentence": "question: can an attorney practice law in any state\npassage: Admission to practice law -- Regulation of the legal profession is a power reserved to the states pursuant to the Tenth Amendment to the US Constitution. Each state, territory and the District of Columbia has its own rules. Unlike many other countries, US jurisdictions do not license legal practitioners as solicitors and barristers, but all licensed attorneys are qualified to practice as both."
+  },
+  {
+    "label": "True",
+    "sentence": "question: has a team ever been swept in the nba finals\npassage: 2007 NBA Finals -- The 2007 NBA Finals was the championship series of the National Basketball Association (NBA)'s 2006--07 season, and was the conclusion of the season's playoffs. The best-of-seven series was played between the Western Conference champion San Antonio Spurs and the Eastern Conference champion Cleveland Cavaliers. This was Cleveland's first trip to the NBA Finals in their franchise history and San Antonio's fourth. The Spurs swept the Cavaliers 4 games to 0. Tony Parker was named the series' MVP. The series was televised on ABC under the ESPN on ABC branding, and produced low television ratings comparing to the 2002 NBA Finals, when the Los Angeles Lakers swept the New Jersey Nets."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you get round ligament pain not pregnant\npassage: Round ligament pain -- The pathogenesis of RLP is varied. Although very common during pregnancy, non-gestating women can also experience RLP. The most common causes of RLP are as follows:"
+  },
+  {
+    "label": "True",
+    "sentence": "question: did dan stevens sing in beauty and the beast 2017\npassage: Evermore (Beauty and the Beast song) -- ``Evermore'' is a song written by composer Alan Menken and lyricist Tim Rice for the musical fantasy film Beauty and the Beast (2017), a live-action remake of Disney's 1991 animated film of the same name. Originally recorded for the film by English actor Dan Stevens, who performs the song in his starring role as the titular Beast, ``Evermore'' was first released as a single by American singer Josh Groban on March 3, 2017. Stevens' version became available on March 10, 2017 when the film's soundtrack was released online, while Groban's cover is played during the film's closing credits."
+  },
+  {
+    "label": "True",
+    "sentence": "question: have china ever qualified for the world cup\npassage: China at the FIFA World Cup -- The China national team was founded in 1924 and joined FIFA in 1931--1958, and then from 1979. China first entered World Cup qualification in 1957 in an attempt to qualify for the 1958 FIFA World Cup. China failed to score a goal in their maiden World Cup appearance in 2002. However, qualifying for the tournament has been considered the greatest accomplishment in China's football history. As football is widely followed in China, triumph by the national team is considered to be a source of national pride. Around 300 million people tuned into broadcasts of China's World Cup 2002 matches, with 170 million new television sets being purchased by citizens in order to watch their nation's first World Cup appearance. The team is colloquially referred to as Team China (中国队), the National Team (国家队) or Guozu (国足, lit. ``national foot'' also meaning national football)."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is saran wrap and plastic wrap the same\npassage: Plastic wrap -- Plastic wrap, cling film, shrink wrap, Saran wrap, cling wrap, food wrap, or pliofilm is a thin plastic film typically used for sealing food items in containers to keep them fresh over a longer period of time. Plastic wrap, typically sold on rolls in boxes with a cutting edge, clings to many smooth surfaces and can thus remain tight over the opening of a container without adhesive. Common plastic wrap is roughly 0.0005 inches (12.7 μm) thick. The trend has been to produce thinner plastic wrap, particularly for household use (where very little stretch is needed), so now the majority of brands on shelves around the world are 8, 9 or 10 μm thick."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is self funded and self insured the same thing\npassage: Self-funded health care -- Self-funded health care, also known as Administrative Services Only (ASO), is a self insurance arrangement whereby an employer provides health or disability benefits to employees using the company's own funds. This is different from fully insured plans where the employer contracts an insurance company to cover the employees and dependents. In self-funded health care, the employer assumes the direct risk for payment of the claims for benefits. The terms of eligibility and covered benefits are set forth in a plan document which includes provisions similar to those found in a typical group health insurance policy. Unless exempted, such plans create rights and obligations under the Employee Retirement Income Security Act of 1974 (``ERISA'')."
+  },
+  {
+    "label": "False",
+    "sentence": "question: did the mayans and aztecs speak the same language\npassage: Mesoamerican languages -- Mesoamerica can be divided into smaller linguistic subareas wherein linguistic diffusion has been especially intense, or where certain families have extended to become predominant. One such subarea would be the Maya area covering the Yucatán Peninsula, all of Guatemala and Belize, and parts of the states of Chiapas and Tabasco, where Mayan languages have been highly predominant. In Chiapas and on the Guatemalan Pacific coast, speakers of Mixe--Zoquean languages were initially dominant, but with the spread of Mayan languages they were pushed out on the fringes of the areas, or into isolated pockets, and the same was the case for speakers of Xinca and Lenca which were probably also spoken in the area in the preclassic period. Another linguistic area is Oaxaca, which is dominated by speakers of Oto-Manguean languages; here Mixe--Zoque speakers were also gradually displaced by speakers of Zapotecan languages, as well as by speakers of Huave and Tequistlatecan languages. Oaxaca is the most linguistically diverse area of Mesoamerica and its 36,820 square miles (95,400 km) contain at least 100 mutually unintelligible linguistic variants. The subarea commonly called Central Mexico, covering valleys and mountainous areas surrounding the Valley of Mexico, originally contained mostly northern Oto-Manguean (Oto-Pamean) languages; however, beginning in the late classic these languages were gradually displaced by Nahuatl, which is now the predominant indigenous language of the area. The Western area was inhabited mostly by speakers of Purépecha and some Uto-Aztecan languages such as Huichol and Nahuatl. The Northern Rim area has been inhabited by semi-nomadic speakers of Uto-Aztecan languages (the Tepiman and Cora-Huichol groups) as well as Pamean (Oto-Mangue), and other languages that are now extinct. The Gulf area is traditionally the home of speakers of Totonacan languages in the northern and central area and Mixe--Zoque in the southern area. However, the northern gulf area became home to the speakers of Huastec in the preclassic period, and the southern area fell under Nahuan dominance in the post-classic period. The Central American area was originally inhabited by speakers of Misumalpan, Jicaquean and Chibchan languages which became subject to dominance and linguistic influence by Maya speaking groups in the classic period. Guerrero does not really constitute its own linguistic area; however, it has been influenced from the Oaxacan, Western or central Mexican area at different times of its history."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is it possible to have an online relationship\npassage: Internet relationship -- An internet relationship is a relationship between people who have met online, and in many cases know each other only via the Internet . Online relationships are similar in many ways to pen pal relationships. This relationship can be romantic, platonic, or even based on business affairs. An internet relationship (or online relationship) is generally sustained for a certain amount of time before being titled a relationship, just as in-person relationships. The major difference here is that an internet relationship is sustained via computer or online service, and the individuals in the relationship may or may not ever meet each other in person. Otherwise, the term is quite broad and can include relationships based upon text, video, audio, or even virtual character. This relationship can be between people in different regions, different countries, different sides of the world, or even people who reside in the same area but do not communicate in person."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is a bolt action rifle considered semi automatic\npassage: Semi-automatic firearm -- In 1937, the American M1 Garand was the first semi-automatic rifle to replace its nation's bolt-action rifle as the standard-issue infantry weapon. The gas-operated M1 Garand was developed by Canadian-born John Garand for the U.S. government at the Springfield Armory in Springfield, Massachusetts. After years of research and testing, the first production model of the M1 Garand was unveiled in 1937. During World War II, the M1 Garand gave American infantrymen an advantage over their opponents, most of whom were issued slower firing bolt-action rifles."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is umuc part of university of maryland college park\npassage: University of Maryland University College -- In 1959, Chancellor Ehrensberger persuaded the University System of Maryland's Board of Regents to change the name to University of Maryland University College. The name ``University College'' was adopted from the British university system to depict an educational institution offering ``courses and programs from all academic departments outside the university's walls and normal class times.'' Therefore, UMUC is not a division of the University of Maryland, College Park, but rather a separate institution within the University System of Maryland."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does the uk have a pledge of allegiance\npassage: Oath of Allegiance (United Kingdom) -- The Oath of Allegiance (Judicial or Official Oath) is a promise to be loyal to the British monarch, and his or her heirs and successors, sworn by certain public servants in the United Kingdom, and also by newly naturalised subjects in citizenship ceremonies. The current standard wording of the oath of allegiance is set out in the Promissory Oaths Act 1868."
+  },
+  {
+    "label": "True",
+    "sentence": "question: are there special forces in the air force\npassage: Air Force Special Operations Command -- Air Force Special Operations Command (AFSOC), headquartered at Hurlburt Field, Florida, is the special operations component of the United States Air Force. An Air Force major command (MAJCOM), AFSOC is also the U.S. Air Force component command to United States Special Operations Command (USSOCOM), a unified combatant command located at MacDill Air Force Base, Florida. AFSOC provides all Air Force Special Operations Forces (SOF) for worldwide deployment and assignment to regional unified combatant commands."
+  },
+  {
+    "label": "False",
+    "sentence": "question: can you face the death penalty under 18\npassage: Capital punishment for juveniles in the United States -- Capital punishment for juveniles in the United States existed until March 1, 2005, when the U.S. Supreme Court banned it in Roper v. Simmons."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does the ball swing towards the shiny side\npassage: Swing bowling -- When the ball is older and there is an asymmetry in roughness the seam no longer causes the pressure difference, and can actually reduce the swing of the ball. Air turbulence is no longer used to create separation point differences and therefore the lift and pressure differences. On the rough side of the ball there are scratches and pits in the ball's surface. These irregularities act in the same manner as the dimples of a golf ball: they trap the air, creating a layer of trapped air next to the rough side of the ball, which moves with the surface of the ball. The smooth side does not trap a layer of air. The next layer of air outward from the ball will have a greater velocity over the rough side, due to its contact with a layer of trapped air, rather than solid ball. This lowers the static pressure relative to the shiny side, which swings the ball. If the scratches and tears completely cover the rough side of the ball, the separation point on the rough side will move to the back of the ball, further than that of the turbulent air, thereby creating more lift and faster air flow. This is why a new ball will swing more than an old ball. If the seam is used to create the turbulent air on the rough side, the tears will not fill as quickly as they would with laminar flow, dampening the lift and pressure differences."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is a cello and a bass the same thing\npassage: Violin family -- Both the violin and viola are played under the jaw. The viola, being the larger of the two instruments, has a playing range that reaches a perfect fifth below the violin's. The cello is played sitting down with the instrument between the knees, and its playing range reaches an octave below the viola's. The double bass is played standing or sitting on a stool, with a range that typically reaches a minor sixth, an octave or a ninth below the cello's."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does the constitution guarantee the right to vote\npassage: Voting rights in the United States -- Eligibility to vote in the United States is established both through the federal constitution and by state law. Several constitutional amendments (the 15th, 19th, and 26th specifically) require that voting rights cannot be abridged on account of race, color, previous condition of servitude, sex, or age for those above 18; the constitution as originally written did not establish any such rights during 1787--1870. In the absence of a specific federal law or constitutional provision, each state is given considerable discretion to establish qualifications for suffrage and candidacy within its own respective jurisdiction; in addition, states and lower level jurisdictions establish election systems, such as at-large or single member district elections for county councils or school boards."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the cardiovascular and circulatory system the same\npassage: Circulatory system -- The circulatory system, also called the cardiovascular system or the vascular system, is an organ system that permits blood to circulate and transport nutrients (such as amino acids and electrolytes), oxygen, carbon dioxide, hormones, and blood cells to and from the cells in the body to provide nourishment and help in fighting diseases, stabilize temperature and pH, and maintain homeostasis."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is 0 a real number yes or no\npassage: Real number -- A real number may be either rational or irrational; either algebraic or transcendental; and either positive, negative, or zero. Real numbers are used to measure continuous quantities. They may be expressed by decimal representations that have an infinite sequence of digits to the right of the decimal point; these are often represented in the same form as 324.823122147... The ellipsis (three dots) indicates that there would still be more digits to come."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is big little lies just a mini series\npassage: Big Little Lies (TV series) -- Despite originally being billed as a miniseries, HBO renewed the series for a second season. Production on the second season began in March 2018 and is set to premiere in 2019. The entire main cast will return with the addition of Meryl Streep. All seven episodes are being written by Kelley and directed by Andrea Arnold."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does the milky way belong to a galaxy cluster\npassage: Virgo Supercluster -- The Virgo Supercluster (Virgo SC) or the Local Supercluster (LSC or LS) is a mass concentration of galaxies containing the Virgo Cluster and Local Group, which in turn contains the Milky Way and Andromeda galaxies. At least 100 galaxy groups and clusters are located within its diameter of 33 megaparsecs (110 million light-years). The Virgo SC is one of about 10 million superclusters in the observable universe and is in the Pisces--Cetus Supercluster Complex, a galaxy filament."
+  },
+  {
+    "label": "True",
+    "sentence": "question: was cheers filmed in front of a live studio audience\npassage: Cheers -- Most Cheers episodes were, as a voiceover stated at the start of each, ``filmed before a live studio audience'' on Paramount Stage 25 in Hollywood, generally on Tuesday nights. Scripts for a new episode were issued the Wednesday before for a read-through, Friday was rehearsal day, and final scripts were issued on Monday. Burrows, who directed most episodes, insisted on using film stock rather than videotape. He was also noted for using motion in his directorial style, trying to constantly keep characters moving rather than standing still. During the first season when ratings were poor Paramount and NBC asked that the show use videotape to save money, but a poor test taping ended the experiment and Cheers continued to use film."
+  },
+  {
+    "label": "True",
+    "sentence": "question: are black panthers and jaguars the same animal\npassage: Black panther -- A black panther is the melanistic color variant of any big cat species. Black panthers in Asia and Africa are leopards (Panthera pardus), and those in the Americas are black jaguars (Panthera onca)."
+  },
+  {
+    "label": "False",
+    "sentence": "question: are the falcon and the snowman still in prison\npassage: Christopher John Boyce -- Boyce was released from prison on parole on 16 September 2002 after serving a little over 25 years, accounting for his time spent outside from the escape. Shortly thereafter he married Kathleen Mills, whom he had met when she was working as a paralegal spearheading efforts to obtain parole for Lee. After her success with Lee, she turned her attention to securing parole for Boyce as well, and the two developed a personal relationship. The couple moved to Oregon, and Boyce's own parole ended in 2007."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the strangers prey at night a sequel\npassage: The Strangers: Prey at Night -- The Strangers: Prey at Night is a 2018 American slasher film directed by Johannes Roberts and starring Christina Hendricks, Martin Henderson, Bailee Madison and Lewis Pullman. A sequel to the 2008 film The Strangers, it is written by Bryan Bertino (who wrote and directed the first film) and Ben Ketai. Mike and his wife Cindy take their son and daughter on a road trip that becomes their worst nightmare. The family members soon find themselves in a desperate fight for survival when they arrive at a secluded mobile home park that's mysteriously deserted -- until three masked psychopaths show up to satisfy their thirst for blood."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you carry a loaded gun in washington state\npassage: Gun laws in Washington -- As a general rule, a person may legally open-carry in Washington state in any place it is legal to possess a loaded handgun, as long as it does not manifest ``an intent to intimidate another or (warrant) alarm for the safety of other persons.'' To open-carry a handgun in a vehicle (e.g, car, bus, etc...) a person must have a valid concealed pistol license. The county sheriff or city police chief shall issue a concealed pistol license to any applicant, age 21 or older, who meets certain requirements, including no felony convictions, no misdemeanor domestic violence convictions, and no outstanding warrants. Open carrying of firearms is not prohibited by law, although trouble with some law enforcement agencies has been encountered while open carrying in the past, most notably in a case in Ellensburg, Washington."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is michelin tires the same as michelin stars\npassage: Michelin Guide -- Michelin Guides (French: Guide Michelin (ɡid miʃ.lɛ̃)) are a series of guide books published by the French tyre company Michelin for more than a century. The term normally refers to the annually published Michelin Red Guide, the oldest European hotel and restaurant reference guide, which awards up to three Michelin stars for excellence to a select few establishments. The acquisition or loss of a star can have dramatic effects on the success of a restaurant. Michelin also publishes a series of general guides to cities, regions, and countries, the Green Guides."
+  },
+  {
+    "label": "True",
+    "sentence": "question: does unc chapel hill have a football team\npassage: North Carolina Tar Heels football -- The North Carolina Tar Heels football team represents the University of North Carolina at Chapel Hill in the sport of American football. The Tar Heels have played in the Football Bowl Subdivision (FBS) of the National Collegiate Athletic Association (NCAA) and the Coastal Division of the Atlantic Coast Conference (ACC). Being the oldest public university and oldest collegiate team in the Carolinas, the school is nicknamed ``Carolina'' in athletics. The program's title in football is ``Carolina Football''."
+  },
+  {
+    "label": "True",
+    "sentence": "question: do you have to be married to be a stepdad\npassage: Stepfamily -- A stepfather is the husband of someone's mother, and not someone's biological father. A stepmother is the wife of someone's father, and not someone's biological mother. A step-grandmother is not someone's biological grandmother. A step-grandfather is not someone's biological grandfather. A step uncle is the husband of someone's parent's sister (aunt) is not the father of someone's cousin. A step aunt is the wife of someone's parent's brother (uncle) and is not mother of someone's cousin. Similarly, a stepbrother is the son of a stepparent whom one is not biologically related to. A stepsister is the daughter of a stepparent to whom one is not biologically related. A step-grandson is the grandson of someone's spouse who one is not biologically related to. A step-granddaughter is the granddaughter of someone's spouse to whom one is not biologically related. Alternatively, in Australia Under the Family Law Act 1975 (Cth) a ``stepparent'' in relation to a child, is interpreted as a person who is not a parent of the child; and is, or has been, married to or a de facto partner of, a parent of the child; and treats, or at any time while married to, or a de facto partner of, the parent treated, the child as a member of the family formed with the parent."
+  },
+  {
+    "label": "True",
+    "sentence": "question: do pigeons have the same mate for life\npassage: Feral pigeon -- Current evidence suggests that wild, domestic and feral pigeons mate for life, although their long-term bonds are not unbreakable. They are socially monogamous, but extra-pair matings do occur, often initiated by males. Due to their ability to produce crop milk, pigeons can breed at any time of year."
+  },
+  {
+    "label": "False",
+    "sentence": "question: will there be a second season of second wives club\npassage: Second Wives Club -- On October 5, 2017 It was announced the show had ended after one season. A fan asked cast member Katie Cazorla on Twitter if there would be a second season and she stated that ``I think E! is going in a different direction. So we're not coming back. It sucks because we rated well in the end and have awesome fans.''"
+  },
+  {
+    "label": "True",
+    "sentence": "question: can i get canadian citizenship if my mother was born in canada\npassage: Canadian nationality law -- Canadian citizenship is typically obtained by birth in Canada on the principle of jus soli, or birth abroad when at least one parent is a Canadian citizen or by adoption by at least one Canadian citizen under the rules of jus sanguinis. It can also be granted to a permanent resident who has lived in Canada for a period of time through naturalization. Immigration, Refugees and Citizenship Canada (IRCC, formerly known as Citizenship and Immigration Canada, or CIC) is the department of the federal government responsible for citizenship-related matters, including confirmation, grant, renunciation and revocation of citizenship."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is the carotid artery on both sides of the neck\npassage: Common carotid artery -- The common carotid arteries are present on the left and right sides of the body. These arteries originate from different arteries, but follow symmetrical courses. The right common carotid originates in the neck from the brachiocephalic trunk; the left from the aortic arch in the thorax. These split into the external and internal carotid arteries at the upper border of the thyroid cartilage, at around the level of the fourth cervical vertebra."
+  },
+  {
+    "label": "True",
+    "sentence": "question: do you fast on the day of atonement\npassage: Yom Kippur -- Yom Kippur (/ˌjɒm kɪˈpʊər, ˌjɔːm ˈkɪpər, ˌjoʊm-/; Hebrew: יוֹם כִּיפּוּר‬, IPA: (ˈjom kiˈpuʁ), or יום הכיפורים‬), also known as the Day of Atonement, is the holiest day of the year in Judaism. Its central themes are atonement and repentance. Jewish people traditionally observe this holy day with an approximate 25-hour period of fasting and intensive prayer, often spending most of the day in synagogue services."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is a flight ticket and boarding pass the same thing\npassage: Boarding pass -- Generally, a passenger with an electronic ticket will only need a boarding pass. If a passenger has a paper airline ticket, that ticket (or flight coupon) may be required to be attached to the boarding pass for him or her to board the aircraft. For ``connecting flights'', a boarding pass is required for each new leg (distinguished by a different flight number), regardless of whether a different aircraft is boarded or not."
+  },
+  {
+    "label": "True",
+    "sentence": "question: do mulder and scully have a kid together\npassage: William (The X-Files) -- In the teaser, a couple, the Van De Kamps (Adam Nelson and Shannon Hile), adopt Dana Scully's (Gillian Anderson) infant son, William (James and Travis Riker). The episode then jumps back a week. Scully takes William out of her car while an unknown man (Chris Owens) watches them. Later, John Doggett (Robert Patrick) is attacked in the X-Files office by the same man. After a struggle, Doggett subdues him. His face is revealed to be horribly scarred."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is centroid the same as center of gravity\npassage: Centroid -- In mathematics and physics, the centroid or geometric center of a plane figure is the arithmetic mean (``average'') position of all the points in the shape. The definition extends to any object in n-dimensional space: its centroid is the mean position of all the points in all of the coordinate directions. Informally, it is the point at which a cutout of the shape could be perfectly balanced on the tip of a pin."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is a wrinkle in time a true story\npassage: A Wrinkle in Time -- A Wrinkle in Time is a science fantasy novel written by American writer Madeleine L'Engle, first published in 1962. The book won the Newbery Medal, Sequoyah Book Award, and Lewis Carroll Shelf Award, and was runner-up for the Hans Christian Andersen Award. It is the first book in L'Engle's Time Quintet, which follows the Murrys and Calvin O'Keefe."
+  },
+  {
+    "label": "False",
+    "sentence": "question: are the us virgin islands a separate country\npassage: United States Virgin Islands -- The United States Virgin Islands (USVI; also called the American Virgin Islands), officially the Virgin Islands of the United States, is a group of islands in the Caribbean that is an insular area of the United States located 40 miles (64 km) east of Puerto Rico. The islands are geographically part of the Virgin Islands archipelago and are located in the Leeward Islands of the Lesser Antilles. It is the easternmost point (in terms of jurisdiction) and territory of the United States."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is new york city part of new york state\npassage: New York (state) -- The state's most populous city, New York City makes up over 40% of the state's population. Two-thirds of the state's population lives in the New York metropolitan area, and nearly 40% lives on Long Island. The state and city were both named for the 17th-century Duke of York, the future King James II of England. With an estimated population of 8.55 million in 2015, New York City is the most populous city in the United States and the premier gateway for legal immigration to the United States. The New York metropolitan area is one of the most populous in the world. New York City is a global city, home to the United Nations Headquarters and has been described as the cultural, financial and media capital of the world, as well as the world's most economically powerful city. The next four most populous cities in the state are Buffalo, Rochester, Yonkers, and Syracuse, while the state capital is Albany."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can a flower have more than one pistil\npassage: Gynoecium -- Gynoecium (from Ancient Greek γυνή, gyne, meaning woman, and οἶκος, oikos, meaning house) is most commonly used as a collective term for the parts of a flower that produce ovules and ultimately develop into the fruit and seeds. The gynoecium is the innermost whorl of a flower, it consists of (one or more) pistils and is typically surrounded by the pollen-producing reproductive organs, the stamens, collectively called the androecium. The gynoecium is often referred to as the ``female'' portion of the flower, although rather than directly producing female gametes (i.e. egg cells), the gynoecium produces megaspores, each of which develops into a female gametophyte which then produces egg cells."
+  },
+  {
+    "label": "False",
+    "sentence": "question: was saved by the bell a spin off\npassage: Saved by the Bell -- Saved by the Bell is an American television sitcom that aired on NBC from 1989 to 1993. A reboot of the Disney Channel series Good Morning, Miss Bliss, the show follows a group of high school friends and their principal. Primarily focusing on lighthearted comedic situations, it occasionally touches on serious social issues, such as drug use, driving under the influence, homelessness, remarriage, death, women's rights, and environmental issues. The series starred Mark-Paul Gosselaar, Dustin Diamond, Lark Voorhies, Dennis Haskins, Tiffani-Amber Thiessen, Elizabeth Berkley, and Mario Lopez."
+  },
+  {
+    "label": "True",
+    "sentence": "question: do you have to pay for the dartford bridge\npassage: Dartford Crossing -- The crossing had always been tolled, and from 1 April 2003 this became a charge, though since 2008 it has been free from 10 pm to 6 am. An automatic number plate recognition charging scheme (Dart Charge) began in November 2014. As a result, the charge can no longer be paid in cash and the old toll booths have been removed. A residents' scheme is available, offering further discounts for people living near the crossing."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is a cucumber the same as a gherkin\npassage: Pickled cucumber -- A pickled cucumber (commonly known as a pickle in the United States and Canada and a gherkin in Britain, Ireland, Australia, South Africa and New Zealand) is a cucumber that has been pickled in a brine, vinegar, or other solution and left to ferment for a period of time, by either immersing the cucumbers in an acidic solution or through souring by lacto-fermentation. Pickled cucumbers are often part of mixed pickles."
+  },
+  {
+    "label": "True",
+    "sentence": "question: did the movie to kill a mockingbird win any academy awards\npassage: To Kill a Mockingbird (film) -- The film received overwhelmingly positive reviews from critics and was a box-office success, earning more than six times its budget. The film won three Academy Awards, including Best Actor for Peck, and was nominated for eight, including Best Picture."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can professional athletes play in the winter olympics\npassage: Amateur sports -- Olympic regulations regarding amateur status of athletes were eventually abandoned in the 1990s with the exception of wrestling, where the amateur fight rules are used due to the fact that professional wrestling is largely staged with pre-determined outcomes. Starting from the 2016 Summer Olympics, professionals were allowed to compete in boxing, though amateur fight rules are still used for the tournament."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can male and female dwarf gouramis live together\npassage: Dwarf gourami -- Once the nest has been built the male will begin courting the female, usually in the afternoon or evening. He signals his intentions by swimming around the female with flared fins, attempting to draw her to the nest where he will continue his courting display. If the female accepts the male she will begin swimming in circles with the male beneath the bubble nest. When she is ready to spawn she touches the male on either the back or the tail with her mouth. Upon this signal the male will embrace the female, turning her first on her side and finally on her back. At this point the female will release approximately five dozen clear eggs, which are immediately fertilized by the male. Most of the eggs will float up into the bubble nest. Eggs that stray are collected by the male and placed in the nest. Once all the eggs are secured in the nest, the pair will spawn again. If more than one female is present in the breeding tank, the male may spawn with all of them. The spawning sessions will continue for two to four hours, and produce between 300 and 800 eggs. Dwarf gouramis have a fecundity of about 600 eggs.(1) Upon completion, the male will place a fine layer of bubbles beneath the eggs, assuring that they remain in the bubble nest.The male will protect the eggs and fry. In 12 to 24 hours the fry will hatch, and continue developing within the protection of the bubble nest. After three days they are sufficiently developed to be free swimming and leave the nest. When the fry are two to three days old the male should also be removed or he may consume the young."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is trinidad and tobago part of the caribbean\npassage: Trinidad and Tobago -- Trinidad and Tobago (/ˈtrɪnɪdæd ... təˈbeɪɡoʊ/ ( listen), /toʊ-/), officially the Republic of Trinidad and Tobago, is a twin island sovereign state that is the southernmost nation of the West Indies in the Caribbean. It is situated 130 kilometres (81 miles) south of Grenada off the northern edge of the South American mainland, 11 kilometres (6.8 miles) off the coast of northeastern Venezuela. It shares maritime boundaries with Barbados to the northeast, Grenada to the northwest, Guyana to the southeast, and Venezuela to the south and west."
+  },
+  {
+    "label": "True",
+    "sentence": "question: has a woman ever been drafted in the nba\npassage: Lusia Harris -- Lusia ``Lucy'' Harris-Stewart (born Lusia Harris; February 10, 1955) is a former American basketball player. Harris is considered to be one of the pioneers of women's basketball. She played for Delta State University and won three consecutive Association for Intercollegiate Athletics for Women (AIAW) National Championships, the predecessors to the National Collegiate Athletic Association (NCAA) championships, from 1975 to 1977. In international level, she represented the United States' national team and won the silver medal in the 1976 Olympic Games, the first ever women's basketball tournament in the Olympic Games. She played professional basketball with the Houston Angels of the Women's Professional Basketball League (WBL) and was the first and only woman ever officially drafted by the National Basketball Association (NBA), a men's professional basketball league. For her achievements, Harris has been inducted to the Naismith Memorial Basketball Hall of Fame and Women's Basketball Hall of Fame."
+  },
+  {
+    "label": "True",
+    "sentence": "question: was france a republic after the french revolution\npassage: French First Republic -- In the history of France, the First Republic (French: Première République), officially the French Republic (République française), was founded on 22 September 1792 during the French Revolution. The First Republic lasted until the declaration of the First Empire in 1804 under Napoleon, although the form of the government changed several times. This period was characterized by the fall of the monarchy, the establishment of the National Convention and the Reign of Terror, the Thermidorian Reaction and the founding of the Directory, and, finally, the creation of the Consulate and Napoleon's rise to power."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is it golden goal in extra time world cup\npassage: Golden goal -- The first golden goal recorded was on 13 March 1993 by Australia against Uruguay in a quarter-final match of the World Youth Championship. The first major tournament final to be decided by such a goal was the 1995 Football League Trophy, where Birmingham City beat Carlisle United 1--0, with a goal from Paul Tait, followed by the 1996 European Championship final, won by Germany over the Czech Republic. The golden goal in this final was scored by Oliver Bierhoff. The first golden goal in World Cup history took place in 1998, as Laurent Blanc scored to enable France to defeat Paraguay in the Round of 16."
+  },
+  {
+    "label": "True",
+    "sentence": "question: when did you have to have a passport to go to canada\npassage: Visa policy of Canada -- A foreign national wishing to enter Canada must obtain a temporary resident visa from one of the Canadian diplomatic missions unless he or she holds a passport issued by one of the 51 eligible visa exempt countries and territories or proof of permanent residence in the United States."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is a puma the same thing as a mountain lion\npassage: Cougar -- The cougar (Puma concolor), also commonly known as the puma, mountain lion, panther, or catamount, is a large felid of the subfamily Felinae native to the Americas. Its range, from the Canadian Yukon to the southern Andes of South America, is the widest of any large wild terrestrial mammal in the Western Hemisphere. An adaptable, generalist species, the cougar is found in most American habitat types. It is the biggest cat in North America, and the second-heaviest cat in the New World after the jaguar. Secretive and largely solitary by nature, the cougar is properly considered both nocturnal and crepuscular, although daytime sightings do occur. The cougar is more closely related to smaller felines, including the domestic cat (subfamily Felinae), than to any species of subfamily Pantherinae, of which only the jaguar is native to the Americas."
+  },
+  {
+    "label": "False",
+    "sentence": "question: in the game of chess can a queen move like a knight\npassage: Queen (chess) -- The queen can be moved any number of unoccupied squares in a straight line vertically, horizontally, or diagonally, thus combining the moves of the rook and bishop. The queen captures by occupying the square on which an enemy piece sits."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can you get a £100 pound note\npassage: Banknotes of the pound sterling -- Not since 1945 has there been bigger notes than £50 issued for general circulation by the Bank of England, although banks in Scotland and Northern Ireland still use £100 notes. However, the Bank of England does produce higher-value notes that are used to maintain parity with Scottish and Northern Irish notes. Banknotes issued by Scottish and Northern Irish banks have to be backed pound for pound by Bank of England notes (other than a small amount representing the currency in circulation in 1845), and special £1 million and £100 million notes are used for this purpose. Their design is based on the old Series A notes."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is qatar going to be the world cup host\npassage: Qatar 2022 FIFA World Cup bid -- President of FIFA Sepp Blatter endorsed the idea of having a World Cup in the Arab World, saying in April 2010: ``The Arabic world deserves a World Cup. They have 22 countries and have not had any opportunity to organize the tournament''. Blatter also praised Qatar's progress: ``When I was first in Qatar there were 400,000 people here and now there are 1.6 million. In terms of infrastructure, when you are able to organise the Asian Games (in 2006) with more than 30 events for men and women, then that is not in question''. On 2 December 2010, it was announced that Qatar will host the 2022 FIFA World Cup."
+  },
+  {
+    "label": "False",
+    "sentence": "question: does chuck die in gossip girl season 5\npassage: Chuck Bass -- At the beginning of the season Chuck and Blair make a pact not to be together until Blair succeeds at Waldorf designs and Chuck takes down Bart. After many failed attempts of taking down Bart, Bart and Chuck end up in a fight. This leads to Bart falling off a building and dying. Blair is the only witness to this event and so Chuck and Blair get married so Blair does not have to testify against Chuck."
+  },
+  {
+    "label": "False",
+    "sentence": "question: is paternity leave the same as parental leave\npassage: Parental leave -- Parental leave or family leave is an employee benefit available in almost all countries. The term ``parental leave'' generally includes maternity, paternity, and adoption leave. A distinction between ``maternity leave'' and ``parental leave'' is sometimes made- maternity leave as the mother's leave time directly before and after childbirth and parental leave being the time given to care for newborns. In some countries and jurisdictions, ``family leave'' also includes leave provided to care for ill family members. Often, the minimum benefits and eligibility requirements are stipulated by law."
+  },
+  {
+    "label": "True",
+    "sentence": "question: did john williams wrote music for indiana jones\npassage: John Williams -- John Towner Williams (born February 8, 1932) is an American composer, conductor, and pianist. With a career spanning over six decades, he has composed some of the most popular, recognizable, and critically acclaimed film scores in cinematic history, including those of the Star Wars series, Jaws, Close Encounters of the Third Kind, Superman, E.T. the Extra-Terrestrial, the Indiana Jones series, the first two Home Alone films, Hook, the first two Jurassic Park films, Schindler's List, and the first three Harry Potter films. Williams has been associated with director Steven Spielberg since 1974, composing music for all but three of his feature films. Other works by Williams include theme music for the 1984 Summer Olympic Games, NBC Sunday Night Football, ``The Mission'' theme used by NBC News and Seven News in Australia, the television series Lost in Space and Land of the Giants, and the incidental music for the first season of Gilligan's Island. Williams has also composed numerous classical concertos and other works for orchestral ensembles and solo instruments. From 1980 to 1993 he served as the Boston Pops's principal conductor, and is currently the orchestra's laureate conductor."
+  },
+  {
+    "label": "False",
+    "sentence": "question: did frank sinatra sing new york state of mind\npassage: New York State of Mind -- Since Joel first recorded and released the song in 1976, it has become a pop standard that has been covered by numerous artists, including Barbra Streisand, Lea Michele and Melissa Benoist, Joanna Wang, Elton John, Ramin Karimloo, Shirley Bassey, Oleta Adams, Carmen McRae, Mark-Almond, Diane Schuur, Ben Sidran, Mel Tormé, Frank Sinatra Jr., Adam Pascal, and Tony Bennett."
+  },
+  {
+    "label": "False",
+    "sentence": "question: does a jack beat a king in war\npassage: War (card game) -- War is a card game typically involving two players. It uses a standard French playing card deck. The value of each card in decreasing order is: AKQJT 9 8 7 6 5 4 3 2. Due to its simplicity, it is played most often by children."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there a sequal to the 5th wave\npassage: The Infinite Sea -- The Infinite Sea is a young adult science fiction novel written by American author Rick Yancey. It was published on September 16, 2014 by G.P. Putnam's Sons. The novel is the second in The 5th Wave trilogy, preceded by The 5th Wave and followed by The Last Star. After fleeing from a camp established by aliens, 16-year-old Cassie Sullivan, her brother and a squad of child soldiers attempt to prevent the extermination of the human race."
+  },
+  {
+    "label": "False",
+    "sentence": "question: do banks in the us have iban numbers\npassage: International Bank Account Number -- Banks in the United States do not use IBAN as account numbers for U.S. accounts. Any adoption of the IBAN standard by U.S. banks would likely be initiated by ANSI ASC X9, the U.S. financial services standards development organization: a working group (WGAB20) was established as an X9 subcommittee to generate an IBAN construction for U.S. bank accounts."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can a pardon be granted before a conviction\npassage: Pardon -- A pardon is a government decision to allow a person to be absolved of guilt for an alleged crime or other legal offense, as if the act never occurred. The pardon may be granted before or after conviction for the crime, depending on the laws of the jurisdiction."
+  },
+  {
+    "label": "True",
+    "sentence": "question: can i eat the green stuff in lobster\npassage: Tomalley -- Tomalley (from the Carib word tumale, meaning a sauce of lobster liver), crab fat, or lobster paste is the soft, green substance found in the body cavity of lobsters, that fulfills the functions of both the liver and the pancreas. Tomalley corresponds to the hepatopancreas in other arthropods. It is considered a delicacy, and may be eaten alone but is often added to sauces for flavour and as a thickening agent. The term lobster paste or lobster pâté can also be used to indicate a mixture of tomalley and lobster roe. Lobster bisque, lobster stock, and lobster consommé are made using lobster bodies (heads), often including the lobster liver."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there a water park at alton towers\npassage: Alton Towers -- Alton Towers Resort, often shortened to Alton Towers, is a theme park resort located in Staffordshire, England. It is near the village of Alton, in the parishes of Denstone and Farley. The resort, which is operated by Merlin Entertainments Group, incorporates a theme park, water park, mini golf and hotel complex. Originally a private estate, Alton Towers grounds opened to the public in 1860 to raise funds for the estate. In the late 20th century it was transformed into a theme park and opened a number of new rides from 1980 onwards. In 2017 it was the second most visited theme park in the UK after Legoland Windsor."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is a us passport a valid form of id\npassage: Identity documents in the United States -- At present, the only national photo identity documents are the passport and passport card, which are issued to U.S. nationals only upon voluntary application. The driver's license, which is issued by each individual state, operates as the de facto national identity card due to the ubiquity of driving in the United States."
+  },
+  {
+    "label": "False",
+    "sentence": "question: are tui and thomas cook the same company\npassage: TUI Group -- With the sale of Salzgitter AG and purchase of the navigation and logistics company Hapag-Lloyd AG in 1997, Preussag AG became a global enterprise in the service and leisure industry. At that time, Hapag-Lloyd held a 30% interest in the tourism conglomerate TUI (founded 1968), increased to 100% by 1999. In addition the company acquired 25% of Thomas Cook shares in 1997, which it doubled the following year. On 2 February 1999, the Carlson Leisure Group merged with Thomas Cook into a holding company owned by the German bank, Westdeutsche Landesbank, Carlson Inc and Preussag. However, in mid-2000 Preussag acquired Thomas Cook's rival Thomson Travel and was forced to sell its majority 50.1% stake in Thomas Cook by regulatory authorities. In 2002, Preussag renamed itself TUI AG."
+  },
+  {
+    "label": "True",
+    "sentence": "question: is there a second snow white and the huntsman\npassage: The Huntsman: Winter's War -- The Huntsman: Winter's War is a 2016 American fantasy adventure film, both a prequel and sequel to Snow White and the Huntsman (2012), it takes place before and after the events of the first film. The film is the directorial debut of Cedric Nicolas-Troyan, who was a visual effects supervisor and second unit director on the first film. It is written by Craig Mazin and Evan Spiliotopoulos, based on characters created by Evan Daugherty, which like the first film were inspired by the fairy tale ``Snow White'' compiled by the Brothers Grimm, as well as ``The Snow Queen'' by Hans Christian Andersen. Reprising their roles from the first film, the cast includes Chris Hemsworth, Charlize Theron, Nick Frost, and Sam Claflin. The film also introduced new characters played by Emily Blunt, Jessica Chastain, and Rob Brydon."
+  },
+  {
+    "label": "False",
+    "sentence": "question: do you have to be american to win a grammy\npassage: Grammy Award -- The Grammys have also been accused of being unfavorable and racist to black recording artists. Canadian artist Drake accused the awards in a 2017 interview of seeing him only as a rapper and not as a pop-music artist because of his previous work and because of his heritage. He criticized the snubbing of ``One Dance'' for the prestigious award of Record of the Year and the nomination of ``Hotline Bling'' for Best Rap Song and Best Rap/Sung Performance despite it not being a rap song. The Atlantic's Spencer Kornhaber accused the Grammys of ``sidelining a black visionary work in favor of a white traditionalist one''. Drake did not attend the 2017 Awards Ceremony where he was nominated. He had a performance in Manchester, England on February 12, 2017, the same night as the ceremony. Frank Ocean was vocal about boycotting the same Grammy Awards and did not submit his album for awards consideration as a protest."
+  },
+  {
+    "label": "True",
+    "sentence": "question: do players get a cap for every game\npassage: Cap (sport) -- The act of awarding a cap is now international and is applied to other sports. Although in some sports physical caps may not now always be given (whether at all or for each appearance) the term ``cap'' for an international or other appearance has been retained as an indicator of the number of occasions on which a sportsperson has represented a team in a particular sport. Thus, a ``cap'' is awarded for each game played and so a player who has played x games, for the team, is said to have been capped x times or have won x caps."
+  }
+]

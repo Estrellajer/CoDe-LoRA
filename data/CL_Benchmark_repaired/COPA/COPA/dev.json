@@ -1,0 +1,162 @@
+[
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"I pushed the gas pedal.\"? Choose one between A and B.\nA: The car accelerated.\nB: The car door opened."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"The pond froze over for the winter.\"? Choose one between A and B.\nA: People skated on the pond.\nB: People brought boats to the pond."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"I clumsily bumped into the stranger.\"? Choose one between A and B.\nA: I ran away.\nB: I apologized to him."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the cause of \"The woman spotted her friend from across the room.\"? Choose one between A and B.\nA: The woman waved.\nB: The woman escaped."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"I flipped the light switch up and down.\"? Choose one between A and B.\nA: The light faded.\nB: The light flickered."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"The scientist conducted an experiment.\"? Choose one between A and B.\nA: She validated her theory.\nB: She fabricated her data."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"The girl desired her parent's approval.\"? Choose one between A and B.\nA: She ran away from home.\nB: She obeyed her parent's rules."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"The police officer dropped the gun.\"? Choose one between A and B.\nA: The gun recoiled.\nB: The gun went off."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the cause of \"The man went away for the weekend.\"? Choose one between A and B.\nA: He wanted to relax.\nB: He felt content."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the cause of \"The photograph faded.\"? Choose one between A and B.\nA: It was fake.\nB: It was old."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"The mother needed help looking after her children.\"? Choose one between A and B.\nA: She sent the children to daycare.\nB: She gave up custody of the children."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the cause of \"The police closed the investigation.\"? Choose one between A and B.\nA: They apprehended the suspect.\nB: The victim recovered."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the cause of \"The woman tolerated her friend's difficult behavior.\"? Choose one between A and B.\nA: The woman knew her friend was going through a hard time.\nB: The woman felt that her friend took advantage of her kindness."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the cause of \"The shirt shrunk.\"? Choose one between A and B.\nA: I poured bleach on it.\nB: I put it in the dryer."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"The print on the brochure was tiny.\"? Choose one between A and B.\nA: The man put his glasses on.\nB: The man retrieved a pen from his pocket."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"The man read the cartoon in the newspaper.\"? Choose one between A and B.\nA: He sipped coffee.\nB: He chuckled."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"I applied pressure to the cut on my arm.\"? Choose one between A and B.\nA: It healed.\nB: It stopped bleeding."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the cause of \"My feet were blistered.\"? Choose one between A and B.\nA: I went hiking.\nB: I went swimming."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"The woman was deemed mentally ill.\"? Choose one between A and B.\nA: She was sent to a psychiatric institution.\nB: She sought a career as a psychiatrist."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"The DJ turned the music on.\"? Choose one between A and B.\nA: People left the party.\nB: People began to dance."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"The driver rotated the steering wheel.\"? Choose one between A and B.\nA: The car halted.\nB: The car turned."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the cause of \"The trip took a long time.\"? Choose one between A and B.\nA:  The driver talked the whole way.\nB: The driver made a wrong turn."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the cause of \"The computer crashed.\"? Choose one between A and B.\nA: I backed up my files.\nB: I downloaded a virus."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"The girl applied the scissors to the paper.\"? Choose one between A and B.\nA: The paper sliced apart.\nB: The paper crinkled."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the cause of \"The woman awakened.\"? Choose one between A and B.\nA: She took sleeping pills.\nB: Her husband was snoring."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the cause of \"I slipped on the floor.\"? Choose one between A and B.\nA: The tile was wet.\nB: The tile was cracked."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the cause of \"I excused myself from the group.\"? Choose one between A and B.\nA: I turned off my phone.\nB: My phone rang."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"The woman hit a midlife crisis.\"? Choose one between A and B.\nA: She retired.\nB: She went sky diving."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"The woman's date wanted to look like a gentleman.\"? Choose one between A and B.\nA: He opened the door for her.\nB: He asked her if she liked sushi."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"I poured water on my sleeping friend.\"? Choose one between A and B.\nA: My friend awoke.\nB: My friend snored."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the cause of \"The hospital sent the patient home.\"? Choose one between A and B.\nA: The patient's symptoms cleared up.\nB: The patient's family visited him."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the cause of \"The young woman was denied entrance into the bar.\"? Choose one between A and B.\nA: Her friends stood her up.\nB: She forgot her ID."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"The man caught his shirtsleeve on the rungs of the fence.\"? Choose one between A and B.\nA: He hopped the fence.\nB: The sleeve ripped."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the cause of \"The girl gasped.\"? Choose one between A and B.\nA: Her friend stuck an ice cube down her back.\nB: Her friend gave her a pat on the back."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"I tossed the ball upwards.\"? Choose one between A and B.\nA: The ball rolled across the ground.\nB: The ball hit the ceiling."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"The man contemplated the painting.\"? Choose one between A and B.\nA: He felt in awe.\nB: He collapsed."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"The man gained weight.\"? Choose one between A and B.\nA: He got his suit altered.\nB: He got his shoes shined."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the effect of \"The man threw his empty can onto the street.\"? Choose one between A and B.\nA: He was jumped from behind.\nB: He was fined for littering."
+  },
+  {
+    "label": "A",
+    "sentence": "Which sentence is the effect of \"The woman dangled the biscuit above the dog.\"? Choose one between A and B.\nA: The dog jumped up.\nB: The dog scratched its fur."
+  },
+  {
+    "label": "B",
+    "sentence": "Which sentence is the cause of \"I went to bed.\"? Choose one between A and B.\nA: It was a clear night.\nB: It was late."
+  }
+]

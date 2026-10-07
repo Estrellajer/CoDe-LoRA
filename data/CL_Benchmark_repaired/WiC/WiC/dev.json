@@ -1,0 +1,802 @@
+[
+  {
+    "label": "True",
+    "sentence": "word: come\nCome into contact with a terrorist group.\nTheir anger came to a boil."
+  },
+  {
+    "label": "True",
+    "sentence": "word: difference\nIt just won't make much difference to me.\nThe difference in her is amazing."
+  },
+  {
+    "label": "False",
+    "sentence": "word: possess\nHe does not even possess a working telephone.\nWhat possessed you to buy this house?"
+  },
+  {
+    "label": "True",
+    "sentence": "word: notice\nAn obituary notice.\nYou didn't give me enough notice."
+  },
+  {
+    "label": "True",
+    "sentence": "word: business\nWe do business all over the world.\nComputers are now widely used in business."
+  },
+  {
+    "label": "False",
+    "sentence": "word: return\nThe return of spring.\nThe average return was about 5%."
+  },
+  {
+    "label": "False",
+    "sentence": "word: position\nStop running all over the field and play your position!\nChief of Staff is the second highest position in the army."
+  },
+  {
+    "label": "False",
+    "sentence": "word: hand\nGive me a hand with the chores.\nOn the one hand ..., but on the other hand ..."
+  },
+  {
+    "label": "False",
+    "sentence": "word: build\nBuild a reputation.\nBuild detergents."
+  },
+  {
+    "label": "False",
+    "sentence": "word: token\nAccording to the Bible, the rainbow is a token of God's covenant with Noah.\nA book token is the easiest option for a Christmas gift."
+  },
+  {
+    "label": "True",
+    "sentence": "word: turn\nTurn the dial to 10.\nTurn the heat down."
+  },
+  {
+    "label": "True",
+    "sentence": "word: work\nI will work hard to improve my grades.\nThey worked at finishing the task."
+  },
+  {
+    "label": "False",
+    "sentence": "word: trial\nCandidates must compete in a trial of skill.\nThe trials for the semifinals began yesterday."
+  },
+  {
+    "label": "False",
+    "sentence": "word: clear\nThe check will clear within 2 business days.\nClear the leaves from the lawn."
+  },
+  {
+    "label": "True",
+    "sentence": "word: portfolio\nI would like to introduce you to our portfolio of services.\nThey were disappointed by the poor returns on their stock portfolio."
+  },
+  {
+    "label": "False",
+    "sentence": "word: carry\nI resent having to carry her all the time.\nThe painting of Mary carries motherly love."
+  },
+  {
+    "label": "False",
+    "sentence": "word: rake\nRake gravel.\nThe gunfire raked the coast."
+  },
+  {
+    "label": "False",
+    "sentence": "word: offer\nOffer prayers to the gods.\nThe Shakespeare Company is offering 'King Lear' this month."
+  },
+  {
+    "label": "True",
+    "sentence": "word: run\nThe ship made its run in record time.\nThe bus on the Cherry Street run is always crowded."
+  },
+  {
+    "label": "True",
+    "sentence": "word: world\nPeople are dying of starvation all over the world.\nAll the world loves a lover."
+  },
+  {
+    "label": "True",
+    "sentence": "word: start\nI start my day with a good breakfast.\nThe blood shed started when the partisans launched a surprise attack."
+  },
+  {
+    "label": "False",
+    "sentence": "word: day\nHe deserves his day in court.\nIn the days of sailing ships."
+  },
+  {
+    "label": "True",
+    "sentence": "word: war\nThe \"war on terror\" is a campaign against terrorist crime.\nThe \"war on drugs\" is a campaign against the use of narcotic drugs."
+  },
+  {
+    "label": "False",
+    "sentence": "word: get\nWhat do you get when you add up these numbers?\nMy children finally got me to buy a computer."
+  },
+  {
+    "label": "False",
+    "sentence": "word: treat\nShe was tempted to treat the whole affair as a joke.\nThe patient must be treated right away or she will die."
+  },
+  {
+    "label": "True",
+    "sentence": "word: play\nPlay sports.\nPlay cards."
+  },
+  {
+    "label": "True",
+    "sentence": "word: shell\nShell the legumes.\nShell mussels."
+  },
+  {
+    "label": "True",
+    "sentence": "word: voice\nThe voice of experience.\nHe said his voices told him to do it."
+  },
+  {
+    "label": "False",
+    "sentence": "word: break\nThis play will either make or break the playwright.\nThe figurine broke."
+  },
+  {
+    "label": "True",
+    "sentence": "word: feel\nShe has a feel for music.\nHe has a feel for animals."
+  },
+  {
+    "label": "False",
+    "sentence": "word: identity\nSimply an identity element if both are true.\nIt was too dark to determine his identity."
+  },
+  {
+    "label": "True",
+    "sentence": "word: roam\nThe cattle roam across the prairie.\nThe gypsies roamed the woods."
+  },
+  {
+    "label": "False",
+    "sentence": "word: area\nIt was a mountainous area.\nIt was a closed area of employment."
+  },
+  {
+    "label": "True",
+    "sentence": "word: top\nHe removed the top of the carton.\nHe couldn't get the top off of the bottle."
+  },
+  {
+    "label": "True",
+    "sentence": "word: play\nPlay football.\nHe plays on three teams."
+  },
+  {
+    "label": "False",
+    "sentence": "word: academy\nA riding academy.\nThe American Academy of Arts and Sciences."
+  },
+  {
+    "label": "True",
+    "sentence": "word: see\nI can see what will happen.\nI can't see him on horseback!"
+  },
+  {
+    "label": "True",
+    "sentence": "word: seek\nSeek happiness.\nSeek a position."
+  },
+  {
+    "label": "False",
+    "sentence": "word: fall\nWhen that became known the price of their stock went into free fall.\nThe fall of the House of Hapsburg."
+  },
+  {
+    "label": "True",
+    "sentence": "word: business\nBusiness is good today.\nBusiness has been slow lately."
+  },
+  {
+    "label": "True",
+    "sentence": "word: exercise\nSome parents exercise their infants.\nThis puzzle will exercise your mind."
+  },
+  {
+    "label": "False",
+    "sentence": "word: talk\nThere has been talk about you lately.\nI attended an interesting talk on local history."
+  },
+  {
+    "label": "True",
+    "sentence": "word: conduct\nShe can not conduct modern pieces.\nBernstein conducted Mahler like no other conductor."
+  },
+  {
+    "label": "False",
+    "sentence": "word: play\nPlay with her feelings.\nShe plays on her clients' emotions."
+  },
+  {
+    "label": "False",
+    "sentence": "word: loss\nIt was written off as a loss.\nEveryone expected him to win so his loss was a shock."
+  },
+  {
+    "label": "True",
+    "sentence": "word: plan\nThey drew up a six-step plan.\nThey discussed plans for a new bond issue."
+  },
+  {
+    "label": "False",
+    "sentence": "word: accord\nWe are in accord with your proposal.\nThe accord of light and shade in painting."
+  },
+  {
+    "label": "False",
+    "sentence": "word: sound\nMariners on sailing ships would sound the depth of the water with a weighted rope.\nSound the alarm."
+  },
+  {
+    "label": "True",
+    "sentence": "word: think\nThink thin.\nIdly, the detective thought what his next move should be."
+  },
+  {
+    "label": "False",
+    "sentence": "word: hold\nHold these truths to be self-evident.\nHold your temper."
+  },
+  {
+    "label": "False",
+    "sentence": "word: hit\nWe hit Detroit at one in the morning but kept driving through the night.\nThe ball hit the fence."
+  },
+  {
+    "label": "True",
+    "sentence": "word: give\nGive the orders.\nGive him my best regards."
+  },
+  {
+    "label": "True",
+    "sentence": "word: lightning\nThat tree was hit by lightning.\nThe lightning was hot enough to melt the sand."
+  },
+  {
+    "label": "True",
+    "sentence": "word: convention\nPolitical convention.\nThe EU installed an inter-institutional Convention to draft a European constitution."
+  },
+  {
+    "label": "True",
+    "sentence": "word: overkill\nShould I give you yet more homework, or would that be overkill?\n24 hours of TV coverage of the US election verged on overkill."
+  },
+  {
+    "label": "True",
+    "sentence": "word: rest\nNow that we're all in agreement, we can put that issue to rest.\nThe ocean was finally at rest."
+  },
+  {
+    "label": "False",
+    "sentence": "word: line\nA nice line of shoes.\nThey were arrayed in line of battle."
+  },
+  {
+    "label": "False",
+    "sentence": "word: patch\nA cabbage patch.\nDoesn't that patch of clouds looks like a bunny?"
+  },
+  {
+    "label": "False",
+    "sentence": "word: arrangement\nThe arrangement of the furniture.\nA flower arrangement."
+  },
+  {
+    "label": "True",
+    "sentence": "word: play\nI used to play with trucks as a little girl.\nThey played long and hard."
+  },
+  {
+    "label": "False",
+    "sentence": "word: slot\nThe TV program has a new time slot.\nHe put a quarter in the slot."
+  },
+  {
+    "label": "True",
+    "sentence": "word: air\nI need some fresh air.\nA smell of chemicals in the air."
+  },
+  {
+    "label": "True",
+    "sentence": "word: session\nA training session.\n\"Are we having a recording session?\" \"Yes. We've even got some session musicians to provide some brass.\"."
+  },
+  {
+    "label": "False",
+    "sentence": "word: bear\nBear a resemblance.\nThe unidentified plant bore gorgeous flowers."
+  },
+  {
+    "label": "False",
+    "sentence": "word: plot\nThe characters were well drawn but the plot was banal.\nThey concocted a plot to discredit the governor."
+  },
+  {
+    "label": "False",
+    "sentence": "word: finish\nHis best finish in a major tournament was third.\nExcitement grew as the finish neared."
+  },
+  {
+    "label": "False",
+    "sentence": "word: follow\nWe must follow closely the economic development is Cuba.\nA terrible tsunami followed the earthquake."
+  },
+  {
+    "label": "False",
+    "sentence": "word: break\nTwigs break off of those branches easily.\nBreak a promise."
+  },
+  {
+    "label": "False",
+    "sentence": "word: seat\nThe seat of these trousers is almost worn through.\nHe booked their seats in advance."
+  },
+  {
+    "label": "False",
+    "sentence": "word: draw\nDraw on a cigarette.\nShe drew $2,000 from the account."
+  },
+  {
+    "label": "True",
+    "sentence": "word: store\nStore grain for the winter.\nThe bear stores fat for the period of hibernation when he doesn't eat."
+  },
+  {
+    "label": "True",
+    "sentence": "word: war\nThe war against crime.\nThe war on poverty."
+  },
+  {
+    "label": "True",
+    "sentence": "word: acquisition\nThe acquisition of wealth.\nThe acquisition of sports equipment can be fun in itself."
+  },
+  {
+    "label": "False",
+    "sentence": "word: eye\nHe tried to catch her eye.\nThe thread wouldn't go through the eye."
+  },
+  {
+    "label": "True",
+    "sentence": "word: hinge\nHis absence is the hinge of our plan.\nThis argument was the hinge on which the question turned."
+  },
+  {
+    "label": "True",
+    "sentence": "word: drink\nNo thanks, I don't drink.\nWe were up drinking all night."
+  },
+  {
+    "label": "True",
+    "sentence": "word: withholding\nThere were allegations of the withholding of evidence.\nI resented his withholding permission."
+  },
+  {
+    "label": "False",
+    "sentence": "word: resign\nHe had no choice but to resign the game and let his opponent become the champion.\nThe chairman resigned when he was found to have misappropriated funds."
+  },
+  {
+    "label": "False",
+    "sentence": "word: find\nI can not find my gloves!\nPhysicists believe they found a new elementary particle."
+  },
+  {
+    "label": "False",
+    "sentence": "word: control\nThe control condition was inappropriate for the conclusions he wished to draw.\nI turned the controls over to her."
+  },
+  {
+    "label": "True",
+    "sentence": "word: refill\nThe prescription specified only one refill.\nHe got a refill of his prescription."
+  },
+  {
+    "label": "False",
+    "sentence": "word: taste\nArrogance and lack of taste contributed to his rapid success.\nShe enjoyed her brief taste of independence."
+  },
+  {
+    "label": "True",
+    "sentence": "word: hit\nWe hit Detroit by noon.\nJones hit for the pitcher."
+  },
+  {
+    "label": "True",
+    "sentence": "word: treatment\nThe change is due largely to the increased availability of antiretroviral treatment.\nA treatment or cure is applied after a medical problem has already started."
+  },
+  {
+    "label": "False",
+    "sentence": "word: trend\nThe trend of a coastline.\nNot openly liberal but that is the trend of the book."
+  },
+  {
+    "label": "True",
+    "sentence": "word: face\nPut a big sign on each face of the building that can be seen from the road.\nShe wanted to wipe him off the face of the earth."
+  },
+  {
+    "label": "True",
+    "sentence": "word: bring\nWaiter, please bring me a single malt whiskey.\nThis brings me to the main point."
+  },
+  {
+    "label": "True",
+    "sentence": "word: raise\nRaise hell.\nRaise the roof."
+  },
+  {
+    "label": "False",
+    "sentence": "word: treat\nTreat the lawn with chemicals.\nDon't worry about the expensive wine -- I'm treating."
+  },
+  {
+    "label": "False",
+    "sentence": "word: go\nReady, set, go!\nI went on holiday and got malaria."
+  },
+  {
+    "label": "False",
+    "sentence": "word: draw\nDraw pulp from the fruit.\nTo draw a memorial, a deed, or bill of exchange."
+  },
+  {
+    "label": "True",
+    "sentence": "word: credit\nHe arrived five minutes late, but to his credit he did work an extra ten minutes at the end of his shift.\nGive her credit for trying."
+  },
+  {
+    "label": "False",
+    "sentence": "word: take\nI take it you're not going?\nI estimate the trip will take about ten minutes."
+  },
+  {
+    "label": "True",
+    "sentence": "word: run\nHis daily run keeps him fit.\nHe broke into a run."
+  },
+  {
+    "label": "True",
+    "sentence": "word: trombone\nThis trombone is very expensive.\nJim plays the trombone very well."
+  },
+  {
+    "label": "False",
+    "sentence": "word: run\nI'm not ready to run a marathon.\nLet the dogs run free."
+  },
+  {
+    "label": "False",
+    "sentence": "word: register\nHer surprise did not register.\nRegister for an election."
+  },
+  {
+    "label": "True",
+    "sentence": "word: year\nIn the year 1920.\nA normal year has 365 full days, but there are 366 days in a leap year."
+  },
+  {
+    "label": "True",
+    "sentence": "word: line\nPlease speak up, the line is very faint.\nI tried to make a call, but the line was dead."
+  },
+  {
+    "label": "True",
+    "sentence": "word: unravel\nCan you unravel the mystery?\nMother couldn't unravel the ball of wool after the cat had played with it."
+  },
+  {
+    "label": "True",
+    "sentence": "word: stress\n\"He presided over the economy during the period of the greatest stress and danger\" -- R.J.Samuelson.\nShe endured the stresses and strains of life."
+  },
+  {
+    "label": "False",
+    "sentence": "word: provide\nDon't bother bringing equipment, as we will provide it.\nThis procedure provides for lots of leeway."
+  },
+  {
+    "label": "False",
+    "sentence": "word: form\nHis resentment took the form of extreme hostility.\nThe composition presents problems for students of musical form."
+  },
+  {
+    "label": "False",
+    "sentence": "word: count\nCan you count the books on your shelf?\nI can count my colleagues in the opposition."
+  },
+  {
+    "label": "False",
+    "sentence": "word: run\nRun rogue.\nRun to the store!"
+  },
+  {
+    "label": "True",
+    "sentence": "word: electrify\nTo electrify a limb, or the body.\nElectrify an appliance."
+  },
+  {
+    "label": "True",
+    "sentence": "word: focus\nPlease focus on your studies and not on your hobbies.\nWe focused on it."
+  },
+  {
+    "label": "True",
+    "sentence": "word: crack\nCrack a joke.\nThe performance was fine until he cracked that dead baby joke."
+  },
+  {
+    "label": "False",
+    "sentence": "word: light\nIt brought the scandal to light.\nHe could paint the lightest light and the darkest dark."
+  },
+  {
+    "label": "True",
+    "sentence": "word: pull\nPull the string gently.\nPull the trigger of the gun."
+  },
+  {
+    "label": "False",
+    "sentence": "word: strike\nStrike a bargain.\nStrike fire from the flintstone."
+  },
+  {
+    "label": "True",
+    "sentence": "word: air\nAn air of mystery.\nThe house had a neglected air."
+  },
+  {
+    "label": "True",
+    "sentence": "word: finish\nThe car's finish was so shiny and new.\nThe boat had a metallic finish."
+  },
+  {
+    "label": "True",
+    "sentence": "word: apparition\nThe sudden apparition of the Spaniards. -- William H. Prescott.\nThe apparition of Lawyer Clippurse occasioned much speculation in that portion of the world. -- Sir W. Scott."
+  },
+  {
+    "label": "True",
+    "sentence": "word: turn\nThe alchemists tried to turn lead into gold.\nThe princess turned the frog into a prince by kissing him."
+  },
+  {
+    "label": "False",
+    "sentence": "word: life\nHe wanted to live his own life without interference from others.\nShe's my love, my life."
+  },
+  {
+    "label": "True",
+    "sentence": "word: scale\nThere are some who question the scale of our ambitions.\nThe scale of the map."
+  },
+  {
+    "label": "False",
+    "sentence": "word: give\nGive priority to.\nThe French doors give onto a terrace."
+  },
+  {
+    "label": "True",
+    "sentence": "word: accept\nThe Boy Scouts were going to accept him as a member.\nAccept students for graduate study."
+  },
+  {
+    "label": "True",
+    "sentence": "word: night\nIt vanished into the night.\nThe cat disappeared into the night."
+  },
+  {
+    "label": "False",
+    "sentence": "word: product\nThey improve their product every year.\nThe product of 2 and 3 is 6."
+  },
+  {
+    "label": "True",
+    "sentence": "word: meeting\nThey came together in a chance meeting on the way home from work.\nNext year the meeting will be in Chicago."
+  },
+  {
+    "label": "False",
+    "sentence": "word: position\nAtheists do not enjoy a favorable position in American life.\nMoved from third to fifth position."
+  },
+  {
+    "label": "True",
+    "sentence": "word: year\nThis Chinese year is the year of the Rooster.\nShe is 4 years old."
+  },
+  {
+    "label": "True",
+    "sentence": "word: apply\nI apply this rule to get good results.\nApply a magnetic field here."
+  },
+  {
+    "label": "True",
+    "sentence": "word: game\nYou need four people to play this game.\nGames in the classroom can make learning fun."
+  },
+  {
+    "label": "False",
+    "sentence": "word: unit\nThe dollar is the United States unit of currency.\nThe word is a basic linguistic unit."
+  },
+  {
+    "label": "False",
+    "sentence": "word: raise\nRaise a mutiny.\nRaise a family."
+  },
+  {
+    "label": "True",
+    "sentence": "word: work\nCan you work an electric drill?\nThis pilot works the controls."
+  },
+  {
+    "label": "False",
+    "sentence": "word: kill\nKill the engine.\nShe was killed in the collision of three cars."
+  },
+  {
+    "label": "True",
+    "sentence": "word: cut\nCut a movie scene.\nCut the engines when the plane comes to a halt!"
+  },
+  {
+    "label": "True",
+    "sentence": "word: make\nYou have to spend money to make money!\nHe made twenty bucks playing poker last night."
+  },
+  {
+    "label": "False",
+    "sentence": "word: book\nHe bought a book of stamps.\nThey run things by the book around here."
+  },
+  {
+    "label": "True",
+    "sentence": "word: hit\nThe thermometer hit 100 degrees.\nI hit the jackpot."
+  },
+  {
+    "label": "True",
+    "sentence": "word: uncork\nUncork the French wine.\nUncork a bottle of wine."
+  },
+  {
+    "label": "False",
+    "sentence": "word: opening\nThere is an opening in the sales department.\nHe slipped through an opening in the crowd."
+  },
+  {
+    "label": "True",
+    "sentence": "word: image\nThe image of f(x) = x^2 is the set of all non-negative real numbers if the domain of the function is the set of all real numbers.\nThe number 6 is the image of 3 under f that is defined as f(x) = 2*x."
+  },
+  {
+    "label": "False",
+    "sentence": "word: source\nPittsburgh is the source of the Ohio River.\nHe spent hours looking for the source of that quotation."
+  },
+  {
+    "label": "False",
+    "sentence": "word: appointment\nI'm leaving work early because I have a doctor's appointment.\nHe erred by the appointment of unsuitable men."
+  },
+  {
+    "label": "True",
+    "sentence": "word: root\nThe love of money is the root of all evil.\nCommunism's Russian root."
+  },
+  {
+    "label": "False",
+    "sentence": "word: beat\nThe boat beat in the strong wind.\nThe sun was beating down on us."
+  },
+  {
+    "label": "True",
+    "sentence": "word: empathize\nYou really have to empathize with them.\nYou've really got to empathize with what they want."
+  },
+  {
+    "label": "False",
+    "sentence": "word: beat\nThe grandfather clock beat midnight.\nBeat swords into ploughshares."
+  },
+  {
+    "label": "True",
+    "sentence": "word: be\nI shall be writing to you soon.\nI have been to Spain many times."
+  },
+  {
+    "label": "True",
+    "sentence": "word: one\nDriver, noun: one who drives.\nThis is the one I ordered."
+  },
+  {
+    "label": "False",
+    "sentence": "word: blow\nBlow on the soup to cool it down.\nThe fuse blew."
+  },
+  {
+    "label": "False",
+    "sentence": "word: facility\nHe was famous for his facility as an archer.\nA cell phone with internet facility."
+  },
+  {
+    "label": "False",
+    "sentence": "word: sell\nThe French try to sell us their image as great lovers.\nThe brothers sell shoes."
+  },
+  {
+    "label": "True",
+    "sentence": "word: masturbate\nI find this difficult to masturbate to.\nThe old man wanted to be masturbated by the prostitute."
+  },
+  {
+    "label": "False",
+    "sentence": "word: polish\nPolish your social manners.\nHe polished up the chrome until it gleamed."
+  },
+  {
+    "label": "True",
+    "sentence": "word: question\nThe question of seniority will be discussed at the meeting.\nThere was a question of which material to use."
+  },
+  {
+    "label": "True",
+    "sentence": "word: field\nGold field.\nHe longed for the fields of his youth."
+  },
+  {
+    "label": "False",
+    "sentence": "word: grain\nA grain of sand.\nSaw the board across the grain."
+  },
+  {
+    "label": "False",
+    "sentence": "word: face\nThey climbed the north face of the mountain.\nThe face of the city is changing."
+  },
+  {
+    "label": "False",
+    "sentence": "word: raise\nTo raise a wall, or a heap of stones.\nRaise a family."
+  },
+  {
+    "label": "False",
+    "sentence": "word: break\nBreak into tears.\nThe blade broke her skin."
+  },
+  {
+    "label": "True",
+    "sentence": "word: answer\nAnswer the riddle.\nAnswer a question."
+  },
+  {
+    "label": "True",
+    "sentence": "word: carry\nThese bonds carry warrants.\nThe restaurant carries an unusual name."
+  },
+  {
+    "label": "True",
+    "sentence": "word: shortness\nThe shortness of a stubby pencil.\nThe patient's shortness of breath."
+  },
+  {
+    "label": "True",
+    "sentence": "word: trust\nWe can not trust anyone who deceives us.\nWe can trust in God."
+  },
+  {
+    "label": "False",
+    "sentence": "word: turn\nTurn a key.\nTurn the clay on the wheel."
+  },
+  {
+    "label": "True",
+    "sentence": "word: fear\nI fear the worst will happen.\nI fear for their safety."
+  },
+  {
+    "label": "True",
+    "sentence": "word: wash\nThe car is so dirty, we need to wash it.\nThe nurse washed away the blood."
+  },
+  {
+    "label": "False",
+    "sentence": "word: choke\nChoke a carburetor.\nThe pirate choked the sailor to death."
+  },
+  {
+    "label": "False",
+    "sentence": "word: give\nThe French doors give onto a terrace.\nThe wall gave in."
+  },
+  {
+    "label": "False",
+    "sentence": "word: catch\nDid you catch a cold?\nThe fashion did not catch."
+  },
+  {
+    "label": "True",
+    "sentence": "word: stabilization\nWage stabilization is necessary for industrial peace.\nStabilization means that the product can be handled under atmospheric conditions."
+  },
+  {
+    "label": "True",
+    "sentence": "word: mine\nThis diamond comes from a mine in South Africa.\nHe came out of the coal mine with a face covered in black."
+  },
+  {
+    "label": "False",
+    "sentence": "word: beat\nBeat a path through the forest.\nBeat the rhythm."
+  },
+  {
+    "label": "True",
+    "sentence": "word: luck\nGilbert had some bad luck yesterday -- he got pick-pocketed and lost fifty dollars.\nI couldn't believe my luck when I found a fifty dollar bill on the street."
+  },
+  {
+    "label": "True",
+    "sentence": "word: soften\nThis liquid will soften your laundry.\nSoften the butter before beating in the sugar."
+  },
+  {
+    "label": "False",
+    "sentence": "word: fall\nFall prey to an imposter.\nThe line of men fall forward."
+  },
+  {
+    "label": "False",
+    "sentence": "word: bed\nSlices of hard-boiled egg on a bed of spinach.\nHe worked in the coal beds."
+  },
+  {
+    "label": "False",
+    "sentence": "word: rest\nThe ocean was finally at rest.\nHe threw away the rest."
+  },
+  {
+    "label": "False",
+    "sentence": "word: fill\nFill a container.\nThe liquid fills the container."
+  },
+  {
+    "label": "False",
+    "sentence": "word: train\nThey joined the wagon train for safety.\nThe bride's train was carried by her two young nephews."
+  },
+  {
+    "label": "False",
+    "sentence": "word: path\nThe path of a meteor, of a caravan, or of a storm.\nGenius usually follows a revolutionary path."
+  },
+  {
+    "label": "False",
+    "sentence": "word: answer\nA few words would answer.\nShe answered the door."
+  },
+  {
+    "label": "True",
+    "sentence": "word: carry\nTo carry well, i.e. to hold the head high, with arching neck.\nHe carried himself upright."
+  },
+  {
+    "label": "True",
+    "sentence": "word: session\nA filming session.\nA gossip session."
+  },
+  {
+    "label": "False",
+    "sentence": "word: gather\nGather the close family members.\nGather some stones."
+  },
+  {
+    "label": "True",
+    "sentence": "word: pull\nThe spaceship came under the pull of the gas giant.\nThe pull of the current."
+  },
+  {
+    "label": "True",
+    "sentence": "word: grow\nThat acorn will grow into an oak tree.\nAn oak tree will grow from that acorn."
+  },
+  {
+    "label": "True",
+    "sentence": "word: catch\nCatch one's breath.\nI caught some Z's on the train."
+  },
+  {
+    "label": "False",
+    "sentence": "word: shock\nHe had an unruly shock of black hair.\nThe train hit the buffers with a great shock."
+  },
+  {
+    "label": "False",
+    "sentence": "word: admit\nThe French doors admit onto the yard.\nA ticket admits one into a playhouse."
+  },
+  {
+    "label": "False",
+    "sentence": "word: score\nSettling a score.\nThe player with the highest score is the winner."
+  },
+  {
+    "label": "True",
+    "sentence": "word: time\nHe had a time holding back the tears.\nThey had a good time together."
+  },
+  {
+    "label": "False",
+    "sentence": "word: run\nRun amok.\nHe is running the Marathon this year."
+  },
+  {
+    "label": "True",
+    "sentence": "word: origin\nMineral origin.\nVegetable origins."
+  },
+  {
+    "label": "True",
+    "sentence": "word: rub\nRub oil into her skin.\nI rubbed my hands together for warmth."
+  },
+  {
+    "label": "False",
+    "sentence": "word: mixture\nHe drank a mixture of beer and lemonade.\nA gradual mixture of cultures."
+  },
+  {
+    "label": "False",
+    "sentence": "word: work\nWork stone into tools.\nHow does your idea work in practice?"
+  },
+  {
+    "label": "False",
+    "sentence": "word: bank\nThe bank is on the corner of Nassau and Witherspoon.\nHe operated a bank of switches."
+  },
+  {
+    "label": "True",
+    "sentence": "word: chain\nThe third link of the silver chain needs to be resoldered.\nThe chain of command."
+  },
+  {
+    "label": "False",
+    "sentence": "word: trace\nTrace a design.\nThe women traced the pasture."
+  },
+  {
+    "label": "False",
+    "sentence": "word: rest\nI'll take the rest.\nPeople actually accomplish more when they take time for short rests."
+  },
+  {
+    "label": "False",
+    "sentence": "word: cast\nWho cast this beautiful movie?\nCast a vote."
+  },
+  {
+    "label": "False",
+    "sentence": "word: rack\nRack one's brains.\nRack a camera."
+  },
+  {
+    "label": "False",
+    "sentence": "word: catch\nDid you catch the thief?\nHe caught her staring out the window."
+  }
+]
