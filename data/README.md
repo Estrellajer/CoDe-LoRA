@@ -1,8 +1,7 @@
 # Data shipped with the repository
 
-**Licences:** the datasets have their own licences, several of them non-commercial or research-only. Read
-[../DATA_LICENSES.md](../DATA_LICENSES.md) before using or redistributing anything in this directory; the Apache-2.0 licence
-of the code does not apply to it. Files are byte-for-byte the processed files used for the paper's runs.
+**Licences:** the datasets keep the licences of their sources, see [../DATA_LICENSES.md](../DATA_LICENSES.md); the Apache-2.0 licence
+of the code does not apply to this directory. Files are byte-for-byte the processed files used for the paper's runs.
 
 ## `CL_Benchmark_repaired/`
 

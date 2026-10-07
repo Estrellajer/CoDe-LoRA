@@ -61,8 +61,8 @@ The data is part of the repository, so nothing has to be downloaded or prepared:
 
 The data root is `<repo>/data` unless `CODELORA_DATA` / `CODELORA_TRACE` is set. The classification benchmark replaces the
 original dev split (which equals the test split) by a train-derived one; the test split is untouched
-([data/README.md](data/README.md), [docs/DATA.md](docs/DATA.md)). **The datasets have their own licences, some
-non-commercial: read [DATA_LICENSES.md](DATA_LICENSES.md) before using or redistributing them.**
+([data/README.md](data/README.md), [docs/DATA.md](docs/DATA.md)). The datasets keep the licences of their
+sources, see [DATA_LICENSES.md](DATA_LICENSES.md).
 
 ## Models
 
